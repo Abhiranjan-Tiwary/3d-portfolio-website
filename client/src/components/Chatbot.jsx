@@ -1,4 +1,4 @@
-import React, { useState, useRef, useEffect } from "react";
+import React, { useCallback, useEffect, useRef, useState } from "react";
 import axios from "axios";
 
 function Chatbot() {
@@ -14,99 +14,177 @@ function Chatbot() {
 
   const messagesEndRef = useRef(null);
   const recognitionRef = useRef(null);
+  const sendMessageRef = useRef(null);
+  const voiceSendTimeoutRef = useRef(null);
+  const isSendingRef = useRef(false);
+  const messagesRef = useRef(messages);
+  const inputRef = useRef(input);
+  const interviewModeRef = useRef(interviewMode);
 
-  // 🔊 STOP SPEECH
-  const stopSpeaking = () => {
-    window.speechSynthesis.cancel();
-  };
+  useEffect(() => {
+    messagesRef.current = messages;
+  }, [messages]);
 
-  // 🔊 SPEAK
-  const speak = (text) => {
-    if (!voiceOn) return;
-    stopSpeaking();
-    const speech = new SpeechSynthesisUtterance(text);
-    speech.lang = "en-US";
-    window.speechSynthesis.speak(speech);
-  };
+  useEffect(() => {
+    inputRef.current = input;
+  }, [input]);
 
-  // 🎙️ MIC SETUP
+  useEffect(() => {
+    interviewModeRef.current = interviewMode;
+  }, [interviewMode]);
+
+  const stopSpeaking = useCallback(() => {
+    if ("speechSynthesis" in window) {
+      window.speechSynthesis.cancel();
+    }
+  }, []);
+
+  const speak = useCallback(
+    (text) => {
+      if (!voiceOn || !("speechSynthesis" in window)) {
+        return;
+      }
+
+      stopSpeaking();
+      const speech = new SpeechSynthesisUtterance(text);
+      speech.lang = "en-US";
+      window.speechSynthesis.speak(speech);
+    },
+    [stopSpeaking, voiceOn]
+  );
+
+  const typeMessage = useCallback(
+    async (text, baseMessages) => {
+      let current = "";
+
+      for (let i = 0; i < text.length; i += 1) {
+        current += text[i];
+        const typedMessages = [...baseMessages, { role: "bot", text: current }];
+        messagesRef.current = typedMessages;
+        setMessages(typedMessages);
+        await new Promise((resolve) => setTimeout(resolve, 5));
+      }
+
+      speak(text);
+    },
+    [speak]
+  );
+
+  const sendMessage = useCallback(
+    async (voiceText = null) => {
+      const finalText = (voiceText ?? inputRef.current).trim();
+
+      if (!finalText || isSendingRef.current) {
+        return;
+      }
+
+      isSendingRef.current = true;
+      stopSpeaking();
+
+      const userMsg = { role: "user", text: finalText };
+      const newMessages = [...messagesRef.current, userMsg];
+
+      messagesRef.current = newMessages;
+      inputRef.current = "";
+      setMessages(newMessages);
+      setInput("");
+      setTyping(true);
+
+      try {
+        const res = await axios.post("http://localhost:5000/api/chat", {
+          message: finalText,
+          mode: interviewModeRef.current ? "interview" : "normal"
+        });
+
+        const botReply =
+          res?.data?.reply ||
+          "I'm having trouble answering that right now. Please try again in a moment.";
+
+        setTyping(false);
+        await typeMessage(botReply, newMessages);
+      } catch {
+        const fallbackReply =
+          "I'm having trouble reaching the assistant right now. Please try again in a moment or use the contact form.";
+
+        setTyping(false);
+        await typeMessage(fallbackReply, newMessages);
+      } finally {
+        isSendingRef.current = false;
+      }
+    },
+    [stopSpeaking, typeMessage]
+  );
+
+  useEffect(() => {
+    sendMessageRef.current = sendMessage;
+  }, [sendMessage]);
+
   useEffect(() => {
     const SpeechRecognition =
       window.SpeechRecognition || window.webkitSpeechRecognition;
 
-    if (!SpeechRecognition) return;
+    if (!SpeechRecognition) {
+      return undefined;
+    }
 
     const rec = new SpeechRecognition();
     rec.lang = "en-US";
 
     rec.onstart = () => setListening(true);
     rec.onend = () => setListening(false);
-
     rec.onresult = (event) => {
       const text = event.results[0][0].transcript;
+
+      inputRef.current = text;
       setInput(text);
 
-      setTimeout(() => {
-        sendMessage(text);
+      if (voiceSendTimeoutRef.current) {
+        window.clearTimeout(voiceSendTimeoutRef.current);
+      }
+
+      voiceSendTimeoutRef.current = window.setTimeout(() => {
+        sendMessageRef.current?.(text);
       }, 300);
     };
 
     recognitionRef.current = rec;
+
+    return () => {
+      if (voiceSendTimeoutRef.current) {
+        window.clearTimeout(voiceSendTimeoutRef.current);
+      }
+
+      rec.onstart = null;
+      rec.onend = null;
+      rec.onresult = null;
+      rec.abort();
+      recognitionRef.current = null;
+    };
   }, []);
 
+  useEffect(() => {
+    return () => {
+      stopSpeaking();
+    };
+  }, [stopSpeaking]);
+
   const startListening = () => {
-    if (!recognitionRef.current) return;
+    if (!recognitionRef.current) {
+      return;
+    }
+
     try {
       recognitionRef.current.abort();
       recognitionRef.current.start();
-    } catch {}
-  };
-
-  // ⚡ TYPE EFFECT
-  const typeMessage = async (text, baseMessages) => {
-    let current = "";
-
-    for (let i = 0; i < text.length; i++) {
-      current += text[i];
-      setMessages([...baseMessages, { role: "bot", text: current }]);
-      await new Promise((res) => setTimeout(res, 5));
-    }
-
-    speak(text);
-  };
-
-  // 💬 SEND MESSAGE
-  const sendMessage = async (voiceText = null) => {
-    const finalText = voiceText || input;
-    if (!finalText.trim()) return;
-
-    stopSpeaking();
-
-    const userMsg = { role: "user", text: finalText };
-    const newMessages = [...messages, userMsg];
-
-    setMessages(newMessages);
-    setInput("");
-    setTyping(true);
-
-    try {
-      const res = await axios.post("http://localhost:5000/api/chat", {
-        message: finalText,
-        mode: interviewMode ? "interview" : "normal"
-      });
-
-      let botReply = res?.data?.reply || "⚠️ AI not responding";
-
-      setTyping(false);
-      await typeMessage(botReply, newMessages);
-
     } catch {
-      setTyping(false);
+      // Ignore browser speech-recognition start conflicts.
     }
   };
 
-  const handleKeyDown = (e) => {
-    if (e.key === "Enter") sendMessage();
+  const handleKeyDown = (event) => {
+    if (event.key === "Enter") {
+      sendMessage();
+    }
   };
 
   useEffect(() => {
@@ -115,8 +193,6 @@ function Chatbot() {
 
   return (
     <div style={{ position: "fixed", bottom: "20px", right: "20px", zIndex: 9999 }}>
-      
-      {/* FLOAT BUTTON */}
       <button
         onClick={() => setOpen(!open)}
         style={{
@@ -147,13 +223,10 @@ function Chatbot() {
             color: "white"
           }}
         >
-          {/* HEADER */}
           <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
             <b>🤖 Jarvis</b>
 
             <div style={{ display: "flex", gap: "6px" }}>
-              
-              {/* 💼 Interview Toggle */}
               <button
                 onClick={() => setInterviewMode(!interviewMode)}
                 style={{
@@ -168,10 +241,11 @@ function Chatbot() {
                 💼 {interviewMode ? "ON" : "OFF"}
               </button>
 
-              {/* 🔊 Voice */}
               <button
                 onClick={() => {
-                  if (voiceOn) stopSpeaking();
+                  if (voiceOn) {
+                    stopSpeaking();
+                  }
                   setVoiceOn(!voiceOn);
                 }}
                 style={{
@@ -186,10 +260,9 @@ function Chatbot() {
             </div>
           </div>
 
-          {/* CHAT */}
           <div style={{ flex: 1, overflowY: "auto", marginTop: "10px" }}>
-            {messages.map((msg, i) => (
-              <div key={i} style={{ textAlign: msg.role === "user" ? "right" : "left" }}>
+            {messages.map((msg, index) => (
+              <div key={index} style={{ textAlign: msg.role === "user" ? "right" : "left" }}>
                 <span
                   style={{
                     display: "inline-block",
@@ -211,17 +284,18 @@ function Chatbot() {
             <div ref={messagesEndRef} />
           </div>
 
-          {/* INPUT */}
-          <div style={{
-            display: "flex",
-            gap: "6px",
-            background: "rgba(255,255,255,0.1)",
-            padding: "6px",
-            borderRadius: "12px"
-          }}>
+          <div
+            style={{
+              display: "flex",
+              gap: "6px",
+              background: "rgba(255,255,255,0.1)",
+              padding: "6px",
+              borderRadius: "12px"
+            }}
+          >
             <input
               value={input}
-              onChange={(e) => setInput(e.target.value)}
+              onChange={(event) => setInput(event.target.value)}
               onKeyDown={handleKeyDown}
               placeholder="Type or speak..."
               style={{
