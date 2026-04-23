@@ -90,11 +90,15 @@ function Chatbot() {
       setInput("");
       setTyping(true);
 
-      try {
-        const res = await axios.post("http://localhost:5000/api/chat", {
-          message: finalText,
-          mode: interviewModeRef.current ? "interview" : "normal"
-        });
+     const API_BASE_URL =
+  process.env.REACT_APP_API_BASE_URL || "http://localhost:5000";
+
+   try {
+     const res = await axios.post(`${API_BASE_URL}/api/chat`, {
+    message: finalText,
+    mode: interviewModeRef.current ? "interview" : "normal"
+     });
+
 
         const botReply =
           res?.data?.reply ||
