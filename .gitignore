@@ -38,3 +38,4 @@ Thumbs.db
 .env.development.local
 .env.production.local
 GENERATE_SOURCEMAP=false
+client/build
