@@ -1,0 +1,1454 @@
+[
+   {
+    "keywords": ["introduce abhiranjan"],
+    "answer": "Abhiranjan is a passionate Full Stack Developer skilled in MERN stack and AI, with experience building real-world applications like chatbots and inventory systems."
+  },
+  {
+    "keywords": ["core skills"],
+    "answer": "His core skills include React, Node.js, MongoDB, Express, and AI integration."
+  },
+  {
+    "keywords": ["technologies"],
+    "answer": "He uses MERN stack, Python for data science, and AI tools like Gemini API."
+  },
+  {
+    "keywords": ["frontend or backend"],
+    "answer": "He is a full stack developer with strengths in both frontend and backend."
+  },
+  {
+    "keywords": ["experience level"],
+    "answer": "He is an entry-level developer with strong hands-on project experience."
+  },
+  {
+    "keywords": ["different from others"],
+    "answer": "He combines MERN with AI and focuses on solving real-world problems instead of just theoretical coding."
+  },
+  {
+    "keywords": ["strengths"],
+    "answer": "Problem-solving, fast learning, clean coding, and real-world project experience."
+  },
+  {
+    "keywords": ["weakness"],
+    "answer": "Currently improving advanced system design and scalable backend architecture."
+  },
+  {
+    "keywords": ["why should we hire you"],
+    "answer": "He combines MERN and AI skills with real-world projects and delivers scalable solutions efficiently."
+  },
+
+  {
+    "keywords": ["chatbot project"],
+    "answer": "His chatbot uses Node.js backend, React frontend, Gemini API for AI, and a fallback local knowledge system."
+  },
+  {
+    "keywords": ["tech stack projects"],
+    "answer": "Projects use MERN stack along with AI APIs and cloud-based deployment."
+  },
+  {
+    "keywords": ["inventory system"],
+    "answer": "Inventory system tracks stock, reduces manual work, and helps businesses manage products efficiently."
+  },
+  {
+    "keywords": ["real world problems"],
+    "answer": "His projects solve automation, business tracking, and user interaction challenges."
+  },
+  {
+    "keywords": ["impactful project"],
+    "answer": "AI chatbot is one of his most impactful projects due to intelligent interaction and fallback system."
+  },
+  {
+    "keywords": ["chatbot difference"],
+    "answer": "His chatbot uses AI, memory, and fallback logic unlike rule-based chatbots."
+  },
+  {
+    "keywords": ["ai projects"],
+    "answer": "He has built AI chatbot and worked on intelligent automation systems."
+  },
+  {
+    "keywords": ["project example"],
+    "answer": "Inventory system helps small businesses manage stock digitally and reduce errors."
+  },
+  {
+    "keywords": ["scalable projects"],
+    "answer": "He designs projects keeping scalability and performance in mind."
+  },
+  {
+    "keywords": ["project challenges"],
+    "answer": "Handled API failures, UI bugs, and optimized performance during development."
+  },
+
+  {
+    "keywords": ["scalable backend"],
+    "answer": "Yes, he can design scalable backend systems using Node.js and proper architecture."
+  },
+  {
+    "keywords": ["authentication"],
+    "answer": "Uses JWT and Firebase Authentication for secure login systems."
+  },
+  {
+    "keywords": ["jwt"],
+    "answer": "JWT is used for stateless authentication between client and server."
+  },
+  {
+    "keywords": ["api design"],
+    "answer": "Designs REST APIs with clean structure, validation, and error handling."
+  },
+  {
+    "keywords": ["backend architecture"],
+    "answer": "Uses modular architecture with controllers, services, and routes."
+  },
+  {
+    "keywords": ["microservices"],
+    "answer": "Understands microservices concept for scalable applications."
+  },
+  {
+    "keywords": ["error handling"],
+    "answer": "Uses try-catch, retry logic, and fallback systems."
+  },
+  {
+    "keywords": ["database design"],
+    "answer": "Uses MongoDB with indexing and efficient schema design."
+  },
+  {
+    "keywords": ["performance optimization"],
+    "answer": "Improves performance using caching, async operations, and efficient queries."
+  },
+  {
+    "keywords": ["rest vs graphql"],
+    "answer": "REST is simple and widely used, GraphQL provides flexible data fetching."
+  },
+
+  {
+    "keywords": ["ai strength"],
+    "answer": "Strong in AI integration using APIs and building intelligent systems."
+  },
+  {
+    "keywords": ["ai tools"],
+    "answer": "Uses Gemini API and Python-based data tools."
+  },
+  {
+    "keywords": ["prompt engineering"],
+    "answer": "Designing structured prompts to get accurate AI responses."
+  },
+  {
+    "keywords": ["rag"],
+    "answer": "RAG combines external data with AI to improve responses."
+  },
+  {
+    "keywords": ["ai vs ml"],
+    "answer": "AI is broader, ML is a subset focused on learning from data."
+  },
+  {
+    "keywords": ["overfitting"],
+    "answer": "Model performs well on training data but poorly on new data."
+  },
+  {
+    "keywords": ["chatbot working"],
+    "answer": "Chatbot uses frontend UI, backend API, AI integration, and fallback system."
+  },
+  {
+    "keywords": ["vector database"],
+    "answer": "Used for semantic search using embeddings."
+  },
+  {
+    "keywords": ["intelligent system"],
+    "answer": "Yes, he builds AI-powered intelligent applications."
+  },
+  {
+    "keywords": ["context handling"],
+    "answer": "Uses chat memory to maintain conversation context."
+  },
+
+  {
+    "keywords": ["teamwork"],
+    "answer": "Collaborative, communicative, and proactive in teams."
+  },
+  {
+    "keywords": ["pressure"],
+    "answer": "Handles pressure by breaking problems into manageable tasks."
+  },
+  {
+    "keywords": ["fast learner"],
+    "answer": "Yes, he adapts quickly and learns new tech fast."
+  },
+  {
+    "keywords": ["career goal"],
+    "answer": "To build impactful AI-based applications."
+  },
+  {
+    "keywords": ["problem solving"],
+    "answer": "Uses logical and analytical approach to solve problems."
+  },
+  {
+    "keywords": ["personality"],
+    "answer": "Focused, motivated, and team-friendly."
+  },
+  {
+    "keywords": ["leadership"],
+    "answer": "Has leadership experience in tech communities."
+  },
+  {
+    "keywords": ["deadline"],
+    "answer": "Manages time effectively to meet deadlines."
+  },
+  {
+    "keywords": ["trust"],
+    "answer": "Reliable and consistent in delivering work."
+  },
+  {
+    "keywords": ["hire decision"],
+    "answer": "Yes, he is a strong candidate with practical experience."
+  },
+
+  {
+    "keywords": ["not in resume"],
+    "answer": "Even if not mentioned, he can learn quickly and adapt to new requirements."
+  },
+  {
+    "keywords": ["why not hire"],
+    "answer": "As an entry-level developer, he is still learning advanced system design but improving continuously."
+  },
+  {
+    "keywords": ["compare developers"],
+    "answer": "He stands out due to MERN + AI combination and real-world projects."
+  },
+  {
+    "keywords": ["biggest weakness"],
+    "answer": "Currently improving large-scale system design skills."
+  },
+  {
+    "keywords": ["real company"],
+    "answer": "Yes, he can work effectively in real-world environments."
+  },
+  {
+    "keywords": ["scale 1m users"],
+    "answer": "Uses load balancing, caching, and scalable architecture."
+  },
+  {
+    "keywords": ["design chat system"],
+    "answer": "Uses WebSockets, database, and real-time messaging."
+  },
+  {
+    "keywords": ["design inventory"],
+    "answer": "Uses database tracking, APIs, and UI dashboard."
+  },
+  {
+    "keywords": ["api fails"],
+    "answer": "Fallback system ensures response even if API fails."
+  },
+  {
+    "keywords": ["handle failures"],
+    "answer": "Uses retry logic and local fallback system."
+  },
+
+  {
+    "keywords": ["you are selected"],
+    "answer": "Thank you! I’m excited about this opportunity and ready to contribute my skills and grow with the team."
+  },
+  {
+    "keywords": ["thank you"],
+    "answer": "You're welcome! Let me know if you’d like to explore more about Abhiranjan's skills or projects."
+  },
+  {
+  "keywords": ["why hire", "why should we hire you", "hire him"],
+  "answer": "Abhiranjan brings a strong blend of MERN stack expertise and practical AI integration. He has built real-world, scalable projects like chatbots and inventory systems, demonstrating problem-solving ability, clean architecture, and adaptability. He learns fast, delivers efficiently, and focuses on building impactful solutions—not just code"
+},
+ {
+    "keywords": ["strengths"],
+    "answer": "His strengths include problem-solving, fast learning ability, clean coding practices, and building real-world scalable applications using MERN and AI."
+  },
+  {
+    "keywords": ["weakness", "weaknesses"],
+    "answer": "He is currently improving advanced system design and large-scale backend architecture, and actively learning through real-world projects."
+  },
+  {
+    "keywords": ["experience"],
+    "answer": "He is an entry-level developer with strong hands-on project experience including AI chatbot, inventory system, and full-stack MERN applications."
+  },
+  {
+    "keywords": ["backend developer"],
+    "answer": "As a backend developer, he can design APIs, manage databases, implement authentication, and build scalable server-side logic."
+  },
+  {
+    "keywords": ["teamwork"],
+    "answer": "He works collaboratively, communicates clearly, and actively contributes ideas while respecting team workflows."
+  },
+  {
+    "keywords": ["pressure"],
+    "answer": "He handles pressure by breaking problems into smaller tasks and focusing on solutions step by step."
+  },
+  {
+    "keywords": ["problem solving"],
+    "answer": "He approaches problems analytically, identifies root causes, and builds efficient and scalable solutions."
+  },
+  {
+    "keywords": ["career goal"],
+    "answer": "His goal is to build impactful AI-powered applications and grow into a highly skilled full-stack engineer."
+  },
+  {
+    "keywords": ["difference from others"],
+    "answer": "He stands out by combining MERN stack with AI, focusing on real-world problem solving rather than just theoretical knowledge."
+  },
+  {
+    "keywords": ["communication"],
+    "answer": "He communicates technical ideas clearly and works effectively in team environments."
+  },
+  {
+    "keywords": ["leadership"],
+    "answer": "He has leadership experience through tech communities and organizing events, showing initiative and responsibility."
+  },
+  {
+    "keywords": ["adaptability"],
+    "answer": "He adapts quickly to new technologies and continuously upgrades his skills."
+  },
+  {
+    "keywords": ["project experience"],
+    "answer": "He has built AI chatbot, inventory management system, and event management platform with real-world use cases."
+  },
+  {
+    "keywords": ["real world impact"],
+    "answer": "His projects focus on solving practical problems like automation, inventory tracking, and user interaction systems."
+  },
+  {
+  "keywords": ["who is abhiranjan", "about abhiranjan", "introduce abhiranjan"],
+  "answer": "Abhiranjan is a Full Stack Developer specializing in MERN stack and AI-powered applications. He builds scalable real-world solutions like chatbots, inventory systems, and event platforms."
+},
+  {
+    "keywords": ["introduction", "about abhiranjan"],
+    "answer": "Abhiranjan is a Full Stack Developer specializing in MERN stack and AI-powered applications, focused on building scalable, real-world solutions."
+  },
+  {
+    "keywords": ["who are you"],
+    "answer": "I'm Jarvis, AI assistant representing Abhiranjan. I help you explore his skills, projects, and experience."
+  },
+  {
+    "keywords": ["skills"],
+    "answer": "He works with React, Node.js, MongoDB, Express, AI, and Data Science tools like Python and Pandas."
+  },
+  {
+    "keywords": ["frontend skills"],
+    "answer": "Strong in React, UI/UX, responsive design, and modern frontend architecture."
+  },
+  {
+    "keywords": ["backend skills"],
+    "answer": "Experienced in Node.js, Express, REST APIs, authentication systems, and database integration."
+  },
+  {
+    "keywords": ["database"],
+    "answer": "Uses MongoDB for scalable NoSQL database solutions."
+  },
+  {
+    "keywords": ["ai experience"],
+    "answer": "Built AI chatbot using Gemini API and worked on intelligent automation systems."
+  },
+  {
+    "keywords": ["data science"],
+    "answer": "Has experience in Python, Pandas, and data analysis for solving real-world problems."
+  },
+  {
+    "keywords": ["projects"],
+    "answer": "Key projects include AI Chatbot, Event Management System, and Inventory Management System."
+  },
+  {
+    "keywords": ["chatbot project"],
+    "answer": "AI chatbot built using Node.js and Gemini API with voice, memory, and smart responses."
+  },
+  {
+    "keywords": ["inventory system"],
+    "answer": "Helps businesses track stock, reduce manual errors, and improve efficiency."
+  },
+  {
+    "keywords": ["event system"],
+    "answer": "Manages event planning, scheduling, and user coordination."
+  },
+  {
+    "keywords": ["real world impact"],
+    "answer": "His projects solve real problems like automation, inventory tracking, and customer interaction."
+  },
+  {
+    "keywords": ["teamwork"],
+    "answer": "He is collaborative, communicates clearly, and contributes actively in team environments."
+  },
+  {
+    "keywords": ["leadership"],
+    "answer": "Has leadership experience as part of tech communities and organizing events."
+  },
+  {
+    "keywords": ["gdg"],
+    "answer": "Active member of Google Developer Groups, contributing to tech learning and community growth."
+  },
+  {
+    "keywords": ["internship"],
+    "answer": "Completed web development internship with hands-on experience in real projects."
+  },
+  {
+    "keywords": ["problem solving"],
+    "answer": "Strong analytical thinker who breaks down complex problems into scalable solutions."
+  },
+  {
+    "keywords": ["why hire"],
+    "answer": "He combines MERN + AI skills, builds real projects, and focuses on scalable solutions."
+  },
+  {
+    "keywords": ["strengths"],
+    "answer": "Quick learner, problem solver, and highly motivated developer."
+  },
+  {
+    "keywords": ["weakness"],
+    "answer": "Continuously improving system design and advanced backend scaling."
+  },
+  {
+    "keywords": ["learning"],
+    "answer": "Actively learning advanced AI integration and scalable architectures."
+  },
+  {
+    "keywords": ["backend developer"],
+    "answer": "Can build APIs, authentication, database systems, and scalable backend logic."
+  },
+  {
+    "keywords": ["mern"],
+    "answer": "Experienced in MongoDB, Express, React, and Node.js full stack development."
+  },
+  {
+    "keywords": ["cloud"],
+    "answer": "Has exposure to cloud concepts and serverless architecture."
+  },
+  {
+    "keywords": ["aws"],
+    "answer": "Understands AWS basics and serverless approaches."
+  },
+  {
+    "keywords": ["deployment"],
+    "answer": "Deploys projects using modern hosting platforms and APIs."
+  },
+  {
+    "keywords": ["api"],
+    "answer": "Builds and integrates REST APIs and third-party services like Gemini."
+  },
+  {
+    "keywords": ["communication"],
+    "answer": "Communicates ideas clearly and works well in collaborative environments."
+  },
+  {
+    "keywords": ["adaptability"],
+    "answer": "Quickly adapts to new technologies and frameworks."
+  },
+  {
+    "keywords": ["career goal"],
+    "answer": "To build impactful AI-powered applications and grow as a full-stack engineer."
+  },
+  {
+    "keywords": ["future"],
+    "answer": "Focused on AI + scalable web applications."
+  },
+  {
+    "keywords": ["projects detail"],
+    "answer": "Projects include real-world systems with frontend, backend, and database integration."
+  },
+  {
+    "keywords": ["github"],
+    "answer": "Actively shares projects and code on GitHub."
+  },
+  {
+    "keywords": ["linkedin"],
+    "answer": "Maintains professional presence sharing tech learning and projects."
+  },
+  {
+    "keywords": ["experience level"],
+    "answer": "Entry-level developer with strong practical project experience."
+  },
+  {
+    "keywords": ["coding"],
+    "answer": "Writes clean, maintainable, and scalable code."
+  },
+  {
+    "keywords": ["debugging"],
+    "answer": "Strong debugging and problem-solving ability."
+  },
+  {
+    "keywords": ["testing"],
+    "answer": "Understands importance of testing and validation."
+  },
+  {
+    "keywords": ["security"],
+    "answer": "Implements authentication and secure APIs."
+  },
+  {
+    "keywords": ["authentication"],
+    "answer": "Uses JWT and Firebase Auth for secure login systems."
+  },
+  {
+    "keywords": ["firebase"],
+    "answer": "Experience with Firebase authentication and database."
+  },
+  {
+    "keywords": ["full stack"],
+    "answer": "Capable of building complete applications from frontend to backend."
+  },
+  {
+    "keywords": ["scalability"],
+    "answer": "Designs systems keeping scalability in mind."
+  },
+  {
+    "keywords": ["design"],
+    "answer": "Focuses on clean UI and user-friendly experience."
+  },
+  {
+    "keywords": ["ui"],
+    "answer": "Builds responsive and modern UI using React."
+  },
+  {
+    "keywords": ["performance"],
+    "answer": "Optimizes performance in frontend and backend."
+  },
+  {
+    "keywords": ["motivation"],
+    "answer": "Highly motivated to build impactful tech solutions."
+  },
+  {
+    "keywords": ["discipline"],
+    "answer": "Maintains consistency in learning and development."
+  },
+  {
+    "keywords": ["projects impact"],
+    "answer": "Projects aim to solve real-world business problems."
+  },
+  {
+    "keywords": ["automation"],
+    "answer": "Builds systems that automate manual processes."
+  },
+  {
+    "keywords": ["innovation"],
+    "answer": "Explores AI to build innovative solutions."
+  },
+  {
+    "keywords": ["challenge"],
+    "answer": "Enjoys solving complex technical challenges."
+  },
+  {
+    "keywords": ["learning speed"],
+    "answer": "Fast learner and adapts quickly."
+  },
+  {
+    "keywords": ["availability"],
+    "answer": "Available for entry-level and internship roles."
+  },
+  {
+    "keywords": ["hire"],
+    "answer": "He is a strong candidate with real-world project experience."
+  },
+  {
+    "keywords": ["chatbot architecture"],
+    "answer": "His chatbot follows a layered architecture with frontend UI, backend API, AI integration using Gemini, and fallback local intelligence."
+  },
+  {
+    "keywords": ["ai vs normal chatbot"],
+    "answer": "Unlike rule-based chatbots, his AI chatbot uses LLM integration, context awareness, and fallback logic for intelligent responses."
+  },
+  {
+    "keywords": ["context awareness"],
+    "answer": "Implements memory-based context handling using recent chat storage to maintain conversational continuity."
+  },
+  {
+    "keywords": ["state management"],
+    "answer": "Uses React state hooks to manage chat messages, typing indicators, and UI behavior."
+  },
+  {
+    "keywords": ["api optimization"],
+    "answer": "Reduces API calls by using local knowledge base and fallback strategy before hitting AI endpoints."
+  },
+  {
+    "keywords": ["latency optimization"],
+    "answer": "Improves response speed using local matching, async calls, and minimal payload design."
+  },
+  {
+    "keywords": ["fallback system"],
+    "answer": "Implements multi-layer fallback: local knowledge → retry → AI → default response."
+  },
+  {
+    "keywords": ["error handling"],
+    "answer": "Handles API errors gracefully with retry logic and local fallback responses."
+  },
+  {
+    "keywords": ["scalable backend"],
+    "answer": "Designs backend APIs with modular structure, async handling, and scalable endpoints."
+  },
+  {
+    "keywords": ["microservices"],
+    "answer": "Understands microservice architecture concepts for scalable system design."
+  },
+  {
+    "keywords": ["monolithic vs microservices"],
+    "answer": "Monolithic is simple but less scalable, while microservices allow independent scaling and deployment."
+  },
+  {
+    "keywords": ["rest vs graphql"],
+    "answer": "REST is simple and widely used, GraphQL provides flexible data fetching and reduces over-fetching."
+  },
+  {
+    "keywords": ["jwt"],
+    "answer": "Uses JSON Web Tokens for secure authentication and authorization in backend systems."
+  },
+  {
+    "keywords": ["session vs jwt"],
+    "answer": "Sessions store data on server, JWT is stateless and stored on client side."
+  },
+  {
+    "keywords": ["rate limiting"],
+    "answer": "Implements rate limiting to prevent API abuse and improve system stability."
+  },
+  {
+    "keywords": ["caching"],
+    "answer": "Uses caching strategies to improve performance and reduce redundant API calls."
+  },
+  {
+    "keywords": ["db indexing"],
+    "answer": "Uses indexing in MongoDB to improve query performance."
+  },
+  {
+    "keywords": ["nosql vs sql"],
+    "answer": "NoSQL offers flexibility and scalability, SQL ensures structured relational data integrity."
+  },
+  {
+    "keywords": ["event driven"],
+    "answer": "Understands event-driven architecture for real-time systems."
+  },
+  {
+    "keywords": ["websocket"],
+    "answer": "WebSockets enable real-time communication between client and server."
+  },
+  {
+    "keywords": ["load balancing"],
+    "answer": "Distributes traffic across servers to ensure availability and performance."
+  },
+  {
+    "keywords": ["ci cd"],
+    "answer": "Familiar with CI/CD pipelines for automated testing and deployment."
+  },
+  {
+    "keywords": ["docker"],
+    "answer": "Understands containerization using Docker for consistent deployment."
+  },
+  {
+    "keywords": ["kubernetes"],
+    "answer": "Basic knowledge of Kubernetes for container orchestration."
+  },
+  {
+    "keywords": ["system design"],
+    "answer": "Designs scalable systems considering performance, reliability, and maintainability."
+  },
+  {
+    "keywords": ["high availability"],
+    "answer": "Ensures systems remain available using redundancy and load balancing."
+  },
+  {
+    "keywords": ["fault tolerance"],
+    "answer": "Builds systems that continue working even if some components fail."
+  },
+  {
+    "keywords": ["ai integration"],
+    "answer": "Integrates AI APIs like Gemini to add intelligence into applications."
+  },
+  {
+    "keywords": ["prompt engineering"],
+    "answer": "Designs structured prompts to get accurate and context-aware responses from AI models."
+  },
+  {
+    "keywords": ["vector database"],
+    "answer": "Understands concept of vector DB for semantic search and AI applications."
+  },
+  {
+    "keywords": ["embeddings"],
+    "answer": "Uses embeddings for semantic similarity and intelligent search."
+  },
+  {
+    "keywords": ["rag"],
+    "answer": "Retrieval Augmented Generation improves AI by combining external data with LLM responses."
+  },
+  {
+    "keywords": ["fine tuning"],
+    "answer": "Fine-tuning improves model performance on specific tasks using custom data."
+  },
+  {
+    "keywords": ["nlp"],
+    "answer": "Understands Natural Language Processing for text-based AI systems."
+  },
+  {
+    "keywords": ["ml vs ai"],
+    "answer": "AI is broader, ML is a subset focused on learning from data."
+  },
+  {
+    "keywords": ["supervised learning"],
+    "answer": "Model learns from labeled data."
+  },
+  {
+    "keywords": ["unsupervised learning"],
+    "answer": "Model finds patterns in unlabeled data."
+  },
+  {
+    "keywords": ["overfitting"],
+    "answer": "Model performs well on training data but poorly on new data."
+  },
+  {
+    "keywords": ["underfitting"],
+    "answer": "Model fails to capture underlying patterns."
+  },
+  {
+    "keywords": ["bias variance"],
+    "answer": "Tradeoff between model simplicity and flexibility."
+  },
+  {
+    "keywords": ["evaluation"],
+    "answer": "Uses metrics like accuracy, precision, recall for model evaluation."
+  },
+  {
+    "keywords": ["deployment ai"],
+    "answer": "Deploys AI models via APIs for real-world usage."
+  },
+  {
+    "keywords": ["security ai"],
+    "answer": "Ensures safe usage of AI APIs and prevents misuse."
+  },
+  {
+    "keywords": ["ethics ai"],
+    "answer": "Considers fairness, bias, and responsible AI usage."
+  },
+  {
+    "keywords": ["data pipeline"],
+    "answer": "Builds pipelines for data collection, processing, and analysis."
+  },
+  {
+    "keywords": ["big data"],
+    "answer": "Understands handling large-scale data systems."
+  },
+  {
+    "keywords": ["real time system"],
+    "answer": "Designs systems that respond instantly to events."
+  },
+  {
+    "keywords": ["performance optimization"],
+    "answer": "Optimizes queries, reduces latency, and improves speed."
+  },
+  {
+    "keywords": ["code quality"],
+    "answer": "Writes clean, modular, maintainable code."
+  },
+  {
+    "keywords": ["design patterns"],
+    "answer": "Applies patterns like MVC and modular architecture."
+  },
+  {
+    "keywords": ["clean architecture"],
+    "answer": "Separates concerns for maintainability and scalability."
+  },
+  {
+    "keywords": ["agile"],
+    "answer": "Familiar with agile development practices."
+  },
+  {
+    "keywords": ["scrum"],
+    "answer": "Understands sprint-based development approach."
+  },
+  {
+    "keywords": ["version control"],
+    "answer": "Uses Git for version control and collaboration."
+  },
+  {
+    "keywords": ["branching"],
+    "answer": "Uses Git branching strategies for feature development."
+  },
+  {
+    "keywords": ["merge conflict"],
+    "answer": "Resolves conflicts during collaborative development."
+  },
+  {
+    "keywords": ["testing types"],
+    "answer": "Understands unit testing, integration testing, and system testing."
+  },
+  {
+    "keywords": ["unit testing"],
+    "answer": "Tests individual components for correctness."
+  },
+  {
+    "keywords": ["integration testing"],
+    "answer": "Tests interaction between modules."
+  },
+  {
+    "keywords": ["deployment pipeline"],
+    "answer": "Automates build, test, and deploy processes."
+  },
+  {
+    "keywords": ["monitoring"],
+    "answer": "Uses logging and monitoring tools to track performance."
+  },
+  {
+    "keywords": ["logging"],
+    "answer": "Tracks application behavior for debugging."
+  },
+  {
+    "keywords": ["debugging advanced"],
+    "answer": "Systematically identifies and fixes complex issues."
+  },
+  {
+    "keywords": ["code review"],
+    "answer": "Participates in reviewing code for quality improvement."
+  },
+  {
+    "keywords": ["mentorship"],
+    "answer": "Helps peers and contributes to learning environments."
+  },
+  {
+    "keywords": ["ownership"],
+    "answer": "Takes responsibility for projects and delivers results."
+  },
+  {
+    "keywords": ["initiative"],
+    "answer": "Proactively learns and builds new solutions."
+  },
+  {
+    "keywords": ["impact"],
+    "answer": "Focuses on building solutions with real-world impact."
+  },
+  {
+    "keywords": ["scaling apps"],
+    "answer": "Designs apps to handle increasing users and data."
+  },
+  {
+    "keywords": ["edge cases"],
+    "answer": "Handles edge cases to improve robustness."
+  },
+  {
+    "keywords": ["fail safe"],
+    "answer": "Builds systems that gracefully recover from failure."
+  },
+  {
+    "keywords": ["retry logic"],
+    "answer": "Retries failed operations to ensure reliability."
+  },
+  {
+    "keywords": ["timeouts"],
+    "answer": "Prevents long waiting times in API calls."
+  },
+  {
+    "keywords": ["throttling"],
+    "answer": "Controls request rate to avoid overload."
+  },
+  {
+    "keywords": ["api gateway"],
+    "answer": "Manages API routing, security, and scaling."
+  },
+  {
+    "keywords": ["backend architecture"],
+    "answer": "Designs structured backend with controllers, services, and routes."
+  },
+  {
+    "keywords": ["frontend architecture"],
+    "answer": "Uses component-based architecture in React."
+  },
+  {
+    "keywords": ["component design"],
+    "answer": "Builds reusable and modular UI components."
+  },
+  {
+    "keywords": ["hooks"],
+    "answer": "Uses React hooks for state and lifecycle management."
+  },
+  {
+    "keywords": ["async await"],
+    "answer": "Handles asynchronous operations efficiently."
+  },
+  {
+    "keywords": ["promise"],
+    "answer": "Manages async operations using promises."
+  },
+  {
+    "keywords": ["event loop"],
+    "answer": "Understands Node.js event loop for async execution."
+  },
+  {
+    "keywords": ["threading"],
+    "answer": "Knows single-threaded nature of Node.js."
+  },
+  {
+    "keywords": ["memory management"],
+    "answer": "Optimizes memory usage in applications."
+  },
+  {
+    "keywords": ["garbage collection"],
+    "answer": "Understands automatic memory cleanup in JS."
+  },
+  {
+    "keywords": ["security best practices"],
+    "answer": "Follows secure coding practices and API protection."
+  },
+  {
+    "keywords": ["xss"],
+    "answer": "Prevents cross-site scripting attacks."
+  },
+  {
+    "keywords": ["csrf"],
+    "answer": "Protects against cross-site request forgery."
+  },
+  {
+    "keywords": ["hashing"],
+    "answer": "Uses hashing for secure password storage."
+  },
+  {
+    "keywords": ["encryption"],
+    "answer": "Uses encryption for data protection."
+  },
+  {
+    "keywords": ["design url shortener"],
+    "answer": "Use hashing or base62 encoding for short URLs, store mappings in DB, use caching for fast retrieval, and ensure scalability with load balancing."
+  },
+  {
+    "keywords": ["design chat system"],
+    "answer": "Use WebSockets for real-time messaging, message queues for delivery, database for storage, and caching for recent chats."
+  },
+  {
+    "keywords": ["design instagram"],
+    "answer": "Use CDN for images, microservices for feed, user service, and storage, and caching for fast feed loading."
+  },
+  {
+    "keywords": ["design whatsapp"],
+    "answer": "Use real-time messaging with WebSockets, message queues, distributed storage, and encryption for privacy."
+  },
+  {
+    "keywords": ["design notification system"],
+    "answer": "Use message queues, worker services, and push notification APIs for scalable delivery."
+  },
+  {
+    "keywords": ["design search engine"],
+    "answer": "Use indexing, crawling, ranking algorithms, and distributed storage."
+  },
+  {
+    "keywords": ["design youtube"],
+    "answer": "Use CDN for videos, distributed storage, streaming protocols, and recommendation system."
+  },
+  {
+    "keywords": ["design e commerce"],
+    "answer": "Use microservices for catalog, payment, order, inventory, and caching for performance."
+  },
+  {
+    "keywords": ["design rate limiter"],
+    "answer": "Use token bucket or leaky bucket algorithm to control request rate."
+  },
+  {
+    "keywords": ["design cache"],
+    "answer": "Use LRU or LFU caching strategy with Redis for fast access."
+  },
+  {
+    "keywords": ["horizontal scaling"],
+    "answer": "Add more machines to distribute load and improve performance."
+  },
+  {
+    "keywords": ["vertical scaling"],
+    "answer": "Increase power of a single machine (CPU, RAM)."
+  },
+  {
+    "keywords": ["cdn"],
+    "answer": "Content Delivery Network reduces latency by serving content from nearest location."
+  },
+  {
+    "keywords": ["distributed system"],
+    "answer": "System with multiple nodes working together for scalability and reliability."
+  },
+  {
+    "keywords": ["cap theorem"],
+    "answer": "System can only guarantee two: Consistency, Availability, Partition tolerance."
+  },
+  {
+    "keywords": ["consistency"],
+    "answer": "All nodes have same data at same time."
+  },
+  {
+    "keywords": ["availability"],
+    "answer": "System always responds to requests."
+  },
+  {
+    "keywords": ["partition tolerance"],
+    "answer": "System continues working despite network failures."
+  },
+  {
+    "keywords": ["eventual consistency"],
+    "answer": "Data becomes consistent over time across nodes."
+  },
+  {
+    "keywords": ["strong consistency"],
+    "answer": "All reads reflect latest write instantly."
+  },
+  {
+    "keywords": ["database sharding"],
+    "answer": "Splitting database into smaller parts for scalability."
+  },
+  {
+    "keywords": ["replication"],
+    "answer": "Copying data across servers for reliability."
+  },
+  {
+    "keywords": ["master slave"],
+    "answer": "Primary handles writes, replicas handle reads."
+  },
+  {
+    "keywords": ["leader follower"],
+    "answer": "Leader processes writes, followers replicate data."
+  },
+  {
+    "keywords": ["data partitioning"],
+    "answer": "Dividing data across multiple systems."
+  },
+  {
+    "keywords": ["load balancer"],
+    "answer": "Distributes incoming traffic across servers."
+  },
+  {
+    "keywords": ["reverse proxy"],
+    "answer": "Acts as intermediary between client and backend servers."
+  },
+  {
+    "keywords": ["api gateway"],
+    "answer": "Handles routing, authentication, and rate limiting for APIs."
+  },
+  {
+    "keywords": ["message queue"],
+    "answer": "Enables async communication between services."
+  },
+  {
+    "keywords": ["kafka"],
+    "answer": "Distributed event streaming platform."
+  },
+  {
+    "keywords": ["rabbitmq"],
+    "answer": "Message broker for async communication."
+  },
+  {
+    "keywords": ["event sourcing"],
+    "answer": "Stores changes as sequence of events."
+  },
+  {
+    "keywords": ["cqrs"],
+    "answer": "Separates read and write operations."
+  },
+  {
+    "keywords": ["idempotency"],
+    "answer": "Same request produces same result without duplication."
+  },
+  {
+    "keywords": ["retry strategy"],
+    "answer": "Retry failed operations with exponential backoff."
+  },
+  {
+    "keywords": ["backoff"],
+    "answer": "Increasing delay between retries."
+  },
+  {
+    "keywords": ["circuit breaker"],
+    "answer": "Stops calls to failing service to prevent system overload."
+  },
+  {
+    "keywords": ["bulkhead"],
+    "answer": "Isolates components to prevent cascading failures."
+  },
+  {
+    "keywords": ["observability"],
+    "answer": "Monitoring logs, metrics, and traces."
+  },
+  {
+    "keywords": ["metrics"],
+    "answer": "Quantitative measurements of system performance."
+  },
+  {
+    "keywords": ["tracing"],
+    "answer": "Tracking request flow across services."
+  },
+  {
+    "keywords": ["sla"],
+    "answer": "Service Level Agreement defines expected performance."
+  },
+  {
+    "keywords": ["slo"],
+    "answer": "Service Level Objective defines target performance."
+  },
+  {
+    "keywords": ["error budget"],
+    "answer": "Allowed failure rate within SLA."
+  },
+  {
+    "keywords": ["autoscaling"],
+    "answer": "Automatically adjusts resources based on load."
+  },
+  {
+    "keywords": ["serverless"],
+    "answer": "No server management, auto scaling functions."
+  },
+  {
+    "keywords": ["cold start"],
+    "answer": "Delay when serverless function starts."
+  },
+  {
+    "keywords": ["edge computing"],
+    "answer": "Processing closer to user to reduce latency."
+  },
+  {
+    "keywords": ["latency"],
+    "answer": "Time taken to respond to request."
+  },
+  {
+    "keywords": ["throughput"],
+    "answer": "Number of requests handled per second."
+  },
+  {
+    "keywords": ["bottleneck"],
+    "answer": "Component limiting system performance."
+  },
+  {
+    "keywords": ["profiling"],
+    "answer": "Analyzing performance issues in system."
+  },
+  {
+    "keywords": ["hot path"],
+    "answer": "Frequently executed code path."
+  },
+  {
+    "keywords": ["cold path"],
+    "answer": "Rarely executed code path."
+  },
+  {
+    "keywords": ["data lake"],
+    "answer": "Stores raw structured and unstructured data."
+  },
+  {
+    "keywords": ["data warehouse"],
+    "answer": "Stores processed structured data for analytics."
+  },
+  {
+    "keywords": ["etl"],
+    "answer": "Extract, Transform, Load data pipeline."
+  },
+  {
+    "keywords": ["stream processing"],
+    "answer": "Processing data in real-time."
+  },
+  {
+    "keywords": ["batch processing"],
+    "answer": "Processing data in chunks."
+  },
+  {
+    "keywords": ["map reduce"],
+    "answer": "Distributed data processing model."
+  },
+  {
+    "keywords": ["recommendation system"],
+    "answer": "Uses user behavior and ML models to suggest content."
+  },
+  {
+    "keywords": ["ranking algorithm"],
+    "answer": "Sorts results based on relevance."
+  },
+  {
+    "keywords": ["search relevance"],
+    "answer": "Improves accuracy of search results."
+  },
+  {
+    "keywords": ["ab testing"],
+    "answer": "Compares two versions to find better performance."
+  },
+  {
+    "keywords": ["feature flag"],
+    "answer": "Enable/disable features dynamically."
+  },
+  {
+    "keywords": ["blue green deployment"],
+    "answer": "Switch traffic between two environments."
+  },
+  {
+    "keywords": ["canary deployment"],
+    "answer": "Release feature to small group first."
+  },
+  {
+    "keywords": ["rolling deployment"],
+    "answer": "Gradually update servers."
+  },
+  {
+    "keywords": ["rollback"],
+    "answer": "Revert to previous stable version."
+  },
+  {
+    "keywords": ["zero downtime"],
+    "answer": "Deploy without interrupting service."
+  },
+  {
+    "keywords": ["authentication vs authorization"],
+    "answer": "Auth verifies identity, authorization checks permissions."
+  },
+  {
+    "keywords": ["oauth"],
+    "answer": "Secure delegated access protocol."
+  },
+  {
+    "keywords": ["sso"],
+    "answer": "Single sign-on allows one login for multiple systems."
+  },
+  {
+    "keywords": ["encryption at rest"],
+    "answer": "Data encrypted when stored."
+  },
+  {
+    "keywords": ["encryption in transit"],
+    "answer": "Data encrypted during transfer."
+  },
+  {
+    "keywords": ["tls"],
+    "answer": "Protocol for secure communication."
+  },
+  {
+    "keywords": ["firewall"],
+    "answer": "Blocks unauthorized access."
+  },
+  {
+    "keywords": ["ddos"],
+    "answer": "Attack flooding system with traffic."
+  },
+  {
+    "keywords": ["rate limiting security"],
+    "answer": "Prevents abuse by limiting requests."
+  },
+  {
+    "keywords": ["logging system design"],
+    "answer": "Centralized logging with tools like ELK stack."
+  },
+  {
+    "keywords": ["monitoring tools"],
+    "answer": "Uses tools like Prometheus and Grafana."
+  },
+  {
+    "keywords": ["alerting"],
+    "answer": "Notifies when system issues occur."
+  },
+  {
+    "keywords": ["incident response"],
+    "answer": "Process to handle production issues."
+  },
+  {
+    "keywords": ["postmortem"],
+    "answer": "Analyze failure and improve system."
+  },
+  {
+    "keywords": ["cost optimization"],
+    "answer": "Optimize infrastructure to reduce cost."
+  },
+  {
+    "keywords": ["cloud scaling"],
+    "answer": "Use cloud auto scaling features."
+  },
+  {
+    "keywords": ["multi region"],
+    "answer": "Deploy system across regions for availability."
+  },
+  {
+    "keywords": ["failover"],
+    "answer": "Switch to backup system during failure."
+  },
+  {
+    "keywords": ["disaster recovery"],
+    "answer": "Plan to recover from major failures."
+  },
+  {
+    "keywords": ["compliance"],
+    "answer": "Adheres to regulations like GDPR and HIPAA."
+  },
+  {
+    "keywords": ["data privacy"],
+    "answer": "Protects user data and ensures privacy."
+  },
+  {
+    "keywords": ["access control"],
+    "answer": "Manages permissions for users and services."
+  },
+  {
+    "keywords": ["audit logging"],
+    "answer": "Tracks access and changes for security."
+  },
+  {
+    "keywords": ["api security"],
+    "answer": "Secures APIs with authentication, rate limiting, and validation."
+  },
+  
+  {
+    "keywords": ["html", "html skill"],
+    "answer": "He has strong command over HTML for structuring web applications with semantic and accessible markup."
+  },
+  {
+    "keywords": ["css", "styling"],
+    "answer": "He is skilled in CSS, including responsive design, Flexbox, Grid, and modern UI styling."
+  },
+  {
+    "keywords": ["javascript", "js"],
+    "answer": "He has strong JavaScript fundamentals including async programming, DOM manipulation, and ES6+ features."
+  },
+  {
+    "keywords": ["react", "frontend framework"],
+    "answer": "He builds modern UI using React with component-based architecture and hooks."
+  },
+  {
+    "keywords": ["redux", "state management"],
+    "answer": "He uses Redux for scalable state management in complex React applications."
+  },
+  {
+    "keywords": ["responsive design"],
+    "answer": "He creates fully responsive designs that work across mobile, tablet, and desktop devices."
+  },
+  {
+    "keywords": ["ui ux"],
+    "answer": "Focuses on clean UI and intuitive UX for better user engagement."
+  },
+  {
+    "keywords": ["frontend architecture"],
+    "answer": "Uses modular and reusable component-based architecture in frontend development."
+  },
+  {
+    "keywords": ["performance frontend"],
+    "answer": "Optimizes frontend performance using lazy loading, memoization, and efficient rendering."
+  },
+  {
+    "keywords": ["debug frontend"],
+    "answer": "Strong debugging skills using browser dev tools and error tracing."
+  },
+
+  {
+    "keywords": ["node js", "node"],
+    "answer": "Builds scalable backend systems using Node.js with asynchronous handling."
+  },
+  {
+    "keywords": ["express"],
+    "answer": "Uses Express.js to build REST APIs and backend logic efficiently."
+  },
+  {
+    "keywords": ["rest api"],
+    "answer": "Designs and builds RESTful APIs for communication between frontend and backend."
+  },
+  {
+    "keywords": ["authentication", "auth"],
+    "answer": "Implements secure authentication using JWT and Firebase."
+  },
+  {
+    "keywords": ["mongodb"],
+    "answer": "Uses MongoDB for scalable NoSQL database solutions."
+  },
+  {
+    "keywords": ["database design"],
+    "answer": "Designs efficient database schemas for performance and scalability."
+  },
+  {
+    "keywords": ["api integration"],
+    "answer": "Integrates third-party APIs like Gemini for AI-powered features."
+  },
+  {
+    "keywords": ["backend performance"],
+    "answer": "Optimizes backend using async handling and efficient queries."
+  },
+  {
+    "keywords": ["error handling backend"],
+    "answer": "Handles errors gracefully with try-catch and fallback logic."
+  },
+  {
+    "keywords": ["scalable backend"],
+    "answer": "Builds backend systems that can scale with increasing users."
+  },
+
+  {
+    "keywords": ["git"],
+    "answer": "Uses Git for version control and collaborative development."
+  },
+  {
+    "keywords": ["github"],
+    "answer": "Maintains active GitHub profile with real-world projects."
+  },
+  {
+    "keywords": ["deployment"],
+    "answer": "Deploys applications using platforms like Vercel and Render."
+  },
+  {
+    "keywords": ["figma"],
+    "answer": "Uses Figma for UI design and prototyping."
+  },
+  {
+    "keywords": ["vs code"],
+    "answer": "Uses VS Code as primary development environment."
+  },
+  {
+    "keywords": ["tools"],
+    "answer": "Comfortable with modern development tools and workflows."
+  },
+
+  {
+    "keywords": ["ai", "artificial intelligence"],
+    "answer": "Works on AI-powered applications including chatbot systems and automation."
+  },
+  {
+    "keywords": ["chatbot"],
+    "answer": "Built intelligent chatbot using Gemini API with memory and fallback logic."
+  },
+  {
+    "keywords": ["machine learning"],
+    "answer": "Understands basic ML concepts and data-driven problem solving."
+  },
+  {
+    "keywords": ["data science"],
+    "answer": "Works with Python, Pandas, and data analysis techniques."
+  },
+  {
+    "keywords": ["python"],
+    "answer": "Has working knowledge of Python for data analysis and AI tasks."
+  },
+  {
+    "keywords": ["java"],
+    "answer": "Strong in Java fundamentals including OOP concepts."
+  },
+
+  {
+    "keywords": ["problem solving"],
+    "answer": "Breaks complex problems into simple scalable solutions."
+  },
+  {
+    "keywords": ["learning ability"],
+    "answer": "Fast learner who adapts quickly to new technologies."
+  },
+  {
+    "keywords": ["teamwork"],
+    "answer": "Collaborates effectively in team environments."
+  },
+  {
+    "keywords": ["communication"],
+    "answer": "Communicates technical ideas clearly."
+  },
+  {
+    "keywords": ["leadership"],
+    "answer": "Has leadership experience in tech communities."
+  },
+
+  {
+    "keywords": ["full stack"],
+    "answer": "Capable of building complete applications from frontend to backend."
+  },
+  {
+    "keywords": ["mern stack"],
+    "answer": "Experienced in MongoDB, Express, React, and Node.js stack."
+  },
+  {
+    "keywords": ["real world project"],
+    "answer": "Builds projects solving real-world problems like automation and management systems."
+  },
+  {
+    "keywords": ["inventory system benefit"],
+    "answer": "Helps small businesses track stock, reduce errors, and improve efficiency."
+  },
+  {
+    "keywords": ["event system benefit"],
+    "answer": "Simplifies event planning and coordination."
+  },
+  {
+    "keywords": ["chatbot difference"],
+    "answer": "Uses AI + fallback system unlike traditional rule-based chatbots."
+  }
+]
