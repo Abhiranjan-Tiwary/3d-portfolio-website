@@ -1,5 +1,3 @@
-import agriguideLogo from "../images/AgriGuideLogo.png";
-
 export const Bio = {
   name: "Abhiranjan Tiwary",
   roles: [
