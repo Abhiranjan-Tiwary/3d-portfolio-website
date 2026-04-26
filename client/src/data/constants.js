@@ -324,6 +324,129 @@ export const education = [
   },
 ];
 
+export const certificates = [
+  {
+    id: 0,
+    title: "Walmart USA Advanced Software Engineering Virtual Experience Program",
+    issuer: "Forage",
+    date: "Apr 2026",
+    description:
+      "Completed enterprise-style software engineering tasks across data structures, system design, database modeling, and data processing for retail-focused business workflows.",
+    skills: ["Java", "Python", "SQL", "System Design", "Database Design"],
+    image: "https://drive.google.com/file/d/1ddeZky6uR2rpxGhW67XdLyEwltOCbcFt/view?usp=drive_link",
+    link: ""
+  },
+  {
+  id: 1,
+  title: "GDG On Campus Core Team Member Certificate",
+  issuer: "Google Developer Groups (GDG) On Campus",
+  date: "2024 – 2025",
+  description:
+    "Recognized for successfully serving as a Core Team Member at GDG On Campus, Quantum University. Contributed to organizing technical events, workshops, and community initiatives, helping foster a strong developer ecosystem and promoting learning in emerging technologies.",
+  skills: [
+    "Community Leadership",
+    "Event Management",
+    "Technical Workshops",
+    "Team Collaboration",
+    "Public Speaking",
+    "Developer Community Building",
+  ],
+  image: "", 
+  link: "https://drive.google.com/file/d/1VbGLrn7n9PwxsO2OgNkh9H2oIxMSwFtw/view?usp=drive_link"
+},  
+{
+  id: 2,
+  title: "Google Cloud Study Jam Certificate",
+  issuer: "Google Developer Groups (GDG) On Campus",
+  date: "2025",
+  description:
+    "Successfully completed the Google Cloud Study Jam program, gaining hands-on experience with Google Cloud technologies through guided labs. Worked on real-world cloud scenarios including compute, storage, and cloud-based solutions while strengthening practical skills in cloud computing.",
+  skills: [
+    "Google Cloud",
+    "Cloud Computing",
+    "Hands-on Labs",
+    "Compute Engine",
+    "Cloud Storage",
+    "Problem Solving",
+  ],
+  image: "https://drive.google.com/file/d/12dyMn1BrnOMB-iwHVMVAy15T0Yd_ONgf/view?usp=drive_link",
+  link: ""
+},
+{
+  id: 3,
+  title: "Python Developer Internship",
+  issuer: "I3 Infosoft",
+  date: "2025",
+  description:
+    "Completed an offline Python Developer internship, gaining hands-on experience in building real-world applications and working with core programming concepts. Developed problem-solving skills, implemented backend logic, and worked on data handling, automation, and basic application development using Python.",
+  skills: [
+    "Python",
+    "OOP",
+    "Data Handling",
+    "File Handling",
+    "Basic Backend Development",
+    "Problem Solving",
+    "Debugging"
+  ],
+  image: "https://drive.google.com/file/d/18oC-VMRADFebNLgbtBWocJXvZcwgC0kP/view?usp=drive_link",
+  link: ""
+},
+{
+  id: 4,
+  title: "Software Engineering Virtual Experience Program",
+  issuer: "J.P. Morgan Chase & Co. (Forage)",
+  date: "2025",
+  description:
+    "Completed the J.P. Morgan Software Engineering Virtual Experience Program, gaining hands-on exposure to real-world financial technology workflows. Worked on practical tasks involving system design, data handling, and application development while strengthening problem-solving and analytical skills in a production-like environment.",
+  skills: [
+    "Software Engineering",
+    "System Design",
+    "Problem Solving",
+    "Data Analysis",
+    "Debugging",
+    "Financial Technology (FinTech)"
+  ],
+  image: "https://drive.google.com/file/d/1Y8d-iadlyZcSwn4hAFMNdpmpRfh7vj02/view?usp=drive_link",
+  link: ""
+},
+{
+  id: 5,
+  title: "Campus Outreach Officer (COO)",
+  issuer: "Coding Ninjas – 10X Club",
+  date: "2025",
+  description:
+    "Selected as Campus Outreach Officer (COO) for the 10X Club at Coding Ninjas, responsible for leading outreach initiatives, building student engagement, and expanding the tech community on campus. Coordinated events, collaborated with teams, and promoted learning opportunities to drive participation and growth.",
+  skills: [
+    "Leadership",
+    "Community Building",
+    "Event Management",
+    "Public Relations",
+    "Team Collaboration",
+    "Communication"
+  ],
+  image: "https://drive.google.com/file/d/139Mh3j3XYmTWZ0LjpdBjj28sjkj-FGt-/view?usp=drive_link",
+  link: ""
+},
+{
+  id: 6,
+  title: "Technology Virtual Experience Program",
+  issuer: "Deloitte (Forage)",
+  date: "2025",
+  description:
+    "Completed Deloitte’s Technology Virtual Experience Program, gaining hands-on exposure to real-world consulting and technology workflows. Worked on practical tasks involving data analysis, problem-solving, and understanding business-driven technology solutions in a professional environment.",
+  skills: [
+    "Data Analysis",
+    "Problem Solving",
+    "Business Technology",
+    "Debugging",
+    "Analytical Thinking",
+    "Consulting Fundamentals"
+  ],
+  image: "https://drive.google.com/file/d/1keJMkogFEjVov2jliwVT5P5DjhaNWNU1/view?usp=drive_link",
+  link: ""
+},
+];
+
 export const projects = [
   {
   id: 0,

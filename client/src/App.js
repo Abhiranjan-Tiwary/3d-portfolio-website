@@ -8,9 +8,10 @@ import Experience from "./components/sections/Experience";
 import Education from "./components/sections/Education";
 import StartCanvas from "./components/canvas/Stars";
 import Projects from "./components/sections/Projects";
+import Certificates from "./components/sections/Certificates";
 import Contact from "./components/sections/Contact";
 import Footer from "./components/sections/Footer";
-import { Helmet } from 'react-helmet';
+import { Helmet } from "react-helmet";
 import Chatbot from "./components/Chatbot";
 
 const Body = styled.div`
@@ -50,12 +51,11 @@ const structuredData = {
   "sameAs": [
     "https://www.linkedin.com/in/abhiranjan-tiwary/",
     "https://github.com/Abhiranjan-Tiwary",
-    "https://x.com/abhiranjan65291" // Optional
+    "https://x.com/abhiranjan65291"
   ],
   "knowsAbout": ["React", "MERN Stack", "Node.js", "Express.js", "MongoDB", "MySQL", "Git", "GitHUB"],
   "description": "Full-stack developer specializing in MERN Stack."
 };
-
 
 function App() {
   return (
@@ -66,25 +66,26 @@ function App() {
         </script>
       </Helmet>
       <BrowserRouter>
-  <Navbar />
-  <Body>
-    <StartCanvas />
-    <div>
-      <Hero />
-      <Wrapper>
-        <Skills />
-        <Experience />
-      </Wrapper>
-      <Projects />
-      <Wrapper>
-        <Education />
-        <Contact />
-      </Wrapper>
-      <Footer />
-    </div>
-  </Body>
-  <Chatbot />
-</BrowserRouter>
+        <Navbar />
+        <Body>
+          <StartCanvas />
+          <div>
+            <Hero />
+            <Wrapper>
+              <Skills />
+              <Experience />
+            </Wrapper>
+            <Projects />
+            <Wrapper>
+              <Certificates />
+              <Education />
+              <Contact />
+            </Wrapper>
+            <Footer />
+          </div>
+        </Body>
+        <Chatbot />
+      </BrowserRouter>
     </ThemeProvider>
   );
 }
