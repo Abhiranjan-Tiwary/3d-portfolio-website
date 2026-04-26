@@ -1,1454 +1,4013 @@
 [
-   {
-    "keywords": ["introduce abhiranjan"],
+  {
+    "keywords": [
+      "introduce abhiranjan"
+    ],
     "answer": "Abhiranjan is a passionate Full Stack Developer skilled in MERN stack and AI, with experience building real-world applications like chatbots and inventory systems."
   },
   {
-    "keywords": ["core skills"],
+    "keywords": [
+      "core skills"
+    ],
     "answer": "His core skills include React, Node.js, MongoDB, Express, and AI integration."
   },
   {
-    "keywords": ["technologies"],
+    "keywords": [
+      "technologies"
+    ],
     "answer": "He uses MERN stack, Python for data science, and AI tools like Gemini API."
   },
   {
-    "keywords": ["frontend or backend"],
+    "keywords": [
+      "frontend or backend"
+    ],
     "answer": "He is a full stack developer with strengths in both frontend and backend."
   },
   {
-    "keywords": ["experience level"],
+    "keywords": [
+      "experience level"
+    ],
     "answer": "He is an entry-level developer with strong hands-on project experience."
   },
   {
-    "keywords": ["different from others"],
+    "keywords": [
+      "different from others"
+    ],
     "answer": "He combines MERN with AI and focuses on solving real-world problems instead of just theoretical coding."
   },
   {
-    "keywords": ["strengths"],
+    "keywords": [
+      "strengths"
+    ],
     "answer": "Problem-solving, fast learning, clean coding, and real-world project experience."
   },
   {
-    "keywords": ["weakness"],
+    "keywords": [
+      "weakness"
+    ],
     "answer": "Currently improving advanced system design and scalable backend architecture."
   },
   {
-    "keywords": ["why should we hire you"],
+    "keywords": [
+      "why should we hire you"
+    ],
     "answer": "He combines MERN and AI skills with real-world projects and delivers scalable solutions efficiently."
   },
-
   {
-    "keywords": ["chatbot project"],
+    "keywords": [
+      "chatbot project"
+    ],
     "answer": "His chatbot uses Node.js backend, React frontend, Gemini API for AI, and a fallback local knowledge system."
   },
   {
-    "keywords": ["tech stack projects"],
+    "keywords": [
+      "tech stack projects"
+    ],
     "answer": "Projects use MERN stack along with AI APIs and cloud-based deployment."
   },
   {
-    "keywords": ["inventory system"],
+    "keywords": [
+      "inventory system"
+    ],
     "answer": "Inventory system tracks stock, reduces manual work, and helps businesses manage products efficiently."
   },
   {
-    "keywords": ["real world problems"],
+    "keywords": [
+      "real world problems"
+    ],
     "answer": "His projects solve automation, business tracking, and user interaction challenges."
   },
   {
-    "keywords": ["impactful project"],
+    "keywords": [
+      "impactful project"
+    ],
     "answer": "AI chatbot is one of his most impactful projects due to intelligent interaction and fallback system."
   },
   {
-    "keywords": ["chatbot difference"],
+    "keywords": [
+      "chatbot difference"
+    ],
     "answer": "His chatbot uses AI, memory, and fallback logic unlike rule-based chatbots."
   },
   {
-    "keywords": ["ai projects"],
+    "keywords": [
+      "ai projects"
+    ],
     "answer": "He has built AI chatbot and worked on intelligent automation systems."
   },
   {
-    "keywords": ["project example"],
+    "keywords": [
+      "project example"
+    ],
     "answer": "Inventory system helps small businesses manage stock digitally and reduce errors."
   },
   {
-    "keywords": ["scalable projects"],
+    "keywords": [
+      "scalable projects"
+    ],
     "answer": "He designs projects keeping scalability and performance in mind."
   },
   {
-    "keywords": ["project challenges"],
+    "keywords": [
+      "project challenges"
+    ],
     "answer": "Handled API failures, UI bugs, and optimized performance during development."
   },
-
   {
-    "keywords": ["scalable backend"],
+    "keywords": [
+      "scalable backend"
+    ],
     "answer": "Yes, he can design scalable backend systems using Node.js and proper architecture."
   },
   {
-    "keywords": ["authentication"],
+    "keywords": [
+      "authentication"
+    ],
     "answer": "Uses JWT and Firebase Authentication for secure login systems."
   },
   {
-    "keywords": ["jwt"],
+    "keywords": [
+      "jwt"
+    ],
     "answer": "JWT is used for stateless authentication between client and server."
   },
   {
-    "keywords": ["api design"],
+    "keywords": [
+      "api design"
+    ],
     "answer": "Designs REST APIs with clean structure, validation, and error handling."
   },
   {
-    "keywords": ["backend architecture"],
+    "keywords": [
+      "backend architecture"
+    ],
     "answer": "Uses modular architecture with controllers, services, and routes."
   },
   {
-    "keywords": ["microservices"],
+    "keywords": [
+      "microservices"
+    ],
     "answer": "Understands microservices concept for scalable applications."
   },
   {
-    "keywords": ["error handling"],
+    "keywords": [
+      "error handling"
+    ],
     "answer": "Uses try-catch, retry logic, and fallback systems."
   },
   {
-    "keywords": ["database design"],
+    "keywords": [
+      "database design"
+    ],
     "answer": "Uses MongoDB with indexing and efficient schema design."
   },
   {
-    "keywords": ["performance optimization"],
+    "keywords": [
+      "performance optimization"
+    ],
     "answer": "Improves performance using caching, async operations, and efficient queries."
   },
   {
-    "keywords": ["rest vs graphql"],
+    "keywords": [
+      "rest vs graphql"
+    ],
     "answer": "REST is simple and widely used, GraphQL provides flexible data fetching."
   },
-
   {
-    "keywords": ["ai strength"],
+    "keywords": [
+      "ai strength"
+    ],
     "answer": "Strong in AI integration using APIs and building intelligent systems."
   },
   {
-    "keywords": ["ai tools"],
+    "keywords": [
+      "ai tools"
+    ],
     "answer": "Uses Gemini API and Python-based data tools."
   },
   {
-    "keywords": ["prompt engineering"],
+    "keywords": [
+      "prompt engineering"
+    ],
     "answer": "Designing structured prompts to get accurate AI responses."
   },
   {
-    "keywords": ["rag"],
+    "keywords": [
+      "rag"
+    ],
     "answer": "RAG combines external data with AI to improve responses."
   },
   {
-    "keywords": ["ai vs ml"],
+    "keywords": [
+      "ai vs ml"
+    ],
     "answer": "AI is broader, ML is a subset focused on learning from data."
   },
   {
-    "keywords": ["overfitting"],
+    "keywords": [
+      "overfitting"
+    ],
     "answer": "Model performs well on training data but poorly on new data."
   },
   {
-    "keywords": ["chatbot working"],
+    "keywords": [
+      "chatbot working"
+    ],
     "answer": "Chatbot uses frontend UI, backend API, AI integration, and fallback system."
   },
   {
-    "keywords": ["vector database"],
+    "keywords": [
+      "vector database"
+    ],
     "answer": "Used for semantic search using embeddings."
   },
   {
-    "keywords": ["intelligent system"],
+    "keywords": [
+      "intelligent system"
+    ],
     "answer": "Yes, he builds AI-powered intelligent applications."
   },
   {
-    "keywords": ["context handling"],
+    "keywords": [
+      "context handling"
+    ],
     "answer": "Uses chat memory to maintain conversation context."
   },
-
   {
-    "keywords": ["teamwork"],
+    "keywords": [
+      "teamwork"
+    ],
     "answer": "Collaborative, communicative, and proactive in teams."
   },
   {
-    "keywords": ["pressure"],
+    "keywords": [
+      "pressure"
+    ],
     "answer": "Handles pressure by breaking problems into manageable tasks."
   },
   {
-    "keywords": ["fast learner"],
+    "keywords": [
+      "fast learner"
+    ],
     "answer": "Yes, he adapts quickly and learns new tech fast."
   },
   {
-    "keywords": ["career goal"],
+    "keywords": [
+      "career goal"
+    ],
     "answer": "To build impactful AI-based applications."
   },
   {
-    "keywords": ["problem solving"],
+    "keywords": [
+      "problem solving"
+    ],
     "answer": "Uses logical and analytical approach to solve problems."
   },
   {
-    "keywords": ["personality"],
+    "keywords": [
+      "personality"
+    ],
     "answer": "Focused, motivated, and team-friendly."
   },
   {
-    "keywords": ["leadership"],
+    "keywords": [
+      "leadership"
+    ],
     "answer": "Has leadership experience in tech communities."
   },
   {
-    "keywords": ["deadline"],
+    "keywords": [
+      "deadline"
+    ],
     "answer": "Manages time effectively to meet deadlines."
   },
   {
-    "keywords": ["trust"],
+    "keywords": [
+      "trust"
+    ],
     "answer": "Reliable and consistent in delivering work."
   },
   {
-    "keywords": ["hire decision"],
+    "keywords": [
+      "hire decision"
+    ],
     "answer": "Yes, he is a strong candidate with practical experience."
   },
-
   {
-    "keywords": ["not in resume"],
+    "keywords": [
+      "not in resume"
+    ],
     "answer": "Even if not mentioned, he can learn quickly and adapt to new requirements."
   },
   {
-    "keywords": ["why not hire"],
+    "keywords": [
+      "why not hire"
+    ],
     "answer": "As an entry-level developer, he is still learning advanced system design but improving continuously."
   },
   {
-    "keywords": ["compare developers"],
+    "keywords": [
+      "compare developers"
+    ],
     "answer": "He stands out due to MERN + AI combination and real-world projects."
   },
   {
-    "keywords": ["biggest weakness"],
+    "keywords": [
+      "biggest weakness"
+    ],
     "answer": "Currently improving large-scale system design skills."
   },
   {
-    "keywords": ["real company"],
+    "keywords": [
+      "real company"
+    ],
     "answer": "Yes, he can work effectively in real-world environments."
   },
   {
-    "keywords": ["scale 1m users"],
+    "keywords": [
+      "scale 1m users"
+    ],
     "answer": "Uses load balancing, caching, and scalable architecture."
   },
   {
-    "keywords": ["design chat system"],
+    "keywords": [
+      "design chat system"
+    ],
     "answer": "Uses WebSockets, database, and real-time messaging."
   },
   {
-    "keywords": ["design inventory"],
+    "keywords": [
+      "design inventory"
+    ],
     "answer": "Uses database tracking, APIs, and UI dashboard."
   },
   {
-    "keywords": ["api fails"],
+    "keywords": [
+      "api fails"
+    ],
     "answer": "Fallback system ensures response even if API fails."
   },
   {
-    "keywords": ["handle failures"],
+    "keywords": [
+      "handle failures"
+    ],
     "answer": "Uses retry logic and local fallback system."
   },
-
   {
-    "keywords": ["you are selected"],
+    "keywords": [
+      "you are selected"
+    ],
     "answer": "Thank you! I’m excited about this opportunity and ready to contribute my skills and grow with the team."
   },
   {
-    "keywords": ["thank you"],
+    "keywords": [
+      "thank you"
+    ],
     "answer": "You're welcome! Let me know if you’d like to explore more about Abhiranjan's skills or projects."
   },
   {
-  "keywords": ["why hire", "why should we hire you", "hire him"],
-  "answer": "Abhiranjan brings a strong blend of MERN stack expertise and practical AI integration. He has built real-world, scalable projects like chatbots and inventory systems, demonstrating problem-solving ability, clean architecture, and adaptability. He learns fast, delivers efficiently, and focuses on building impactful solutions—not just code"
-},
- {
-    "keywords": ["strengths"],
+    "keywords": [
+      "why hire",
+      "why should we hire you",
+      "hire him"
+    ],
+    "answer": "Abhiranjan brings a strong blend of MERN stack expertise and practical AI integration. He has built real-world, scalable projects like chatbots and inventory systems, demonstrating problem-solving ability, clean architecture, and adaptability. He learns fast, delivers efficiently, and focuses on building impactful solutions—not just code"
+  },
+  {
+    "keywords": [
+      "strengths"
+    ],
     "answer": "His strengths include problem-solving, fast learning ability, clean coding practices, and building real-world scalable applications using MERN and AI."
   },
   {
-    "keywords": ["weakness", "weaknesses"],
-    "answer": "He is currently improving advanced system design and large-scale backend architecture, and actively learning through real-world projects."
+    "keywords": [
+      "weakness",
+      "weaknesses"
+    ],
+    "answer": "One of my weaknesses is that I sometimes tend to overthink before making decisions, especially when I want to ensure the best possible outcome. However, I am working on improving my decision-making by setting time limits and focusing more on execution."
   },
   {
-    "keywords": ["experience"],
+    "keywords": [
+      "experience"
+    ],
     "answer": "He is an entry-level developer with strong hands-on project experience including AI chatbot, inventory system, and full-stack MERN applications."
   },
   {
-    "keywords": ["backend developer"],
+    "keywords": [
+      "backend developer"
+    ],
     "answer": "As a backend developer, he can design APIs, manage databases, implement authentication, and build scalable server-side logic."
   },
   {
-    "keywords": ["teamwork"],
+    "keywords": [
+      "teamwork"
+    ],
     "answer": "He works collaboratively, communicates clearly, and actively contributes ideas while respecting team workflows."
   },
   {
-    "keywords": ["pressure"],
+    "keywords": [
+      "pressure"
+    ],
     "answer": "He handles pressure by breaking problems into smaller tasks and focusing on solutions step by step."
   },
   {
-    "keywords": ["problem solving"],
+    "keywords": [
+      "problem solving"
+    ],
     "answer": "He approaches problems analytically, identifies root causes, and builds efficient and scalable solutions."
   },
   {
-    "keywords": ["career goal"],
+    "keywords": [
+      "career goal"
+    ],
     "answer": "His goal is to build impactful AI-powered applications and grow into a highly skilled full-stack engineer."
   },
   {
-    "keywords": ["difference from others"],
+    "keywords": [
+      "difference from others"
+    ],
     "answer": "He stands out by combining MERN stack with AI, focusing on real-world problem solving rather than just theoretical knowledge."
   },
   {
-    "keywords": ["communication"],
+    "keywords": [
+      "communication"
+    ],
     "answer": "He communicates technical ideas clearly and works effectively in team environments."
   },
   {
-    "keywords": ["leadership"],
+    "keywords": [
+      "leadership"
+    ],
     "answer": "He has leadership experience through tech communities and organizing events, showing initiative and responsibility."
   },
   {
-    "keywords": ["adaptability"],
+    "keywords": [
+      "adaptability"
+    ],
     "answer": "He adapts quickly to new technologies and continuously upgrades his skills."
   },
   {
-    "keywords": ["project experience"],
+    "keywords": [
+      "project experience"
+    ],
     "answer": "He has built AI chatbot, inventory management system, and event management platform with real-world use cases."
   },
   {
-    "keywords": ["real world impact"],
+    "keywords": [
+      "real world impact"
+    ],
     "answer": "His projects focus on solving practical problems like automation, inventory tracking, and user interaction systems."
   },
   {
-  "keywords": ["who is abhiranjan", "about abhiranjan", "introduce abhiranjan"],
-  "answer": "Abhiranjan is a Full Stack Developer specializing in MERN stack and AI-powered applications. He builds scalable real-world solutions like chatbots, inventory systems, and event platforms."
-},
+    "keywords": [
+      "who is abhiranjan",
+      "about abhiranjan",
+      "introduce abhiranjan"
+    ],
+    "answer": "Abhiranjan is a Full Stack Developer specializing in MERN stack and AI-powered applications. He builds scalable real-world solutions like chatbots, inventory systems, and event platforms."
+  },
   {
-    "keywords": ["introduction", "about abhiranjan"],
+    "keywords": [
+      "introduction",
+      "about abhiranjan"
+    ],
     "answer": "Abhiranjan is a Full Stack Developer specializing in MERN stack and AI-powered applications, focused on building scalable, real-world solutions."
   },
   {
-    "keywords": ["who are you"],
+    "keywords": [
+      "who are you"
+    ],
     "answer": "I'm Jarvis, AI assistant representing Abhiranjan. I help you explore his skills, projects, and experience."
   },
   {
-    "keywords": ["skills"],
+    "keywords": [
+      "skills"
+    ],
     "answer": "He works with React, Node.js, MongoDB, Express, AI, and Data Science tools like Python and Pandas."
   },
   {
-    "keywords": ["frontend skills"],
+    "keywords": [
+      "frontend skills"
+    ],
     "answer": "Strong in React, UI/UX, responsive design, and modern frontend architecture."
   },
   {
-    "keywords": ["backend skills"],
+    "keywords": [
+      "backend skills"
+    ],
     "answer": "Experienced in Node.js, Express, REST APIs, authentication systems, and database integration."
   },
   {
-    "keywords": ["database"],
+    "keywords": [
+      "database"
+    ],
     "answer": "Uses MongoDB for scalable NoSQL database solutions."
   },
   {
-    "keywords": ["ai experience"],
+    "keywords": [
+      "ai experience"
+    ],
     "answer": "Built AI chatbot using Gemini API and worked on intelligent automation systems."
   },
   {
-    "keywords": ["data science"],
+    "keywords": [
+      "data science"
+    ],
     "answer": "Has experience in Python, Pandas, and data analysis for solving real-world problems."
   },
   {
-    "keywords": ["projects"],
+    "keywords": [
+      "projects"
+    ],
     "answer": "Key projects include AI Chatbot, Event Management System, and Inventory Management System."
   },
   {
-    "keywords": ["chatbot project"],
+    "keywords": [
+      "chatbot project"
+    ],
     "answer": "AI chatbot built using Node.js and Gemini API with voice, memory, and smart responses."
   },
   {
-    "keywords": ["inventory system"],
+    "keywords": [
+      "inventory system"
+    ],
     "answer": "Helps businesses track stock, reduce manual errors, and improve efficiency."
   },
   {
-    "keywords": ["event system"],
+    "keywords": [
+      "event system"
+    ],
     "answer": "Manages event planning, scheduling, and user coordination."
   },
   {
-    "keywords": ["real world impact"],
+    "keywords": [
+      "real world impact"
+    ],
     "answer": "His projects solve real problems like automation, inventory tracking, and customer interaction."
   },
   {
-    "keywords": ["teamwork"],
+    "keywords": [
+      "teamwork"
+    ],
     "answer": "He is collaborative, communicates clearly, and contributes actively in team environments."
   },
   {
-    "keywords": ["leadership"],
+    "keywords": [
+      "leadership"
+    ],
     "answer": "Has leadership experience as part of tech communities and organizing events."
   },
   {
-    "keywords": ["gdg"],
+    "keywords": [
+      "gdg"
+    ],
     "answer": "Active member of Google Developer Groups, contributing to tech learning and community growth."
   },
   {
-    "keywords": ["internship"],
+    "keywords": [
+      "internship"
+    ],
     "answer": "Completed web development internship with hands-on experience in real projects."
   },
   {
-    "keywords": ["problem solving"],
+    "keywords": [
+      "problem solving"
+    ],
     "answer": "Strong analytical thinker who breaks down complex problems into scalable solutions."
   },
   {
-    "keywords": ["why hire"],
+    "keywords": [
+      "why hire"
+    ],
     "answer": "He combines MERN + AI skills, builds real projects, and focuses on scalable solutions."
   },
   {
-    "keywords": ["strengths"],
+    "keywords": [
+      "strengths"
+    ],
     "answer": "Quick learner, problem solver, and highly motivated developer."
   },
   {
-    "keywords": ["weakness"],
+    "keywords": [
+      "weakness"
+    ],
     "answer": "Continuously improving system design and advanced backend scaling."
   },
   {
-    "keywords": ["learning"],
+    "keywords": [
+      "learning"
+    ],
     "answer": "Actively learning advanced AI integration and scalable architectures."
   },
   {
-    "keywords": ["backend developer"],
+    "keywords": [
+      "backend developer"
+    ],
     "answer": "Can build APIs, authentication, database systems, and scalable backend logic."
   },
   {
-    "keywords": ["mern"],
+    "keywords": [
+      "mern"
+    ],
     "answer": "Experienced in MongoDB, Express, React, and Node.js full stack development."
   },
   {
-    "keywords": ["cloud"],
+    "keywords": [
+      "cloud"
+    ],
     "answer": "Has exposure to cloud concepts and serverless architecture."
   },
   {
-    "keywords": ["aws"],
+    "keywords": [
+      "aws"
+    ],
     "answer": "Understands AWS basics and serverless approaches."
   },
   {
-    "keywords": ["deployment"],
+    "keywords": [
+      "deployment"
+    ],
     "answer": "Deploys projects using modern hosting platforms and APIs."
   },
   {
-    "keywords": ["api"],
+    "keywords": [
+      "api"
+    ],
     "answer": "Builds and integrates REST APIs and third-party services like Gemini."
   },
   {
-    "keywords": ["communication"],
+    "keywords": [
+      "communication"
+    ],
     "answer": "Communicates ideas clearly and works well in collaborative environments."
   },
   {
-    "keywords": ["adaptability"],
+    "keywords": [
+      "adaptability"
+    ],
     "answer": "Quickly adapts to new technologies and frameworks."
   },
   {
-    "keywords": ["career goal"],
+    "keywords": [
+      "career goal"
+    ],
     "answer": "To build impactful AI-powered applications and grow as a full-stack engineer."
   },
   {
-    "keywords": ["future"],
+    "keywords": [
+      "future"
+    ],
     "answer": "Focused on AI + scalable web applications."
   },
   {
-    "keywords": ["projects detail"],
+    "keywords": [
+      "projects detail"
+    ],
     "answer": "Projects include real-world systems with frontend, backend, and database integration."
   },
   {
-    "keywords": ["github"],
+    "keywords": [
+      "github"
+    ],
     "answer": "Actively shares projects and code on GitHub."
   },
   {
-    "keywords": ["linkedin"],
+    "keywords": [
+      "linkedin"
+    ],
     "answer": "Maintains professional presence sharing tech learning and projects."
   },
   {
-    "keywords": ["experience level"],
+    "keywords": [
+      "experience level"
+    ],
     "answer": "Entry-level developer with strong practical project experience."
   },
   {
-    "keywords": ["coding"],
+    "keywords": [
+      "coding"
+    ],
     "answer": "Writes clean, maintainable, and scalable code."
   },
   {
-    "keywords": ["debugging"],
+    "keywords": [
+      "debugging"
+    ],
     "answer": "Strong debugging and problem-solving ability."
   },
   {
-    "keywords": ["testing"],
+    "keywords": [
+      "testing"
+    ],
     "answer": "Understands importance of testing and validation."
   },
   {
-    "keywords": ["security"],
+    "keywords": [
+      "security"
+    ],
     "answer": "Implements authentication and secure APIs."
   },
   {
-    "keywords": ["authentication"],
+    "keywords": [
+      "authentication"
+    ],
     "answer": "Uses JWT and Firebase Auth for secure login systems."
   },
   {
-    "keywords": ["firebase"],
+    "keywords": [
+      "firebase"
+    ],
     "answer": "Experience with Firebase authentication and database."
   },
   {
-    "keywords": ["full stack"],
+    "keywords": [
+      "full stack"
+    ],
     "answer": "Capable of building complete applications from frontend to backend."
   },
   {
-    "keywords": ["scalability"],
+    "keywords": [
+      "scalability"
+    ],
     "answer": "Designs systems keeping scalability in mind."
   },
   {
-    "keywords": ["design"],
+    "keywords": [
+      "design"
+    ],
     "answer": "Focuses on clean UI and user-friendly experience."
   },
   {
-    "keywords": ["ui"],
+    "keywords": [
+      "ui"
+    ],
     "answer": "Builds responsive and modern UI using React."
   },
   {
-    "keywords": ["performance"],
+    "keywords": [
+      "performance"
+    ],
     "answer": "Optimizes performance in frontend and backend."
   },
   {
-    "keywords": ["motivation"],
+    "keywords": [
+      "motivation"
+    ],
     "answer": "Highly motivated to build impactful tech solutions."
   },
   {
-    "keywords": ["discipline"],
+    "keywords": [
+      "discipline"
+    ],
     "answer": "Maintains consistency in learning and development."
   },
   {
-    "keywords": ["projects impact"],
+    "keywords": [
+      "projects impact"
+    ],
     "answer": "Projects aim to solve real-world business problems."
   },
   {
-    "keywords": ["automation"],
+    "keywords": [
+      "automation"
+    ],
     "answer": "Builds systems that automate manual processes."
   },
   {
-    "keywords": ["innovation"],
+    "keywords": [
+      "innovation"
+    ],
     "answer": "Explores AI to build innovative solutions."
   },
   {
-    "keywords": ["challenge"],
+    "keywords": [
+      "challenge"
+    ],
     "answer": "Enjoys solving complex technical challenges."
   },
   {
-    "keywords": ["learning speed"],
+    "keywords": [
+      "learning speed"
+    ],
     "answer": "Fast learner and adapts quickly."
   },
   {
-    "keywords": ["availability"],
+    "keywords": [
+      "availability"
+    ],
     "answer": "Available for entry-level and internship roles."
   },
   {
-    "keywords": ["hire"],
+    "keywords": [
+      "hire"
+    ],
     "answer": "He is a strong candidate with real-world project experience."
   },
   {
-    "keywords": ["chatbot architecture"],
+    "keywords": [
+      "chatbot architecture"
+    ],
     "answer": "His chatbot follows a layered architecture with frontend UI, backend API, AI integration using Gemini, and fallback local intelligence."
   },
   {
-    "keywords": ["ai vs normal chatbot"],
+    "keywords": [
+      "ai vs normal chatbot"
+    ],
     "answer": "Unlike rule-based chatbots, his AI chatbot uses LLM integration, context awareness, and fallback logic for intelligent responses."
   },
   {
-    "keywords": ["context awareness"],
+    "keywords": [
+      "context awareness"
+    ],
     "answer": "Implements memory-based context handling using recent chat storage to maintain conversational continuity."
   },
   {
-    "keywords": ["state management"],
+    "keywords": [
+      "state management"
+    ],
     "answer": "Uses React state hooks to manage chat messages, typing indicators, and UI behavior."
   },
   {
-    "keywords": ["api optimization"],
+    "keywords": [
+      "api optimization"
+    ],
     "answer": "Reduces API calls by using local knowledge base and fallback strategy before hitting AI endpoints."
   },
   {
-    "keywords": ["latency optimization"],
+    "keywords": [
+      "latency optimization"
+    ],
     "answer": "Improves response speed using local matching, async calls, and minimal payload design."
   },
   {
-    "keywords": ["fallback system"],
+    "keywords": [
+      "fallback system"
+    ],
     "answer": "Implements multi-layer fallback: local knowledge → retry → AI → default response."
   },
   {
-    "keywords": ["error handling"],
+    "keywords": [
+      "error handling"
+    ],
     "answer": "Handles API errors gracefully with retry logic and local fallback responses."
   },
   {
-    "keywords": ["scalable backend"],
+    "keywords": [
+      "scalable backend"
+    ],
     "answer": "Designs backend APIs with modular structure, async handling, and scalable endpoints."
   },
   {
-    "keywords": ["microservices"],
+    "keywords": [
+      "microservices"
+    ],
     "answer": "Understands microservice architecture concepts for scalable system design."
   },
   {
-    "keywords": ["monolithic vs microservices"],
+    "keywords": [
+      "monolithic vs microservices"
+    ],
     "answer": "Monolithic is simple but less scalable, while microservices allow independent scaling and deployment."
   },
   {
-    "keywords": ["rest vs graphql"],
+    "keywords": [
+      "rest vs graphql"
+    ],
     "answer": "REST is simple and widely used, GraphQL provides flexible data fetching and reduces over-fetching."
   },
   {
-    "keywords": ["jwt"],
+    "keywords": [
+      "jwt"
+    ],
     "answer": "Uses JSON Web Tokens for secure authentication and authorization in backend systems."
   },
   {
-    "keywords": ["session vs jwt"],
+    "keywords": [
+      "session vs jwt"
+    ],
     "answer": "Sessions store data on server, JWT is stateless and stored on client side."
   },
   {
-    "keywords": ["rate limiting"],
+    "keywords": [
+      "rate limiting"
+    ],
     "answer": "Implements rate limiting to prevent API abuse and improve system stability."
   },
   {
-    "keywords": ["caching"],
+    "keywords": [
+      "caching"
+    ],
     "answer": "Uses caching strategies to improve performance and reduce redundant API calls."
   },
   {
-    "keywords": ["db indexing"],
+    "keywords": [
+      "db indexing"
+    ],
     "answer": "Uses indexing in MongoDB to improve query performance."
   },
   {
-    "keywords": ["nosql vs sql"],
+    "keywords": [
+      "nosql vs sql"
+    ],
     "answer": "NoSQL offers flexibility and scalability, SQL ensures structured relational data integrity."
   },
   {
-    "keywords": ["event driven"],
+    "keywords": [
+      "event driven"
+    ],
     "answer": "Understands event-driven architecture for real-time systems."
   },
   {
-    "keywords": ["websocket"],
+    "keywords": [
+      "websocket"
+    ],
     "answer": "WebSockets enable real-time communication between client and server."
   },
   {
-    "keywords": ["load balancing"],
+    "keywords": [
+      "load balancing"
+    ],
     "answer": "Distributes traffic across servers to ensure availability and performance."
   },
   {
-    "keywords": ["ci cd"],
+    "keywords": [
+      "ci cd"
+    ],
     "answer": "Familiar with CI/CD pipelines for automated testing and deployment."
   },
   {
-    "keywords": ["docker"],
+    "keywords": [
+      "docker"
+    ],
     "answer": "Understands containerization using Docker for consistent deployment."
   },
   {
-    "keywords": ["kubernetes"],
+    "keywords": [
+      "kubernetes"
+    ],
     "answer": "Basic knowledge of Kubernetes for container orchestration."
   },
   {
-    "keywords": ["system design"],
+    "keywords": [
+      "system design"
+    ],
     "answer": "Designs scalable systems considering performance, reliability, and maintainability."
   },
   {
-    "keywords": ["high availability"],
+    "keywords": [
+      "high availability"
+    ],
     "answer": "Ensures systems remain available using redundancy and load balancing."
   },
   {
-    "keywords": ["fault tolerance"],
+    "keywords": [
+      "fault tolerance"
+    ],
     "answer": "Builds systems that continue working even if some components fail."
   },
   {
-    "keywords": ["ai integration"],
+    "keywords": [
+      "ai integration"
+    ],
     "answer": "Integrates AI APIs like Gemini to add intelligence into applications."
   },
   {
-    "keywords": ["prompt engineering"],
+    "keywords": [
+      "prompt engineering"
+    ],
     "answer": "Designs structured prompts to get accurate and context-aware responses from AI models."
   },
   {
-    "keywords": ["vector database"],
+    "keywords": [
+      "vector database"
+    ],
     "answer": "Understands concept of vector DB for semantic search and AI applications."
   },
   {
-    "keywords": ["embeddings"],
+    "keywords": [
+      "embeddings"
+    ],
     "answer": "Uses embeddings for semantic similarity and intelligent search."
   },
   {
-    "keywords": ["rag"],
+    "keywords": [
+      "rag"
+    ],
     "answer": "Retrieval Augmented Generation improves AI by combining external data with LLM responses."
   },
   {
-    "keywords": ["fine tuning"],
+    "keywords": [
+      "fine tuning"
+    ],
     "answer": "Fine-tuning improves model performance on specific tasks using custom data."
   },
   {
-    "keywords": ["nlp"],
+    "keywords": [
+      "nlp"
+    ],
     "answer": "Understands Natural Language Processing for text-based AI systems."
   },
   {
-    "keywords": ["ml vs ai"],
+    "keywords": [
+      "ml vs ai"
+    ],
     "answer": "AI is broader, ML is a subset focused on learning from data."
   },
   {
-    "keywords": ["supervised learning"],
+    "keywords": [
+      "supervised learning"
+    ],
     "answer": "Model learns from labeled data."
   },
   {
-    "keywords": ["unsupervised learning"],
+    "keywords": [
+      "unsupervised learning"
+    ],
     "answer": "Model finds patterns in unlabeled data."
   },
   {
-    "keywords": ["overfitting"],
+    "keywords": [
+      "overfitting"
+    ],
     "answer": "Model performs well on training data but poorly on new data."
   },
   {
-    "keywords": ["underfitting"],
+    "keywords": [
+      "underfitting"
+    ],
     "answer": "Model fails to capture underlying patterns."
   },
   {
-    "keywords": ["bias variance"],
+    "keywords": [
+      "bias variance"
+    ],
     "answer": "Tradeoff between model simplicity and flexibility."
   },
   {
-    "keywords": ["evaluation"],
+    "keywords": [
+      "evaluation"
+    ],
     "answer": "Uses metrics like accuracy, precision, recall for model evaluation."
   },
   {
-    "keywords": ["deployment ai"],
+    "keywords": [
+      "deployment ai"
+    ],
     "answer": "Deploys AI models via APIs for real-world usage."
   },
   {
-    "keywords": ["security ai"],
+    "keywords": [
+      "security ai"
+    ],
     "answer": "Ensures safe usage of AI APIs and prevents misuse."
   },
   {
-    "keywords": ["ethics ai"],
+    "keywords": [
+      "ethics ai"
+    ],
     "answer": "Considers fairness, bias, and responsible AI usage."
   },
   {
-    "keywords": ["data pipeline"],
+    "keywords": [
+      "data pipeline"
+    ],
     "answer": "Builds pipelines for data collection, processing, and analysis."
   },
   {
-    "keywords": ["big data"],
+    "keywords": [
+      "big data"
+    ],
     "answer": "Understands handling large-scale data systems."
   },
   {
-    "keywords": ["real time system"],
+    "keywords": [
+      "real time system"
+    ],
     "answer": "Designs systems that respond instantly to events."
   },
   {
-    "keywords": ["performance optimization"],
+    "keywords": [
+      "performance optimization"
+    ],
     "answer": "Optimizes queries, reduces latency, and improves speed."
   },
   {
-    "keywords": ["code quality"],
+    "keywords": [
+      "code quality"
+    ],
     "answer": "Writes clean, modular, maintainable code."
   },
   {
-    "keywords": ["design patterns"],
+    "keywords": [
+      "design patterns"
+    ],
     "answer": "Applies patterns like MVC and modular architecture."
   },
   {
-    "keywords": ["clean architecture"],
+    "keywords": [
+      "clean architecture"
+    ],
     "answer": "Separates concerns for maintainability and scalability."
   },
   {
-    "keywords": ["agile"],
+    "keywords": [
+      "agile"
+    ],
     "answer": "Familiar with agile development practices."
   },
   {
-    "keywords": ["scrum"],
+    "keywords": [
+      "scrum"
+    ],
     "answer": "Understands sprint-based development approach."
   },
   {
-    "keywords": ["version control"],
+    "keywords": [
+      "version control"
+    ],
     "answer": "Uses Git for version control and collaboration."
   },
   {
-    "keywords": ["branching"],
+    "keywords": [
+      "branching"
+    ],
     "answer": "Uses Git branching strategies for feature development."
   },
   {
-    "keywords": ["merge conflict"],
+    "keywords": [
+      "merge conflict"
+    ],
     "answer": "Resolves conflicts during collaborative development."
   },
   {
-    "keywords": ["testing types"],
+    "keywords": [
+      "testing types"
+    ],
     "answer": "Understands unit testing, integration testing, and system testing."
   },
   {
-    "keywords": ["unit testing"],
+    "keywords": [
+      "unit testing"
+    ],
     "answer": "Tests individual components for correctness."
   },
   {
-    "keywords": ["integration testing"],
+    "keywords": [
+      "integration testing"
+    ],
     "answer": "Tests interaction between modules."
   },
   {
-    "keywords": ["deployment pipeline"],
+    "keywords": [
+      "deployment pipeline"
+    ],
     "answer": "Automates build, test, and deploy processes."
   },
   {
-    "keywords": ["monitoring"],
+    "keywords": [
+      "monitoring"
+    ],
     "answer": "Uses logging and monitoring tools to track performance."
   },
   {
-    "keywords": ["logging"],
+    "keywords": [
+      "logging"
+    ],
     "answer": "Tracks application behavior for debugging."
   },
   {
-    "keywords": ["debugging advanced"],
+    "keywords": [
+      "debugging advanced"
+    ],
     "answer": "Systematically identifies and fixes complex issues."
   },
   {
-    "keywords": ["code review"],
+    "keywords": [
+      "code review"
+    ],
     "answer": "Participates in reviewing code for quality improvement."
   },
   {
-    "keywords": ["mentorship"],
+    "keywords": [
+      "mentorship"
+    ],
     "answer": "Helps peers and contributes to learning environments."
   },
   {
-    "keywords": ["ownership"],
+    "keywords": [
+      "ownership"
+    ],
     "answer": "Takes responsibility for projects and delivers results."
   },
   {
-    "keywords": ["initiative"],
+    "keywords": [
+      "initiative"
+    ],
     "answer": "Proactively learns and builds new solutions."
   },
   {
-    "keywords": ["impact"],
+    "keywords": [
+      "impact"
+    ],
     "answer": "Focuses on building solutions with real-world impact."
   },
   {
-    "keywords": ["scaling apps"],
+    "keywords": [
+      "scaling apps"
+    ],
     "answer": "Designs apps to handle increasing users and data."
   },
   {
-    "keywords": ["edge cases"],
+    "keywords": [
+      "edge cases"
+    ],
     "answer": "Handles edge cases to improve robustness."
   },
   {
-    "keywords": ["fail safe"],
+    "keywords": [
+      "fail safe"
+    ],
     "answer": "Builds systems that gracefully recover from failure."
   },
   {
-    "keywords": ["retry logic"],
+    "keywords": [
+      "retry logic"
+    ],
     "answer": "Retries failed operations to ensure reliability."
   },
   {
-    "keywords": ["timeouts"],
+    "keywords": [
+      "timeouts"
+    ],
     "answer": "Prevents long waiting times in API calls."
   },
   {
-    "keywords": ["throttling"],
+    "keywords": [
+      "throttling"
+    ],
     "answer": "Controls request rate to avoid overload."
   },
   {
-    "keywords": ["api gateway"],
+    "keywords": [
+      "api gateway"
+    ],
     "answer": "Manages API routing, security, and scaling."
   },
   {
-    "keywords": ["backend architecture"],
+    "keywords": [
+      "backend architecture"
+    ],
     "answer": "Designs structured backend with controllers, services, and routes."
   },
   {
-    "keywords": ["frontend architecture"],
+    "keywords": [
+      "frontend architecture"
+    ],
     "answer": "Uses component-based architecture in React."
   },
   {
-    "keywords": ["component design"],
+    "keywords": [
+      "component design"
+    ],
     "answer": "Builds reusable and modular UI components."
   },
   {
-    "keywords": ["hooks"],
+    "keywords": [
+      "hooks"
+    ],
     "answer": "Uses React hooks for state and lifecycle management."
   },
   {
-    "keywords": ["async await"],
+    "keywords": [
+      "async await"
+    ],
     "answer": "Handles asynchronous operations efficiently."
   },
   {
-    "keywords": ["promise"],
+    "keywords": [
+      "promise"
+    ],
     "answer": "Manages async operations using promises."
   },
   {
-    "keywords": ["event loop"],
+    "keywords": [
+      "event loop"
+    ],
     "answer": "Understands Node.js event loop for async execution."
   },
   {
-    "keywords": ["threading"],
+    "keywords": [
+      "threading"
+    ],
     "answer": "Knows single-threaded nature of Node.js."
   },
   {
-    "keywords": ["memory management"],
+    "keywords": [
+      "memory management"
+    ],
     "answer": "Optimizes memory usage in applications."
   },
   {
-    "keywords": ["garbage collection"],
+    "keywords": [
+      "garbage collection"
+    ],
     "answer": "Understands automatic memory cleanup in JS."
   },
   {
-    "keywords": ["security best practices"],
+    "keywords": [
+      "security best practices"
+    ],
     "answer": "Follows secure coding practices and API protection."
   },
   {
-    "keywords": ["xss"],
+    "keywords": [
+      "xss"
+    ],
     "answer": "Prevents cross-site scripting attacks."
   },
   {
-    "keywords": ["csrf"],
+    "keywords": [
+      "csrf"
+    ],
     "answer": "Protects against cross-site request forgery."
   },
   {
-    "keywords": ["hashing"],
+    "keywords": [
+      "hashing"
+    ],
     "answer": "Uses hashing for secure password storage."
   },
   {
-    "keywords": ["encryption"],
+    "keywords": [
+      "encryption"
+    ],
     "answer": "Uses encryption for data protection."
   },
   {
-    "keywords": ["design url shortener"],
+    "keywords": [
+      "design url shortener"
+    ],
     "answer": "Use hashing or base62 encoding for short URLs, store mappings in DB, use caching for fast retrieval, and ensure scalability with load balancing."
   },
   {
-    "keywords": ["design chat system"],
+    "keywords": [
+      "design chat system"
+    ],
     "answer": "Use WebSockets for real-time messaging, message queues for delivery, database for storage, and caching for recent chats."
   },
   {
-    "keywords": ["design instagram"],
+    "keywords": [
+      "design instagram"
+    ],
     "answer": "Use CDN for images, microservices for feed, user service, and storage, and caching for fast feed loading."
   },
   {
-    "keywords": ["design whatsapp"],
+    "keywords": [
+      "design whatsapp"
+    ],
     "answer": "Use real-time messaging with WebSockets, message queues, distributed storage, and encryption for privacy."
   },
   {
-    "keywords": ["design notification system"],
+    "keywords": [
+      "design notification system"
+    ],
     "answer": "Use message queues, worker services, and push notification APIs for scalable delivery."
   },
   {
-    "keywords": ["design search engine"],
+    "keywords": [
+      "design search engine"
+    ],
     "answer": "Use indexing, crawling, ranking algorithms, and distributed storage."
   },
   {
-    "keywords": ["design youtube"],
+    "keywords": [
+      "design youtube"
+    ],
     "answer": "Use CDN for videos, distributed storage, streaming protocols, and recommendation system."
   },
   {
-    "keywords": ["design e commerce"],
+    "keywords": [
+      "design e commerce"
+    ],
     "answer": "Use microservices for catalog, payment, order, inventory, and caching for performance."
   },
   {
-    "keywords": ["design rate limiter"],
+    "keywords": [
+      "design rate limiter"
+    ],
     "answer": "Use token bucket or leaky bucket algorithm to control request rate."
   },
   {
-    "keywords": ["design cache"],
+    "keywords": [
+      "design cache"
+    ],
     "answer": "Use LRU or LFU caching strategy with Redis for fast access."
   },
   {
-    "keywords": ["horizontal scaling"],
+    "keywords": [
+      "horizontal scaling"
+    ],
     "answer": "Add more machines to distribute load and improve performance."
   },
   {
-    "keywords": ["vertical scaling"],
+    "keywords": [
+      "vertical scaling"
+    ],
     "answer": "Increase power of a single machine (CPU, RAM)."
   },
   {
-    "keywords": ["cdn"],
+    "keywords": [
+      "cdn"
+    ],
     "answer": "Content Delivery Network reduces latency by serving content from nearest location."
   },
   {
-    "keywords": ["distributed system"],
+    "keywords": [
+      "distributed system"
+    ],
     "answer": "System with multiple nodes working together for scalability and reliability."
   },
   {
-    "keywords": ["cap theorem"],
+    "keywords": [
+      "cap theorem"
+    ],
     "answer": "System can only guarantee two: Consistency, Availability, Partition tolerance."
   },
   {
-    "keywords": ["consistency"],
+    "keywords": [
+      "consistency"
+    ],
     "answer": "All nodes have same data at same time."
   },
   {
-    "keywords": ["availability"],
+    "keywords": [
+      "availability"
+    ],
     "answer": "System always responds to requests."
   },
   {
-    "keywords": ["partition tolerance"],
+    "keywords": [
+      "partition tolerance"
+    ],
     "answer": "System continues working despite network failures."
   },
   {
-    "keywords": ["eventual consistency"],
+    "keywords": [
+      "eventual consistency"
+    ],
     "answer": "Data becomes consistent over time across nodes."
   },
   {
-    "keywords": ["strong consistency"],
+    "keywords": [
+      "strong consistency"
+    ],
     "answer": "All reads reflect latest write instantly."
   },
   {
-    "keywords": ["database sharding"],
+    "keywords": [
+      "database sharding"
+    ],
     "answer": "Splitting database into smaller parts for scalability."
   },
   {
-    "keywords": ["replication"],
+    "keywords": [
+      "replication"
+    ],
     "answer": "Copying data across servers for reliability."
   },
   {
-    "keywords": ["master slave"],
+    "keywords": [
+      "master slave"
+    ],
     "answer": "Primary handles writes, replicas handle reads."
   },
   {
-    "keywords": ["leader follower"],
+    "keywords": [
+      "leader follower"
+    ],
     "answer": "Leader processes writes, followers replicate data."
   },
   {
-    "keywords": ["data partitioning"],
+    "keywords": [
+      "data partitioning"
+    ],
     "answer": "Dividing data across multiple systems."
   },
   {
-    "keywords": ["load balancer"],
+    "keywords": [
+      "load balancer"
+    ],
     "answer": "Distributes incoming traffic across servers."
   },
   {
-    "keywords": ["reverse proxy"],
+    "keywords": [
+      "reverse proxy"
+    ],
     "answer": "Acts as intermediary between client and backend servers."
   },
   {
-    "keywords": ["api gateway"],
+    "keywords": [
+      "api gateway"
+    ],
     "answer": "Handles routing, authentication, and rate limiting for APIs."
   },
   {
-    "keywords": ["message queue"],
+    "keywords": [
+      "message queue"
+    ],
     "answer": "Enables async communication between services."
   },
   {
-    "keywords": ["kafka"],
+    "keywords": [
+      "kafka"
+    ],
     "answer": "Distributed event streaming platform."
   },
   {
-    "keywords": ["rabbitmq"],
+    "keywords": [
+      "rabbitmq"
+    ],
     "answer": "Message broker for async communication."
   },
   {
-    "keywords": ["event sourcing"],
+    "keywords": [
+      "event sourcing"
+    ],
     "answer": "Stores changes as sequence of events."
   },
   {
-    "keywords": ["cqrs"],
+    "keywords": [
+      "cqrs"
+    ],
     "answer": "Separates read and write operations."
   },
   {
-    "keywords": ["idempotency"],
+    "keywords": [
+      "idempotency"
+    ],
     "answer": "Same request produces same result without duplication."
   },
   {
-    "keywords": ["retry strategy"],
+    "keywords": [
+      "retry strategy"
+    ],
     "answer": "Retry failed operations with exponential backoff."
   },
   {
-    "keywords": ["backoff"],
+    "keywords": [
+      "backoff"
+    ],
     "answer": "Increasing delay between retries."
   },
   {
-    "keywords": ["circuit breaker"],
+    "keywords": [
+      "circuit breaker"
+    ],
     "answer": "Stops calls to failing service to prevent system overload."
   },
   {
-    "keywords": ["bulkhead"],
+    "keywords": [
+      "bulkhead"
+    ],
     "answer": "Isolates components to prevent cascading failures."
   },
   {
-    "keywords": ["observability"],
+    "keywords": [
+      "observability"
+    ],
     "answer": "Monitoring logs, metrics, and traces."
   },
   {
-    "keywords": ["metrics"],
+    "keywords": [
+      "metrics"
+    ],
     "answer": "Quantitative measurements of system performance."
   },
   {
-    "keywords": ["tracing"],
+    "keywords": [
+      "tracing"
+    ],
     "answer": "Tracking request flow across services."
   },
   {
-    "keywords": ["sla"],
+    "keywords": [
+      "sla"
+    ],
     "answer": "Service Level Agreement defines expected performance."
   },
   {
-    "keywords": ["slo"],
+    "keywords": [
+      "slo"
+    ],
     "answer": "Service Level Objective defines target performance."
   },
   {
-    "keywords": ["error budget"],
+    "keywords": [
+      "error budget"
+    ],
     "answer": "Allowed failure rate within SLA."
   },
   {
-    "keywords": ["autoscaling"],
+    "keywords": [
+      "autoscaling"
+    ],
     "answer": "Automatically adjusts resources based on load."
   },
   {
-    "keywords": ["serverless"],
+    "keywords": [
+      "serverless"
+    ],
     "answer": "No server management, auto scaling functions."
   },
   {
-    "keywords": ["cold start"],
+    "keywords": [
+      "cold start"
+    ],
     "answer": "Delay when serverless function starts."
   },
   {
-    "keywords": ["edge computing"],
+    "keywords": [
+      "edge computing"
+    ],
     "answer": "Processing closer to user to reduce latency."
   },
   {
-    "keywords": ["latency"],
+    "keywords": [
+      "latency"
+    ],
     "answer": "Time taken to respond to request."
   },
   {
-    "keywords": ["throughput"],
+    "keywords": [
+      "throughput"
+    ],
     "answer": "Number of requests handled per second."
   },
   {
-    "keywords": ["bottleneck"],
+    "keywords": [
+      "bottleneck"
+    ],
     "answer": "Component limiting system performance."
   },
   {
-    "keywords": ["profiling"],
+    "keywords": [
+      "profiling"
+    ],
     "answer": "Analyzing performance issues in system."
   },
   {
-    "keywords": ["hot path"],
+    "keywords": [
+      "hot path"
+    ],
     "answer": "Frequently executed code path."
   },
   {
-    "keywords": ["cold path"],
+    "keywords": [
+      "cold path"
+    ],
     "answer": "Rarely executed code path."
   },
   {
-    "keywords": ["data lake"],
+    "keywords": [
+      "data lake"
+    ],
     "answer": "Stores raw structured and unstructured data."
   },
   {
-    "keywords": ["data warehouse"],
+    "keywords": [
+      "data warehouse"
+    ],
     "answer": "Stores processed structured data for analytics."
   },
   {
-    "keywords": ["etl"],
+    "keywords": [
+      "etl"
+    ],
     "answer": "Extract, Transform, Load data pipeline."
   },
   {
-    "keywords": ["stream processing"],
+    "keywords": [
+      "stream processing"
+    ],
     "answer": "Processing data in real-time."
   },
   {
-    "keywords": ["batch processing"],
+    "keywords": [
+      "batch processing"
+    ],
     "answer": "Processing data in chunks."
   },
   {
-    "keywords": ["map reduce"],
+    "keywords": [
+      "map reduce"
+    ],
     "answer": "Distributed data processing model."
   },
   {
-    "keywords": ["recommendation system"],
+    "keywords": [
+      "recommendation system"
+    ],
     "answer": "Uses user behavior and ML models to suggest content."
   },
   {
-    "keywords": ["ranking algorithm"],
+    "keywords": [
+      "ranking algorithm"
+    ],
     "answer": "Sorts results based on relevance."
   },
   {
-    "keywords": ["search relevance"],
+    "keywords": [
+      "search relevance"
+    ],
     "answer": "Improves accuracy of search results."
   },
   {
-    "keywords": ["ab testing"],
+    "keywords": [
+      "ab testing"
+    ],
     "answer": "Compares two versions to find better performance."
   },
   {
-    "keywords": ["feature flag"],
+    "keywords": [
+      "feature flag"
+    ],
     "answer": "Enable/disable features dynamically."
   },
   {
-    "keywords": ["blue green deployment"],
+    "keywords": [
+      "blue green deployment"
+    ],
     "answer": "Switch traffic between two environments."
   },
   {
-    "keywords": ["canary deployment"],
+    "keywords": [
+      "canary deployment"
+    ],
     "answer": "Release feature to small group first."
   },
   {
-    "keywords": ["rolling deployment"],
+    "keywords": [
+      "rolling deployment"
+    ],
     "answer": "Gradually update servers."
   },
   {
-    "keywords": ["rollback"],
+    "keywords": [
+      "rollback"
+    ],
     "answer": "Revert to previous stable version."
   },
   {
-    "keywords": ["zero downtime"],
+    "keywords": [
+      "zero downtime"
+    ],
     "answer": "Deploy without interrupting service."
   },
   {
-    "keywords": ["authentication vs authorization"],
+    "keywords": [
+      "authentication vs authorization"
+    ],
     "answer": "Auth verifies identity, authorization checks permissions."
   },
   {
-    "keywords": ["oauth"],
+    "keywords": [
+      "oauth"
+    ],
     "answer": "Secure delegated access protocol."
   },
   {
-    "keywords": ["sso"],
+    "keywords": [
+      "sso"
+    ],
     "answer": "Single sign-on allows one login for multiple systems."
   },
   {
-    "keywords": ["encryption at rest"],
+    "keywords": [
+      "encryption at rest"
+    ],
     "answer": "Data encrypted when stored."
   },
   {
-    "keywords": ["encryption in transit"],
+    "keywords": [
+      "encryption in transit"
+    ],
     "answer": "Data encrypted during transfer."
   },
   {
-    "keywords": ["tls"],
+    "keywords": [
+      "tls"
+    ],
     "answer": "Protocol for secure communication."
   },
   {
-    "keywords": ["firewall"],
+    "keywords": [
+      "firewall"
+    ],
     "answer": "Blocks unauthorized access."
   },
   {
-    "keywords": ["ddos"],
+    "keywords": [
+      "ddos"
+    ],
     "answer": "Attack flooding system with traffic."
   },
   {
-    "keywords": ["rate limiting security"],
+    "keywords": [
+      "rate limiting security"
+    ],
     "answer": "Prevents abuse by limiting requests."
   },
   {
-    "keywords": ["logging system design"],
+    "keywords": [
+      "logging system design"
+    ],
     "answer": "Centralized logging with tools like ELK stack."
   },
   {
-    "keywords": ["monitoring tools"],
+    "keywords": [
+      "monitoring tools"
+    ],
     "answer": "Uses tools like Prometheus and Grafana."
   },
   {
-    "keywords": ["alerting"],
+    "keywords": [
+      "alerting"
+    ],
     "answer": "Notifies when system issues occur."
   },
   {
-    "keywords": ["incident response"],
+    "keywords": [
+      "incident response"
+    ],
     "answer": "Process to handle production issues."
   },
   {
-    "keywords": ["postmortem"],
+    "keywords": [
+      "postmortem"
+    ],
     "answer": "Analyze failure and improve system."
   },
   {
-    "keywords": ["cost optimization"],
+    "keywords": [
+      "cost optimization"
+    ],
     "answer": "Optimize infrastructure to reduce cost."
   },
   {
-    "keywords": ["cloud scaling"],
+    "keywords": [
+      "cloud scaling"
+    ],
     "answer": "Use cloud auto scaling features."
   },
   {
-    "keywords": ["multi region"],
+    "keywords": [
+      "multi region"
+    ],
     "answer": "Deploy system across regions for availability."
   },
   {
-    "keywords": ["failover"],
+    "keywords": [
+      "failover"
+    ],
     "answer": "Switch to backup system during failure."
   },
   {
-    "keywords": ["disaster recovery"],
+    "keywords": [
+      "disaster recovery"
+    ],
     "answer": "Plan to recover from major failures."
   },
   {
-    "keywords": ["compliance"],
+    "keywords": [
+      "compliance"
+    ],
     "answer": "Adheres to regulations like GDPR and HIPAA."
   },
   {
-    "keywords": ["data privacy"],
+    "keywords": [
+      "data privacy"
+    ],
     "answer": "Protects user data and ensures privacy."
   },
   {
-    "keywords": ["access control"],
+    "keywords": [
+      "access control"
+    ],
     "answer": "Manages permissions for users and services."
   },
   {
-    "keywords": ["audit logging"],
+    "keywords": [
+      "audit logging"
+    ],
     "answer": "Tracks access and changes for security."
   },
   {
-    "keywords": ["api security"],
+    "keywords": [
+      "api security"
+    ],
     "answer": "Secures APIs with authentication, rate limiting, and validation."
   },
-  
   {
-    "keywords": ["html", "html skill"],
+    "keywords": [
+      "html",
+      "html skill"
+    ],
     "answer": "He has strong command over HTML for structuring web applications with semantic and accessible markup."
   },
   {
-    "keywords": ["css", "styling"],
+    "keywords": [
+      "css",
+      "styling"
+    ],
     "answer": "He is skilled in CSS, including responsive design, Flexbox, Grid, and modern UI styling."
   },
   {
-    "keywords": ["javascript", "js"],
+    "keywords": [
+      "javascript",
+      "js"
+    ],
     "answer": "He has strong JavaScript fundamentals including async programming, DOM manipulation, and ES6+ features."
   },
   {
-    "keywords": ["react", "frontend framework"],
+    "keywords": [
+      "react",
+      "frontend framework"
+    ],
     "answer": "He builds modern UI using React with component-based architecture and hooks."
   },
   {
-    "keywords": ["redux", "state management"],
+    "keywords": [
+      "redux",
+      "state management"
+    ],
     "answer": "He uses Redux for scalable state management in complex React applications."
   },
   {
-    "keywords": ["responsive design"],
+    "keywords": [
+      "responsive design"
+    ],
     "answer": "He creates fully responsive designs that work across mobile, tablet, and desktop devices."
   },
   {
-    "keywords": ["ui ux"],
+    "keywords": [
+      "ui ux"
+    ],
     "answer": "Focuses on clean UI and intuitive UX for better user engagement."
   },
   {
-    "keywords": ["frontend architecture"],
+    "keywords": [
+      "frontend architecture"
+    ],
     "answer": "Uses modular and reusable component-based architecture in frontend development."
   },
   {
-    "keywords": ["performance frontend"],
+    "keywords": [
+      "performance frontend"
+    ],
     "answer": "Optimizes frontend performance using lazy loading, memoization, and efficient rendering."
   },
   {
-    "keywords": ["debug frontend"],
+    "keywords": [
+      "debug frontend"
+    ],
     "answer": "Strong debugging skills using browser dev tools and error tracing."
   },
-
   {
-    "keywords": ["node js", "node"],
+    "keywords": [
+      "node js",
+      "node"
+    ],
     "answer": "Builds scalable backend systems using Node.js with asynchronous handling."
   },
   {
-    "keywords": ["express"],
+    "keywords": [
+      "express"
+    ],
     "answer": "Uses Express.js to build REST APIs and backend logic efficiently."
   },
   {
-    "keywords": ["rest api"],
+    "keywords": [
+      "rest api"
+    ],
     "answer": "Designs and builds RESTful APIs for communication between frontend and backend."
   },
   {
-    "keywords": ["authentication", "auth"],
+    "keywords": [
+      "authentication",
+      "auth"
+    ],
     "answer": "Implements secure authentication using JWT and Firebase."
   },
   {
-    "keywords": ["mongodb"],
+    "keywords": [
+      "mongodb"
+    ],
     "answer": "Uses MongoDB for scalable NoSQL database solutions."
   },
   {
-    "keywords": ["database design"],
+    "keywords": [
+      "database design"
+    ],
     "answer": "Designs efficient database schemas for performance and scalability."
   },
   {
-    "keywords": ["api integration"],
+    "keywords": [
+      "api integration"
+    ],
     "answer": "Integrates third-party APIs like Gemini for AI-powered features."
   },
   {
-    "keywords": ["backend performance"],
+    "keywords": [
+      "backend performance"
+    ],
     "answer": "Optimizes backend using async handling and efficient queries."
   },
   {
-    "keywords": ["error handling backend"],
+    "keywords": [
+      "error handling backend"
+    ],
     "answer": "Handles errors gracefully with try-catch and fallback logic."
   },
   {
-    "keywords": ["scalable backend"],
+    "keywords": [
+      "scalable backend"
+    ],
     "answer": "Builds backend systems that can scale with increasing users."
   },
-
   {
-    "keywords": ["git"],
+    "keywords": [
+      "git"
+    ],
     "answer": "Uses Git for version control and collaborative development."
   },
   {
-    "keywords": ["github"],
+    "keywords": [
+      "github"
+    ],
     "answer": "Maintains active GitHub profile with real-world projects."
   },
   {
-    "keywords": ["deployment"],
+    "keywords": [
+      "deployment"
+    ],
     "answer": "Deploys applications using platforms like Vercel and Render."
   },
   {
-    "keywords": ["figma"],
+    "keywords": [
+      "figma"
+    ],
     "answer": "Uses Figma for UI design and prototyping."
   },
   {
-    "keywords": ["vs code"],
+    "keywords": [
+      "vs code"
+    ],
     "answer": "Uses VS Code as primary development environment."
   },
   {
-    "keywords": ["tools"],
+    "keywords": [
+      "tools"
+    ],
     "answer": "Comfortable with modern development tools and workflows."
   },
-
   {
-    "keywords": ["ai", "artificial intelligence"],
+    "keywords": [
+      "ai",
+      "artificial intelligence"
+    ],
     "answer": "Works on AI-powered applications including chatbot systems and automation."
   },
   {
-    "keywords": ["chatbot"],
+    "keywords": [
+      "chatbot"
+    ],
     "answer": "Built intelligent chatbot using Gemini API with memory and fallback logic."
   },
   {
-    "keywords": ["machine learning"],
+    "keywords": [
+      "machine learning"
+    ],
     "answer": "Understands basic ML concepts and data-driven problem solving."
   },
   {
-    "keywords": ["data science"],
+    "keywords": [
+      "data science"
+    ],
     "answer": "Works with Python, Pandas, and data analysis techniques."
   },
   {
-    "keywords": ["python"],
+    "keywords": [
+      "python"
+    ],
     "answer": "Has working knowledge of Python for data analysis and AI tasks."
   },
   {
-    "keywords": ["java"],
+    "keywords": [
+      "java"
+    ],
     "answer": "Strong in Java fundamentals including OOP concepts."
   },
-
   {
-    "keywords": ["problem solving"],
+    "keywords": [
+      "problem solving"
+    ],
     "answer": "Breaks complex problems into simple scalable solutions."
   },
   {
-    "keywords": ["learning ability"],
+    "keywords": [
+      "learning ability"
+    ],
     "answer": "Fast learner who adapts quickly to new technologies."
   },
   {
-    "keywords": ["teamwork"],
+    "keywords": [
+      "teamwork"
+    ],
     "answer": "Collaborates effectively in team environments."
   },
   {
-    "keywords": ["communication"],
+    "keywords": [
+      "communication"
+    ],
     "answer": "Communicates technical ideas clearly."
   },
   {
-    "keywords": ["leadership"],
+    "keywords": [
+      "leadership"
+    ],
     "answer": "Has leadership experience in tech communities."
   },
-
   {
-    "keywords": ["full stack"],
+    "keywords": [
+      "full stack"
+    ],
     "answer": "Capable of building complete applications from frontend to backend."
   },
   {
-    "keywords": ["mern stack"],
+    "keywords": [
+      "mern stack"
+    ],
     "answer": "Experienced in MongoDB, Express, React, and Node.js stack."
   },
   {
-    "keywords": ["real world project"],
+    "keywords": [
+      "real world project"
+    ],
     "answer": "Builds projects solving real-world problems like automation and management systems."
   },
   {
-    "keywords": ["inventory system benefit"],
+    "keywords": [
+      "inventory system benefit"
+    ],
     "answer": "Helps small businesses track stock, reduce errors, and improve efficiency."
   },
   {
-    "keywords": ["event system benefit"],
+    "keywords": [
+      "event system benefit"
+    ],
     "answer": "Simplifies event planning and coordination."
   },
   {
-    "keywords": ["chatbot difference"],
+    "keywords": [
+      "chatbot difference"
+    ],
     "answer": "Uses AI + fallback system unlike traditional rule-based chatbots."
+  },
+  {
+    "keywords": [
+      "tell me about yourself",
+      "introduce yourself",
+      "walk me through your background"
+    ],
+    "answer": "I?m Abhiranjan Tiwary, a Full Stack Developer focused on MERN stack and AI-powered applications. I enjoy building practical, real-world solutions such as chatbots, management systems, and scalable web applications, and I?m continuously improving my backend, system design, and problem-solving skills."
+  },
+  {
+    "keywords": [
+      "why do you want this role",
+      "why this role",
+      "why are you interested in this role"
+    ],
+    "answer": "I?m interested in this role because it aligns well with my background in full stack development and my interest in building practical products that create real impact. It also offers the opportunity to work on real engineering challenges, collaborate with a strong team, and continue growing as a developer."
+  },
+  {
+    "keywords": [
+      "why do you want to join our company",
+      "why our company",
+      "why this company"
+    ],
+    "answer": "I want to join the company because I?m looking for an environment where I can contribute through practical engineering skills while continuing to learn from experienced professionals. I?m especially interested in teams that value ownership, product thinking, and continuous growth."
+  },
+  {
+    "keywords": [
+      "what motivates you",
+      "motivation",
+      "what drives you"
+    ],
+    "answer": "I?m motivated by solving meaningful problems, learning new technologies, and building products that improve user experience or business workflows. I also enjoy seeing an idea move from design to a working solution."
+  },
+  {
+    "keywords": [
+      "biggest achievement",
+      "proud of",
+      "achievement"
+    ],
+    "answer": "One of my proudest achievements is building full stack and AI-based projects that solve practical problems, especially systems like intelligent chatbots and management platforms. These projects helped me strengthen my development, debugging, deployment, and problem-solving skills."
+  },
+  {
+    "keywords": [
+      "biggest challenge",
+      "major challenge",
+      "difficult situation"
+    ],
+    "answer": "One of the biggest challenges I faced was handling API failures and ensuring that the application still delivered a smooth user experience. I addressed it by improving error handling, fallback logic, and overall resilience in the application flow."
+  },
+  {
+    "keywords": [
+      "how do you handle conflict",
+      "conflict in team",
+      "team conflict"
+    ],
+    "answer": "I handle conflict by first understanding the root issue, listening carefully to the other perspective, and then focusing on a practical solution rather than the disagreement itself. I believe clear communication and respect are the best ways to resolve team conflicts."
+  },
+  {
+    "keywords": [
+      "how do you prioritize work",
+      "prioritize tasks",
+      "task prioritization"
+    ],
+    "answer": "I prioritize work based on impact, urgency, and dependencies. I usually break the work into smaller tasks, handle blockers first, and make sure high-value items are delivered on time without compromising quality."
+  },
+  {
+    "keywords": [
+      "where do you see yourself in 5 years",
+      "five years",
+      "5 years from now"
+    ],
+    "answer": "In the next five years, I see myself growing into a strong full stack engineer with deeper backend and system design expertise, while also contributing to impactful AI-driven products and taking on greater ownership in projects."
+  },
+  {
+    "keywords": [
+      "short term goal",
+      "short-term goal"
+    ],
+    "answer": "My short-term goal is to join a strong engineering team, contribute effectively, improve my practical experience, and strengthen my skills in scalable backend systems, product development, and collaboration."
+  },
+  {
+    "keywords": [
+      "long term goal",
+      "long-term goal"
+    ],
+    "answer": "My long-term goal is to become a highly capable software engineer who can design and build scalable products, take ownership of complex systems, and contribute to impactful technology solutions."
+  },
+  {
+    "keywords": [
+      "why should we select you",
+      "why should we choose you",
+      "why you for this role"
+    ],
+    "answer": "You should consider me for this role because I bring practical full stack experience, strong learning ability, and a problem-solving mindset. I focus on building working solutions, adapting quickly, and contributing with consistency and ownership."
+  },
+  {
+    "keywords": [
+      "are you open to relocation",
+      "relocation",
+      "willing to relocate"
+    ],
+    "answer": "Yes, I?m open to relocation if the role and opportunity are the right fit. I?m flexible and focused on growth, learning, and contributing effectively to the team."
+  },
+  {
+    "keywords": [
+      "work from office",
+      "work from home",
+      "hybrid work",
+      "remote or onsite"
+    ],
+    "answer": "I?m comfortable with onsite, hybrid, or remote work depending on the role and team requirements. My focus is on being productive, collaborative, and delivering quality work in any setup."
+  },
+  {
+    "keywords": [
+      "notice period",
+      "when can you join",
+      "joining date",
+      "availability to join"
+    ],
+    "answer": "I?m available to join based on the company?s timeline and can discuss the earliest practical joining date. I?m flexible and would try to align as smoothly as possible with the hiring process."
+  },
+  {
+    "keywords": [
+      "current salary",
+      "current ctc",
+      "current package"
+    ],
+    "answer": "As an early-career candidate, my main focus is on finding the right role, learning environment, and growth opportunity. I?m happy to discuss compensation in line with the role, responsibilities, and company standards."
+  },
+  {
+    "keywords": [
+      "expected salary",
+      "salary expectation",
+      "expected ctc",
+      "expected package",
+      "how much salary",
+      "expected lpa",
+      "what are your salary expectations"
+    ],
+    "answer": "I?m open to a fair and market-aligned compensation based on the role, responsibilities, and growth opportunity. My priority is joining the right team and contributing effectively, so I?m flexible if the overall opportunity is strong."
+  },
+  {
+    "keywords": [
+      "is this ctc okay",
+      "is this package okay",
+      "is this salary okay",
+      "is this lpa okay",
+      "is this offer okay for you",
+      "is this role ctc okay"
+    ],
+    "answer": "Yes, I?m open to discussing the offer constructively. If the role, responsibilities, learning opportunity, and overall growth are aligned, I?m comfortable considering a fair package."
+  },
+  {
+    "keywords": [
+      "would you accept this offer",
+      "can we consider this accepted",
+      "offer acceptance",
+      "do you accept the offer"
+    ],
+    "answer": "Thank you for the offer. I?m genuinely interested, and I would be happy to review the final details carefully. If everything is aligned as discussed, I?d be glad to move forward positively."
+  },
+  {
+    "keywords": [
+      "please think and let us know",
+      "take your time",
+      "let us know your decision",
+      "you can think about it"
+    ],
+    "answer": "Thank you, I appreciate that. I?ll review the details carefully and get back with my decision within the expected timeline."
+  },
+  {
+    "keywords": [
+      "do you need time to think",
+      "would you like some time",
+      "need time to decide"
+    ],
+    "answer": "Yes, I?d appreciate a little time to review the offer and think it through carefully. I?ll respond within the timeline you?re comfortable with."
+  },
+  {
+    "keywords": [
+      "are you comfortable with this budget",
+      "is this budget fine",
+      "budget for this role"
+    ],
+    "answer": "I?m comfortable discussing the compensation within the company?s budget as long as the role, responsibilities, and long-term growth opportunity are aligned."
+  },
+  {
+    "keywords": [
+      "do you have any questions for us",
+      "any questions for me",
+      "questions for the interviewer",
+      "questions for hr"
+    ],
+    "answer": "Yes, I?d be glad to ask a few questions. I?d like to understand the team structure, expectations for the role in the first few months, the main projects I would work on, and how performance and growth are usually evaluated."
+  },
+  {
+    "keywords": [
+      "why are you leaving",
+      "why looking for a change",
+      "why job change"
+    ],
+    "answer": "I?m looking for an opportunity where I can apply my practical full stack skills more effectively, work on meaningful engineering problems, and continue growing in a structured professional environment."
+  },
+  {
+    "keywords": [
+      "do you have any offer",
+      "other offers",
+      "holding any offer"
+    ],
+    "answer": "At the moment, my focus is on finding the right opportunity where I can contribute and grow. I?m evaluating roles based on learning, team quality, responsibilities, and long-term alignment."
+  },
+  {
+    "keywords": [
+      "how do you learn new technology",
+      "how do you learn",
+      "learning process"
+    ],
+    "answer": "I usually start by understanding the fundamentals, then build something practical with the technology. That hands-on approach helps me learn faster and retain concepts more effectively."
+  },
+  {
+    "keywords": [
+      "are you okay with feedback",
+      "handle feedback",
+      "receive feedback"
+    ],
+    "answer": "Yes, I value feedback because it helps me improve faster. I try to take it positively, understand the intention behind it, and use it to become more effective in my work."
+  },
+  {
+    "keywords": [
+      "thank you for your time",
+      "thanks for your time",
+      "thanks for interviewing",
+      "interview completed"
+    ],
+    "answer": "Thank you for your time and for the opportunity. I really appreciate the conversation and would be happy to move forward in the process."
+  },
+  {
+    "keywords": [
+      "we will get back to you",
+      "we will let you know",
+      "we will update you soon"
+    ],
+    "answer": "Thank you, I appreciate the update. I?ll look forward to hearing from you and would be glad to continue with the next steps."
+  },
+  {
+    "keywords": [
+      "congratulations you are selected",
+      "you are selected",
+      "selected for the role",
+      "you got the job"
+    ],
+    "answer": "Thank you so much. I?m really excited about this opportunity and I?d be happy to move forward with the next steps."
+  },
+  {
+    "keywords": [
+      "can you join immediately",
+      "immediate joining",
+      "join immediately"
+    ],
+    "answer": "I?m flexible and can discuss the earliest practical joining date. I?ll try my best to align quickly with the company?s requirement while ensuring a smooth transition."
+  },
+  {
+    "keywords": [
+      "are you comfortable with bond",
+      "service agreement",
+      "employment bond"
+    ],
+    "answer": "I?d be open to understanding the terms in detail first. My preference is always to evaluate such conditions carefully along with the role, responsibilities, and long-term fit."
+  },
+  {
+    "keywords": [
+      "anything else you want to add",
+      "final words",
+      "closing statement"
+    ],
+    "answer": "I?d just like to say that I?m genuinely interested in opportunities where I can contribute through practical engineering skills, keep learning, and grow with the team. Thank you again for the discussion."
+  },
+  {
+    "keywords": [
+      "why are you suitable for this role",
+      "why are you fit for this role",
+      "why are you a good fit for this role"
+    ],
+    "answer": "I?m a strong fit for this role because my practical experience matches the responsibilities well. I have hands-on exposure to full stack development, problem solving, API integration, deployment, and building real-world projects, which allows me to contribute effectively from the beginning while continuing to grow."
+  },
+  {
+    "keywords": [
+      "why are you suitable for frontend role",
+      "why frontend role suits you",
+      "why frontend"
+    ],
+    "answer": "I?m suitable for a frontend role because I enjoy building user-focused interfaces and I have practical experience with React, responsive UI design, component-based architecture, and improving overall user experience."
+  },
+  {
+    "keywords": [
+      "why are you suitable for backend role",
+      "why backend role suits you",
+      "why backend"
+    ],
+    "answer": "I?m suitable for a backend role because I have hands-on experience building APIs, managing authentication, integrating databases, handling business logic, and thinking carefully about reliability, structure, and scalability."
+  },
+  {
+    "keywords": [
+      "why are you suitable for full stack role",
+      "why full stack role suits you",
+      "why full stack role"
+    ],
+    "answer": "I?m suitable for a full stack role because I?m comfortable working across both frontend and backend. I can build interfaces, connect them with APIs, manage application logic, and ensure the complete solution works smoothly end to end."
+  },
+  {
+    "keywords": [
+      "why should we hire you for internship",
+      "why internship role",
+      "why should we hire you as an intern"
+    ],
+    "answer": "You should hire me for an internship because I bring practical project experience, strong learning ability, and genuine interest in applying my skills in a real engineering environment. I?m eager to learn, contribute, and improve quickly through hands-on work."
+  },
+  {
+    "keywords": [
+      "why should we hire you as a fresher",
+      "fresher role",
+      "why hire you as fresher"
+    ],
+    "answer": "As a fresher, I may not have years of industry experience, but I do bring strong practical project exposure, quick learning ability, and a serious approach toward ownership and execution. I can adapt fast and contribute with energy, consistency, and commitment."
+  },
+  {
+    "keywords": [
+      "what value will you bring",
+      "value to the company",
+      "what can you bring to the team"
+    ],
+    "answer": "I can bring practical problem-solving, strong execution, willingness to learn quickly, and a mindset focused on building useful, reliable solutions. I also try to be collaborative, proactive, and dependable in team environments."
+  },
+  {
+    "keywords": [
+      "what makes you different",
+      "what makes you stand out",
+      "why are you different from other candidates"
+    ],
+    "answer": "What makes me stand out is that I combine practical MERN stack development with AI-oriented problem solving, and I focus on building complete real-world solutions rather than only learning theory."
+  },
+  {
+    "keywords": [
+      "what is your ideal role",
+      "ideal role",
+      "what kind of role are you looking for"
+    ],
+    "answer": "My ideal role is one where I can work on meaningful software problems, contribute across product and engineering tasks, keep learning from strong teammates, and grow through practical hands-on development."
+  },
+  {
+    "keywords": [
+      "what kind of company are you looking for",
+      "ideal company",
+      "what environment are you looking for"
+    ],
+    "answer": "I?m looking for a company that values ownership, learning, collaboration, and practical impact. I?m especially interested in teams where I can contribute meaningfully while growing through real engineering challenges."
+  },
+  {
+    "keywords": [
+      "are you okay with startup environment",
+      "startup environment",
+      "comfortable in startup"
+    ],
+    "answer": "Yes, I?m comfortable with a startup environment because it usually offers fast learning, broader ownership, and opportunities to solve real problems directly. I enjoy adaptability and hands-on execution."
+  },
+  {
+    "keywords": [
+      "are you comfortable with corporate environment",
+      "corporate environment",
+      "comfortable in corporate"
+    ],
+    "answer": "Yes, I?m comfortable in a structured corporate environment as well. I value clarity, process, collaboration, and the opportunity to learn from experienced teams while contributing consistently."
+  },
+  {
+    "keywords": [
+      "can you work with deadlines",
+      "deadline pressure",
+      "tight deadlines"
+    ],
+    "answer": "Yes, I can work with deadlines. I handle them by planning tasks clearly, prioritizing important work first, and maintaining focus so that I can deliver quality output within the expected time."
+  },
+  {
+    "keywords": [
+      "can you work independently",
+      "independent work",
+      "work without supervision"
+    ],
+    "answer": "Yes, I can work independently when needed. I?m comfortable taking ownership of tasks, figuring out solutions, and staying accountable, while also asking the right questions when collaboration is necessary."
+  },
+  {
+    "keywords": [
+      "can you work in a team",
+      "team collaboration",
+      "team environment"
+    ],
+    "answer": "Yes, I work well in team environments. I believe in clear communication, shared ownership, and supporting others while staying focused on the common goal."
+  },
+  {
+    "keywords": [
+      "how do you handle rejection",
+      "handle failure",
+      "what if you fail"
+    ],
+    "answer": "I see rejection or failure as feedback. I try to understand what went wrong, improve my approach, and come back better prepared. It helps me grow stronger both technically and professionally."
+  },
+  {
+    "keywords": [
+      "how do you handle criticism",
+      "criticism",
+      "negative feedback"
+    ],
+    "answer": "I handle criticism constructively. I listen carefully, understand the underlying point, and use it as an opportunity to improve my work and communication."
+  },
+  {
+    "keywords": [
+      "how do you stay updated",
+      "stay updated with technology",
+      "latest tech"
+    ],
+    "answer": "I stay updated by following documentation, building practical projects, exploring new tools, and learning through technical communities and hands-on experimentation."
+  },
+  {
+    "keywords": [
+      "why did you choose software engineering",
+      "why software development",
+      "why tech career"
+    ],
+    "answer": "I chose software engineering because I enjoy solving problems, building useful systems, and continuously learning. Technology gives me the ability to turn ideas into practical products that can create real impact."
+  },
+  {
+    "keywords": [
+      "what are your expectations from this job",
+      "job expectations",
+      "expectations from role"
+    ],
+    "answer": "My expectations are to work on meaningful tasks, learn from experienced professionals, improve my skills through real execution, and contribute in a way that adds value to the team and product."
+  },
+  {
+    "keywords": [
+      "what are your expectations from company",
+      "expectations from company",
+      "what do you expect from us"
+    ],
+    "answer": "I expect a professional environment where I can learn, contribute, receive constructive feedback, and grow through real responsibilities and collaboration."
+  },
+  {
+    "keywords": [
+      "why should we not reject you",
+      "why should we avoid rejecting you",
+      "why not reject"
+    ],
+    "answer": "Because I bring genuine commitment, practical skills, and a strong willingness to learn and contribute. I?m serious about growth, take ownership of my work, and focus on solving real problems effectively."
+  },
+  {
+    "keywords": [
+      "what if we give lower package",
+      "lower package",
+      "if salary is lower"
+    ],
+    "answer": "If the role offers strong learning, meaningful responsibilities, and long-term growth, I?m open to considering the overall opportunity holistically. My main priority is finding the right environment to contribute and grow."
+  },
+  {
+    "keywords": [
+      "can you negotiate salary",
+      "salary negotiation",
+      "are you open to salary discussion"
+    ],
+    "answer": "Yes, I?m open to a professional compensation discussion. I believe salary should reflect the role, expectations, and market standards, and I?m comfortable discussing it constructively."
+  },
+  {
+    "keywords": [
+      "this ctc is perfect for you",
+      "this package is perfect for you",
+      "this is a fair package for you"
+    ],
+    "answer": "Thank you for sharing that. I appreciate the offer and I?m open to evaluating it positively based on the overall role, responsibilities, learning opportunity, and long-term growth potential."
+  },
+  {
+    "keywords": [
+      "can you confirm acceptance",
+      "accept now",
+      "please confirm your acceptance"
+    ],
+    "answer": "Thank you. I?m positive about the opportunity and would be happy to confirm after reviewing the final details carefully, so I can move forward with full clarity and confidence."
+  },
+  {
+    "keywords": [
+      "take a day and decide",
+      "sleep on it",
+      "decide by tomorrow"
+    ],
+    "answer": "Thank you, I appreciate the time. I?ll review everything carefully and get back with a clear response within the expected timeline."
+  },
+  {
+    "keywords": [
+      "thank you for considering this opportunity",
+      "thank you for the opportunity",
+      "appreciate the opportunity"
+    ],
+    "answer": "Thank you for the opportunity. I truly appreciate your consideration and I?m excited about the possibility of contributing to the team."
+  },
+  {
+    "keywords": [
+      "hr round",
+      "hr interview",
+      "hr questions"
+    ],
+    "answer": "In an HR discussion, he can confidently address questions related to motivation, culture fit, strengths, career goals, teamwork, communication, salary expectations, joining availability, and long-term growth."
+  },
+  {
+    "keywords": [
+      "frontend interview",
+      "frontend hr",
+      "frontend candidate"
+    ],
+    "answer": "For a frontend-focused discussion, he can highlight React, responsive UI, component architecture, user experience, debugging, and performance optimization skills."
+  },
+  {
+    "keywords": [
+      "backend interview",
+      "backend hr",
+      "backend candidate"
+    ],
+    "answer": "For a backend-focused discussion, he can highlight API design, authentication, database integration, error handling, scalability awareness, and practical Node.js development experience."
+  },
+  {
+    "keywords": [
+      "full stack interview",
+      "full stack hr",
+      "full stack candidate"
+    ],
+    "answer": "For a full stack discussion, he can clearly explain how he builds complete solutions across frontend, backend, APIs, deployment, and business logic, while keeping scalability and usability in mind."
+  },
+  {
+    "keywords": [
+      "internship interview",
+      "internship hr questions",
+      "intern interview"
+    ],
+    "answer": "For internship-style HR questions, he can present himself as a practical learner with hands-on project exposure, strong adaptability, problem-solving ability, and a serious attitude toward growth and contribution."
+  },
+  {
+    "keywords": [
+      "fresher interview",
+      "fresher hr questions",
+      "fresher candidate"
+    ],
+    "answer": "For fresher-level questions, he can confidently explain his project-based experience, readiness to learn quickly, strong fundamentals, and willingness to contribute from day one with discipline and ownership."
+  },
+  {
+    "keywords": [
+      "will you be loyal",
+      "loyalty",
+      "long term with company"
+    ],
+    "answer": "I value long-term growth and meaningful contribution. If the role offers the right learning, responsibilities, and professional environment, I would be happy to commit seriously and grow with the company."
+  },
+  {
+    "keywords": [
+      "do you have any location preference",
+      "preferred location",
+      "location preference"
+    ],
+    "answer": "I?m flexible regarding location and more focused on the right opportunity, strong learning environment, and meaningful work."
+  },
+  {
+    "keywords": [
+      "can you work extra hours",
+      "weekend work",
+      "overtime"
+    ],
+    "answer": "I understand that sometimes important deadlines require additional effort. I?m willing to be flexible when genuinely needed, while also believing in maintaining sustainable productivity and quality work."
+  },
+  {
+    "keywords": [
+      "why should we hire you",
+      "why should we hire you for this role",
+      "why should we select you"
+    ],
+    "answer": "You should hire me because I combine practical project experience, strong learning ability, and a serious ownership mindset. I focus on understanding problems clearly, building usable solutions, and continuously improving based on feedback, which makes me a reliable fit for growth-oriented roles."
+  },
+  {
+    "keywords": [
+      "why should we hire you for frontend role",
+      "frontend role why hire you",
+      "why frontend"
+    ],
+    "answer": "For a frontend role, I can contribute through React-based UI development, component-driven design, responsive layouts, debugging, and user-focused implementation. I pay attention to both usability and code quality, which helps me build interfaces that are practical and maintainable."
+  },
+  {
+    "keywords": [
+      "why should we hire you for backend role",
+      "backend role why hire you",
+      "why backend"
+    ],
+    "answer": "For a backend role, I can contribute with practical Node.js development, API integration, data handling, database interaction, and structured problem solving. I focus on writing logic that is reliable, scalable, and aligned with real application workflows."
+  },
+  {
+    "keywords": [
+      "why should we hire you for full stack role",
+      "full stack role why hire you",
+      "why full stack"
+    ],
+    "answer": "For a full stack role, I bring the ability to connect frontend, backend, APIs, deployment, and product thinking into one practical workflow. I can understand the complete picture of a feature and contribute across layers with a problem-solving mindset."
+  },
+  {
+    "keywords": [
+      "what makes you different",
+      "what makes you stand out",
+      "different from other candidates"
+    ],
+    "answer": "What makes me different is that I focus on practical execution rather than only theory. I learn quickly, build real projects, adapt well to new tools, and stay committed to delivering work that solves actual problems instead of just completing tasks formally."
+  },
+  {
+    "keywords": [
+      "why should we choose you over others",
+      "why should we prefer you",
+      "why you over other candidates"
+    ],
+    "answer": "You can choose me over other candidates because I bring a balanced mix of hands-on development experience, strong willingness to learn, and a dependable work ethic. I take ownership seriously and aim to contribute with consistency, not just enthusiasm."
+  },
+  {
+    "keywords": [
+      "what are your strengths",
+      "your strengths",
+      "biggest strengths"
+    ],
+    "answer": "My key strengths are problem solving, adaptability, practical learning, and ownership. I am comfortable learning new tools quickly, working through real implementation challenges, and staying committed until the task is completed properly."
+  },
+  {
+    "keywords": [
+      "what are your weaknesses",
+      "your weaknesses",
+      "biggest weakness"
+    ],
+    "answer": "One area I continue improving is spending extra time refining solutions because I want the output to be solid and well thought through. Over time, I have become better at balancing quality with delivery timelines by prioritizing what creates the most impact first."
+  },
+  {
+    "keywords": [
+      "how do you handle pressure",
+      "work under pressure",
+      "can you work under pressure"
+    ],
+    "answer": "I handle pressure by breaking the problem into smaller priorities, focusing on what is most critical first, and staying calm instead of reacting emotionally. Pressure becomes manageable when the work is structured, timelines are clear, and communication remains consistent."
+  },
+  {
+    "keywords": [
+      "how do you handle deadlines",
+      "strict deadlines",
+      "tight deadlines"
+    ],
+    "answer": "With strict deadlines, I focus on clear prioritization, realistic execution, and regular progress tracking. I first complete the highest-impact tasks, communicate early if any dependency appears, and make sure quality does not get ignored while moving fast."
+  },
+  {
+    "keywords": [
+      "can you work in startup environment",
+      "startup environment",
+      "comfortable in startup"
+    ],
+    "answer": "Yes, I am comfortable in a startup-style environment because it offers ownership, fast learning, and exposure to real problem solving across functions. I understand that startup roles often require adaptability, initiative, and willingness to take responsibility."
+  },
+  {
+    "keywords": [
+      "can you work under strict manager",
+      "strict manager",
+      "work with demanding manager"
+    ],
+    "answer": "Yes, as long as expectations are clear and feedback is constructive, I am comfortable working with a strict or high-expectation manager. I see that as an opportunity to improve discipline, execution quality, and professional maturity."
+  },
+  {
+    "keywords": [
+      "can you work in team",
+      "team player",
+      "how do you work in a team"
+    ],
+    "answer": "Yes, I work well in teams because I value communication, clarity, and shared accountability. I try to listen carefully, contribute practically, support teammates when needed, and keep the focus on solving the problem rather than creating friction."
+  },
+  {
+    "keywords": [
+      "how do you handle conflict in team",
+      "team conflict",
+      "conflict with teammate"
+    ],
+    "answer": "If conflict happens in a team, I prefer to first understand the actual issue calmly, discuss it respectfully, and bring the conversation back to the shared objective. I believe most conflicts can be resolved through clarity, professionalism, and focusing on solutions instead of ego."
+  },
+  {
+    "keywords": [
+      "can you take feedback",
+      "how do you handle feedback",
+      "accept criticism"
+    ],
+    "answer": "Yes, I value constructive feedback because it helps me improve faster. I do not see feedback as personal criticism; I see it as guidance that helps me raise the quality of my work and grow professionally."
+  },
+  {
+    "keywords": [
+      "can you work in rotational shift",
+      "rotational shift",
+      "shift work"
+    ],
+    "answer": "If the role genuinely requires rotational shifts and the expectations are communicated clearly, I can be flexible. My main priority is understanding the work environment and ensuring I can contribute consistently and responsibly."
+  },
+  {
+    "keywords": [
+      "can you work in night shift",
+      "night shift",
+      "comfortable with night shift"
+    ],
+    "answer": "If the role requires night shift support and the arrangement is structured, I am open to considering it professionally. I would evaluate it in the context of role responsibilities, team expectations, and long-term growth."
+  },
+  {
+    "keywords": [
+      "can you relocate immediately",
+      "relocate immediately",
+      "move to another city"
+    ],
+    "answer": "Yes, if the opportunity is the right fit and the joining expectations are clear, I can plan relocation accordingly. I am flexible about location when the role offers good learning, responsibility, and growth."
+  },
+  {
+    "keywords": [
+      "are you comfortable with hybrid work",
+      "hybrid work model",
+      "comfortable with hybrid"
+    ],
+    "answer": "Yes, I am comfortable with a hybrid work model. It offers a practical balance between collaboration and focused execution, and I can adapt well to whichever structure helps the team perform effectively."
+  },
+  {
+    "keywords": [
+      "are you comfortable with onsite role",
+      "onsite role",
+      "comfortable with onsite"
+    ],
+    "answer": "Yes, I am comfortable with an onsite role if the opportunity aligns with my learning goals, responsibilities, and career direction. I value direct collaboration and understand the benefits of working closely with the team."
+  },
+  {
+    "keywords": [
+      "what salary are you expecting",
+      "salary expectation",
+      "what is your expected package"
+    ],
+    "answer": "I am open to a fair compensation package aligned with the role, expectations, and market standards. My main focus is to join a role where I can contribute meaningfully, learn consistently, and grow through practical work."
+  },
+  {
+    "keywords": [
+      "what is your expected lpa",
+      "expected lpa",
+      "what lpa are you expecting"
+    ],
+    "answer": "I am open to discussing a fair LPA range based on the role, responsibilities, learning opportunity, and overall growth path. I would prefer a package that is aligned with market expectations and the value I can contribute."
+  },
+  {
+    "keywords": [
+      "is 3 lpa okay",
+      "is 4 lpa okay",
+      "is 5 lpa okay",
+      "is this lpa okay for you"
+    ],
+    "answer": "I would look at the complete opportunity before deciding, including the role scope, learning curve, growth potential, and team environment. If those aspects are strong, I am open to discussing the compensation constructively."
+  },
+  {
+    "keywords": [
+      "are you okay with this ctc",
+      "is this ctc acceptable",
+      "ctc acceptable for you"
+    ],
+    "answer": "Yes, I am open to evaluating the offered CTC in the broader context of role quality, responsibilities, learning opportunity, and long-term growth. I prefer to approach compensation professionally and holistically."
+  },
+  {
+    "keywords": [
+      "can we close at this package",
+      "close at this salary",
+      "final package"
+    ],
+    "answer": "I appreciate the discussion. If the role, responsibilities, and long-term growth are aligned with my expectations, I am open to closing constructively and moving forward with clarity."
+  },
+  {
+    "keywords": [
+      "will you accept the offer",
+      "do you accept the offer",
+      "offer acceptance"
+    ],
+    "answer": "Thank you for the offer. I am positive about the opportunity and would like to review the final details carefully before confirming formally, so I can move ahead with full clarity and commitment."
+  },
+  {
+    "keywords": [
+      "can we consider this accepted",
+      "shall we take this as accepted",
+      "is this accepted"
+    ],
+    "answer": "I am strongly positive about the opportunity, and once I review the final terms properly, I would be happy to confirm the acceptance in a professional and clear manner."
+  },
+  {
+    "keywords": [
+      "need some time to think",
+      "take time to think",
+      "do you need time to decide"
+    ],
+    "answer": "Thank you, I appreciate the time to think it through. I will review the details carefully and respond within the agreed timeline with a clear and professional decision."
+  },
+  {
+    "keywords": [
+      "what if we need immediate answer",
+      "immediate decision",
+      "answer right now"
+    ],
+    "answer": "I understand the need for timely decisions. If possible, I would still prefer a short window to review the final details carefully so that I can confirm with clarity and full commitment."
+  },
+  {
+    "keywords": [
+      "if selected when can you join",
+      "when can you join",
+      "joining timeline"
+    ],
+    "answer": "If selected, I can align my joining based on the company?s timeline and current commitments. I am flexible and would aim to join as early as realistically possible with proper readiness."
+  },
+  {
+    "keywords": [
+      "can you join in 7 days",
+      "join in a week",
+      "join within 7 days"
+    ],
+    "answer": "If the process and expectations are clear, I can make a sincere effort to align with a 7-day joining timeline. I would just want to confirm any practical dependencies before giving a final commitment."
+  },
+  {
+    "keywords": [
+      "can you join tomorrow",
+      "join tomorrow",
+      "immediate joining tomorrow"
+    ],
+    "answer": "I appreciate the urgency. If the final details are confirmed and there are no practical blockers on my side, I would try to support an immediate joining timeline as responsibly as possible."
+  },
+  {
+    "keywords": [
+      "are you interviewing elsewhere",
+      "other interviews",
+      "other companies"
+    ],
+    "answer": "Yes, I may be exploring a few opportunities, but I evaluate each role seriously based on learning, responsibilities, culture, and long-term growth. My focus is on finding the right fit, not just any offer."
+  },
+  {
+    "keywords": [
+      "do you have any offers",
+      "other offers in hand",
+      "offer in hand"
+    ],
+    "answer": "At the moment, I may be in discussion with other opportunities, but I prefer to evaluate options based on alignment rather than urgency alone. I am focused on choosing the role where I can contribute and grow meaningfully."
+  },
+  {
+    "keywords": [
+      "what are your career goals",
+      "career goals",
+      "professional goals"
+    ],
+    "answer": "My career goal is to grow into a strong software engineer who can build reliable, scalable, and useful products. I want to keep improving both my technical depth and my ability to solve real business problems through practical execution."
+  },
+  {
+    "keywords": [
+      "where do you see yourself in 3 years",
+      "3 year goal",
+      "three years from now"
+    ],
+    "answer": "In three years, I see myself as a much stronger engineer with deeper execution ability, stronger decision-making, and more responsibility in building real systems. I want to be someone who is trusted for both quality work and problem solving."
+  },
+  {
+    "keywords": [
+      "do you want to stay technical",
+      "technical or management",
+      "technical path"
+    ],
+    "answer": "At this stage, I am more focused on strengthening my technical foundation and practical engineering ability. Over time, I would like to grow into broader responsibilities, but my current priority is building strong execution depth."
+  },
+  {
+    "keywords": [
+      "what motivates you to work",
+      "what drives you",
+      "what keeps you motivated"
+    ],
+    "answer": "I am motivated by the chance to solve meaningful problems, keep improving my skills, and create work that has visible impact. Real learning, ownership, and the ability to contribute effectively are strong drivers for me."
+  },
+  {
+    "keywords": [
+      "how do you learn new technology",
+      "learn new tools",
+      "pick up new technology"
+    ],
+    "answer": "I usually learn new technology by understanding the basics first, then applying it through small practical builds, debugging real issues, and gradually using it in larger project workflows. Hands-on execution helps me learn faster and retain better."
+  },
+  {
+    "keywords": [
+      "can you explain your role fit",
+      "fit for this role",
+      "why are you fit for this role"
+    ],
+    "answer": "I believe I am a good fit for this role because my skills, learning mindset, and project experience align with the kind of work expected. I can adapt quickly, contribute practically, and grow with responsibility rather than needing constant hand-holding."
+  },
+  {
+    "keywords": [
+      "how do you respond to rejection",
+      "rejection",
+      "if not selected"
+    ],
+    "answer": "I see rejection as feedback from the process, not as a final judgment of my potential. I prefer to reflect on what I can improve, keep learning, and come back stronger with better preparation and execution."
+  },
+  {
+    "keywords": [
+      "thank you we will connect soon",
+      "we will connect soon",
+      "we will update you soon"
+    ],
+    "answer": "Thank you for the update. I appreciate your time and consideration, and I look forward to hearing from you. Please let me know if you need any further information from my side."
+  },
+  {
+    "keywords": [
+      "congratulations you are selected",
+      "you are selected",
+      "selected for the role"
+    ],
+    "answer": "Thank you so much. I truly appreciate the opportunity and I?m excited to move forward. Please share the next steps, and I will be happy to complete everything required from my side promptly."
+  },
+  {
+    "keywords": [
+      "welcome to the team",
+      "welcome onboard",
+      "glad to have you onboard"
+    ],
+    "answer": "Thank you very much. I?m grateful for the opportunity and excited to be part of the team. I look forward to contributing positively and learning through the work ahead."
+  },
+  {
+    "keywords": [
+      "do you want to say anything else",
+      "anything else",
+      "final statement"
+    ],
+    "answer": "Yes, I would just like to say that I am genuinely interested in opportunities where I can contribute through practical work, keep learning, and grow with responsibility. I appreciate the discussion and would be glad to move forward if there is a strong fit."
+  },
+  {
+    "keywords": [
+      "why walmart",
+      "why do you want to join walmart",
+      "why walmart for this role"
+    ],
+    "answer": "I see Walmart as a company where technology operates at real scale and directly supports millions of users and business workflows. The opportunity to work on practical, high-impact systems while learning in a strong engineering environment makes Walmart highly attractive to me."
+  },
+  {
+    "keywords": [
+      "why deloitte",
+      "why do you want to join deloitte",
+      "why deloitte for this role"
+    ],
+    "answer": "I see Deloitte as a strong learning environment where technology, problem solving, and business impact come together. The exposure to real client problems, structured delivery, and high professional standards makes it a valuable place for me to grow and contribute."
+  },
+  {
+    "keywords": [
+      "why jp morgan",
+      "why do you want to join jp morgan",
+      "why j p morgan"
+    ],
+    "answer": "J.P. Morgan attracts me because it combines large-scale technology with real financial impact. I am particularly interested in environments where engineering quality, reliability, and structured systems matter deeply, and I believe that kind of exposure would strengthen my growth significantly."
+  },
+  {
+    "keywords": [
+      "why this company specifically",
+      "why our company",
+      "why do you want to work with us"
+    ],
+    "answer": "I want to work with this company because I am looking for a role where I can contribute through practical execution, keep improving my technical depth, and grow in an environment that values ownership, learning, and real problem solving."
+  },
+  {
+    "keywords": [
+      "why mnc",
+      "why do you want to join an mnc",
+      "why large company"
+    ],
+    "answer": "An MNC offers structured learning, strong engineering processes, exposure to scalable systems, and collaboration with experienced professionals. I see that as a strong environment for long-term growth, discipline, and high-quality execution."
+  },
+  {
+    "keywords": [
+      "why startup over mnc",
+      "startup or mnc",
+      "which do you prefer startup or mnc"
+    ],
+    "answer": "I believe both have value. Startups offer speed, ownership, and broad exposure, while MNCs offer scale, structure, and process maturity. My decision depends on where I can contribute meaningfully, learn deeply, and grow through real responsibilities."
+  },
+  {
+    "keywords": [
+      "how is walmart simulation relevant",
+      "walmart forage relevant",
+      "how does walmart virtual experience help"
+    ],
+    "answer": "The Walmart simulation was relevant because it involved practical tasks across data structures, architecture, database design, and data processing. It strengthened my ability to approach business-oriented technical problems in a structured and implementation-focused way."
+  },
+  {
+    "keywords": [
+      "how is deloitte simulation relevant",
+      "deloitte forage relevant",
+      "how does deloitte virtual experience help"
+    ],
+    "answer": "The Deloitte virtual experience was relevant because it exposed me to structured business problem solving and practical technology-oriented thinking. It helped me understand how technical work connects to real organizational and client needs in a professional setting."
+  },
+  {
+    "keywords": [
+      "how is jp morgan simulation relevant",
+      "jp morgan forage relevant",
+      "how does jp morgan virtual experience help"
+    ],
+    "answer": "The J.P. Morgan simulation was relevant because it gave me exposure to enterprise-style software engineering workflows and helped me think more carefully about structured implementation, financial technology context, and real-world engineering expectations."
+  },
+  {
+    "keywords": [
+      "are virtual experiences real",
+      "forage real experience",
+      "do virtual simulations matter"
+    ],
+    "answer": "Virtual experience programs are not the same as full-time industry employment, but they are still valuable because they simulate real business-oriented tasks and help build structured problem-solving ability. I present them honestly as practical learning experiences that strengthened my execution mindset."
+  },
+  {
+    "keywords": [
+      "why should we value your certifications",
+      "do certifications matter",
+      "why are your certificates relevant"
+    ],
+    "answer": "I do not rely on certifications alone. What makes them relevant is that they support practical skills I have applied through projects and implementation. I use them as proof of focused learning and domain exposure, not as a substitute for real execution."
+  },
+  {
+    "keywords": [
+      "what did you learn from forage",
+      "forage learnings",
+      "what did forage teach you"
+    ],
+    "answer": "From Forage programs, I learned how to approach technical tasks more structurally, connect engineering decisions with business context, and think in terms of maintainability, scalability, and problem clarity rather than only code completion."
+  },
+  {
+    "keywords": [
+      "why internship role",
+      "why are you applying for internship",
+      "why internship"
+    ],
+    "answer": "I am applying for an internship because it gives me the chance to work in a professional environment, contribute to real tasks, and strengthen my practical execution under experienced guidance. I see internships as a strong bridge between learning and responsible contribution."
+  },
+  {
+    "keywords": [
+      "why fresher role",
+      "why entry level role",
+      "why fresher position"
+    ],
+    "answer": "A fresher role is the right step for me because I already have practical project exposure and now want to convert that into consistent execution in a professional team setting. It is the right point to contribute, learn fast, and build long-term engineering depth."
+  },
+  {
+    "keywords": [
+      "why react role",
+      "why react developer role",
+      "why frontend developer role"
+    ],
+    "answer": "I am interested in a React or frontend role because I enjoy building clean, responsive, and user-focused interfaces. I like the combination of problem solving, component architecture, and visual usability that frontend work offers, especially when it directly improves user experience."
+  },
+  {
+    "keywords": [
+      "why node role",
+      "why backend developer role",
+      "why node js role"
+    ],
+    "answer": "I am interested in a Node.js or backend role because I enjoy building the logic that powers real applications, including APIs, data handling, and structured workflows. Backend development lets me think more deeply about reliability, architecture, and problem solving."
+  },
+  {
+    "keywords": [
+      "why full stack role specifically",
+      "why full stack developer role",
+      "why choose full stack"
+    ],
+    "answer": "I am drawn to full stack roles because they allow me to understand the product end to end and contribute across interface, logic, data flow, and deployment. I enjoy seeing how all layers connect and how a complete solution comes together in practice."
+  },
+  {
+    "keywords": [
+      "are you good fit for intern role",
+      "fit for internship role",
+      "why fit for internship"
+    ],
+    "answer": "I am a good fit for an internship role because I already have hands-on project exposure, I learn quickly, and I take responsibility seriously. I can contribute with discipline while also using the role as an opportunity to sharpen my professional execution."
+  },
+  {
+    "keywords": [
+      "are you good fit for fresher role",
+      "fit for fresher role",
+      "why fit for fresher role"
+    ],
+    "answer": "I am a good fit for a fresher role because I have a practical foundation through projects, exposure to real tools, and the mindset to learn quickly in a team environment. I am ready to contribute through execution while continuing to grow through feedback and responsibility."
+  },
+  {
+    "keywords": [
+      "tell me about your portfolio",
+      "portfolio project",
+      "can you explain your portfolio"
+    ],
+    "answer": "My portfolio is a full-stack personal website where I showcase my projects, skills, certifications, and experience. It also includes an AI-powered chatbot, live backend integration, deployment setup, and analytics tracking, so it reflects both technical implementation and product presentation."
+  },
+  {
+    "keywords": [
+      "tell me about your chatbot",
+      "chatbot project",
+      "can you explain your chatbot"
+    ],
+    "answer": "The chatbot in my portfolio is designed to answer questions about my profile, skills, projects, and experience. It uses a hybrid approach with a local knowledge base and model-driven fallback, which allowed me to work on integration logic, deployment, and real user interaction flow."
+  },
+  {
+    "keywords": [
+      "what real world problems have you solved",
+      "real world problem solving",
+      "business problem solving"
+    ],
+    "answer": "Through my projects and simulations, I have worked on real-world style problems such as scalable system design, data processing workflows, portfolio deployment, chatbot integration, and structured database modeling. I focus on solutions that are usable, maintainable, and aligned with actual needs."
+  },
+  {
+    "keywords": [
+      "can you work on enterprise systems",
+      "enterprise systems",
+      "large codebase"
+    ],
+    "answer": "Yes, I am interested in working on enterprise systems because they demand clarity, structure, and disciplined engineering. My project work and simulations have strengthened my readiness to learn within larger systems and contribute with care, consistency, and problem-focused thinking."
+  },
+  {
+    "keywords": [
+      "can you work in consulting environment",
+      "consulting environment",
+      "client facing role"
+    ],
+    "answer": "Yes, I can adapt to a consulting-oriented environment because it requires professionalism, structured thinking, communication, and responsiveness to real business needs. I understand the importance of balancing technical work with clarity, expectations, and client impact."
+  },
+  {
+    "keywords": [
+      "what domain interests you",
+      "preferred domain",
+      "which domain do you want to work in"
+    ],
+    "answer": "I am open to roles across strong learning domains, especially those where engineering creates measurable impact. Areas like full-stack product development, scalable web applications, data-driven workflows, and business-facing technical systems are particularly interesting to me."
+  },
+  {
+    "keywords": [
+      "why finance domain",
+      "interested in fintech",
+      "why fintech"
+    ],
+    "answer": "Finance and fintech interest me because they combine scale, reliability, structure, and real-world impact. I find it valuable to work in environments where engineering quality matters deeply and systems support critical user and business operations."
+  },
+  {
+    "keywords": [
+      "why consulting domain",
+      "interested in consulting",
+      "why consulting"
+    ],
+    "answer": "Consulting interests me because it exposes you to diverse real-world problems, different business contexts, and structured professional execution. I value environments where problem solving, adaptability, and client impact are all important."
+  },
+  {
+    "keywords": [
+      "what if role is outside your comfort zone",
+      "outside comfort zone",
+      "new domain role"
+    ],
+    "answer": "I am comfortable stepping outside my comfort zone when the role offers meaningful learning and responsibility. I adapt by learning quickly, asking the right questions, and building practical understanding through focused execution."
+  },
+  {
+    "keywords": [
+      "can you learn company tools quickly",
+      "learn internal tools",
+      "new tools quickly"
+    ],
+    "answer": "Yes, I am confident in learning company-specific tools quickly. My usual approach is to understand the workflow, learn through hands-on use, and ask focused questions early so I can become productive as efficiently as possible."
+  },
+  {
+    "keywords": [
+      "do you need training before joining",
+      "need extensive training",
+      "can you be productive soon"
+    ],
+    "answer": "I value onboarding and context, but I do not depend on excessive hand-holding. I usually become productive by learning fundamentals quickly, exploring the system carefully, and executing consistently with feedback where needed."
+  },
+  {
+    "keywords": [
+      "what is react",
+      "react kya hai",
+      "explain react"
+    ],
+    "answer": "React is a JavaScript library used for building fast and interactive user interfaces through reusable components. It makes it easier to manage UI updates efficiently using state, props, and a component-based architecture."
+  },
+  {
+    "keywords": [
+      "what is virtual dom",
+      "virtual dom kya hai",
+      "explain virtual dom"
+    ],
+    "answer": "The Virtual DOM is a lightweight in-memory representation of the real DOM. React compares changes in the Virtual DOM first and then updates only the necessary parts of the real DOM, which improves rendering efficiency."
+  },
+  {
+    "keywords": [
+      "difference between state and props",
+      "state vs props",
+      "props and state difference"
+    ],
+    "answer": "Props are used to pass data from a parent component to a child component, while state is used to manage data inside a component that can change over time. Props are read-only, but state is mutable through controlled updates."
+  },
+  {
+    "keywords": [
+      "what are hooks in react",
+      "react hooks",
+      "explain hooks"
+    ],
+    "answer": "Hooks are functions in React that let functional components use state, lifecycle behavior, and other React features without class components. Common examples include useState, useEffect, useRef, and useContext."
+  },
+  {
+    "keywords": [
+      "what is useeffect",
+      "useeffect hook",
+      "explain useeffect"
+    ],
+    "answer": "useEffect is a React hook used to handle side effects such as API calls, event listeners, timers, or DOM updates. It runs after render and can be controlled through its dependency array to avoid unnecessary executions."
+  },
+  {
+    "keywords": [
+      "what is usestate",
+      "usestate hook",
+      "explain usestate"
+    ],
+    "answer": "useState is a React hook used to create and manage local state inside a functional component. It returns the current state value and a setter function that updates the state and triggers a re-render."
+  },
+  {
+    "keywords": [
+      "what is react router",
+      "react routing",
+      "how routing works in react"
+    ],
+    "answer": "React Router is used to handle navigation between different views in a React application without reloading the page. It enables client-side routing so users can move through sections smoothly in a single-page application."
+  },
+  {
+    "keywords": [
+      "what is node js",
+      "node js kya hai",
+      "explain node js"
+    ],
+    "answer": "Node.js is a JavaScript runtime built on Chrome?s V8 engine that allows JavaScript to run on the server side. It is commonly used for building APIs, backend services, real-time systems, and scalable web applications."
+  },
+  {
+    "keywords": [
+      "what is express js",
+      "express js kya hai",
+      "explain express"
+    ],
+    "answer": "Express.js is a lightweight web framework for Node.js that helps build APIs and backend applications quickly. It provides routing, middleware support, request-response handling, and a simple structure for server-side logic."
+  },
+  {
+    "keywords": [
+      "what is middleware",
+      "middleware in express",
+      "explain middleware"
+    ],
+    "answer": "Middleware in Express is a function that runs between the incoming request and the final response. It is used for tasks like logging, authentication, parsing request bodies, error handling, and request validation."
+  },
+  {
+    "keywords": [
+      "what is rest api",
+      "rest api kya hai",
+      "explain rest api"
+    ],
+    "answer": "A REST API is an architectural approach for building web services that communicate through HTTP methods like GET, POST, PUT, and DELETE. It is commonly used to exchange data between frontend applications and backend systems."
+  },
+  {
+    "keywords": [
+      "difference between get and post",
+      "get vs post",
+      "http get post difference"
+    ],
+    "answer": "GET is used to retrieve data from a server, while POST is used to send data to the server for creation or processing. GET requests usually do not modify data, while POST requests often create or submit new data."
+  },
+  {
+    "keywords": [
+      "what is cors",
+      "cors kya hai",
+      "explain cors"
+    ],
+    "answer": "CORS stands for Cross-Origin Resource Sharing. It is a browser security mechanism that controls whether a frontend running on one origin is allowed to access resources from a backend running on a different origin."
+  },
+  {
+    "keywords": [
+      "what is json",
+      "json kya hai",
+      "explain json"
+    ],
+    "answer": "JSON stands for JavaScript Object Notation. It is a lightweight data-interchange format used to store and exchange structured data between systems in a readable key-value form."
+  },
+  {
+    "keywords": [
+      "what is sql",
+      "sql kya hai",
+      "explain sql"
+    ],
+    "answer": "SQL stands for Structured Query Language and is used to interact with relational databases. It helps in creating tables, inserting data, updating records, deleting records, and retrieving structured information efficiently."
+  },
+  {
+    "keywords": [
+      "difference between sql and nosql",
+      "sql vs nosql",
+      "sql nosql difference"
+    ],
+    "answer": "SQL databases are relational and use structured tables with predefined schemas, while NoSQL databases are more flexible and can store unstructured or semi-structured data. SQL is strong for relationships and consistency, while NoSQL is often used for scalability and flexible data models."
+  },
+  {
+    "keywords": [
+      "what is primary key",
+      "primary key kya hai",
+      "explain primary key"
+    ],
+    "answer": "A primary key is a column or combination of columns that uniquely identifies each row in a database table. It ensures that every record is unique and can be referenced reliably."
+  },
+  {
+    "keywords": [
+      "what is foreign key",
+      "foreign key kya hai",
+      "explain foreign key"
+    ],
+    "answer": "A foreign key is a column in one table that references the primary key of another table. It is used to create relationships between tables and maintain referential integrity in a relational database."
+  },
+  {
+    "keywords": [
+      "what is normalization",
+      "normalization in dbms",
+      "explain normalization"
+    ],
+    "answer": "Normalization is the process of organizing data in a relational database to reduce redundancy and improve consistency. It involves breaking data into related tables and defining relationships properly through keys."
+  },
+  {
+    "keywords": [
+      "what is dbms",
+      "dbms kya hai",
+      "explain dbms"
+    ],
+    "answer": "DBMS stands for Database Management System. It is software used to store, manage, organize, and retrieve data efficiently while supporting operations like querying, updating, security, and backup."
+  },
+  {
+    "keywords": [
+      "what is oops",
+      "oops kya hai",
+      "explain oops"
+    ],
+    "answer": "OOPS stands for Object-Oriented Programming System. It is a programming approach based on objects and classes, and it helps organize code in a reusable, structured, and maintainable way."
+  },
+  {
+    "keywords": [
+      "four pillars of oops",
+      "oops pillars",
+      "principles of oops"
+    ],
+    "answer": "The four pillars of OOP are encapsulation, abstraction, inheritance, and polymorphism. Together they help structure software in a way that is modular, reusable, and easier to maintain."
+  },
+  {
+    "keywords": [
+      "what is encapsulation",
+      "encapsulation kya hai",
+      "explain encapsulation"
+    ],
+    "answer": "Encapsulation means bundling data and the methods that operate on that data inside a single unit, usually a class, while controlling access to internal details. It helps protect data and improves code maintainability."
+  },
+  {
+    "keywords": [
+      "what is inheritance",
+      "inheritance kya hai",
+      "explain inheritance"
+    ],
+    "answer": "Inheritance is an OOP concept where one class acquires the properties and behavior of another class. It helps in code reuse and allows developers to build hierarchical relationships between classes."
+  },
+  {
+    "keywords": [
+      "what is polymorphism",
+      "polymorphism kya hai",
+      "explain polymorphism"
+    ],
+    "answer": "Polymorphism means the ability of an object or method to take multiple forms. In programming, it commonly allows the same interface or method name to behave differently depending on the context."
+  },
+  {
+    "keywords": [
+      "what is abstraction",
+      "abstraction kya hai",
+      "explain abstraction"
+    ],
+    "answer": "Abstraction means hiding implementation details and showing only the essential functionality. It helps reduce complexity and allows developers to interact with systems at a higher conceptual level."
+  },
+  {
+    "keywords": [
+      "what is dsa",
+      "dsa kya hai",
+      "explain dsa"
+    ],
+    "answer": "DSA stands for Data Structures and Algorithms. It focuses on organizing data efficiently and solving problems through optimized logical steps, which helps build better and more scalable software solutions."
+  },
+  {
+    "keywords": [
+      "what is array",
+      "array kya hai",
+      "explain array"
+    ],
+    "answer": "An array is a linear data structure used to store multiple values of the same type in contiguous memory locations. It allows fast access using an index and is commonly used for ordered collections of data."
+  },
+  {
+    "keywords": [
+      "what is linked list",
+      "linked list kya hai",
+      "explain linked list"
+    ],
+    "answer": "A linked list is a linear data structure made up of nodes, where each node stores data and a reference to the next node. It is dynamic in size and useful when frequent insertions or deletions are needed."
+  },
+  {
+    "keywords": [
+      "what is stack",
+      "stack kya hai",
+      "explain stack"
+    ],
+    "answer": "A stack is a linear data structure that follows the LIFO principle, which means Last In, First Out. Common operations include push, pop, and peek, and it is often used in recursion, backtracking, and expression evaluation."
+  },
+  {
+    "keywords": [
+      "what is queue",
+      "queue kya hai",
+      "explain queue"
+    ],
+    "answer": "A queue is a linear data structure that follows the FIFO principle, meaning First In, First Out. It is commonly used in scheduling, buffering, and task-processing scenarios."
+  },
+  {
+    "keywords": [
+      "what is time complexity",
+      "time complexity kya hai",
+      "explain time complexity"
+    ],
+    "answer": "Time complexity measures how the execution time of an algorithm grows as the input size increases. It helps compare efficiency and is usually expressed using Big O notation."
+  },
+  {
+    "keywords": [
+      "what is space complexity",
+      "space complexity kya hai",
+      "explain space complexity"
+    ],
+    "answer": "Space complexity measures how much memory an algorithm needs as the input size grows. It includes both auxiliary space and, in some contexts, the space taken by the input itself."
+  },
+  {
+    "keywords": [
+      "what is big o",
+      "big o notation",
+      "explain big o"
+    ],
+    "answer": "Big O notation is used to describe the upper-bound growth rate of an algorithm in terms of time or space as input size increases. It helps evaluate efficiency and compare solutions in a standardized way."
+  },
+  {
+    "keywords": [
+      "difference between authentication and authorization",
+      "authentication vs authorization",
+      "auth vs authorization"
+    ],
+    "answer": "Authentication verifies who a user is, while authorization determines what that authenticated user is allowed to access. In simple terms, authentication checks identity and authorization checks permissions."
+  },
+  {
+    "keywords": [
+      "what is jwt",
+      "jwt kya hai",
+      "explain jwt"
+    ],
+    "answer": "JWT stands for JSON Web Token. It is a compact token-based mechanism used to securely transmit user information, commonly for authentication and authorization in web applications."
+  },
+  {
+    "keywords": [
+      "what is api integration",
+      "api integration kya hai",
+      "explain api integration"
+    ],
+    "answer": "API integration means connecting one application or service with another through APIs so they can exchange data or trigger actions. It is commonly used to combine frontend interfaces with backend logic or external services."
+  },
+  {
+    "keywords": [
+      "what is sqlite",
+      "sqlite kya hai",
+      "explain sqlite"
+    ],
+    "answer": "SQLite is a lightweight relational database engine that stores the whole database in a single file. It is useful for local applications, prototypes, embedded systems, and data processing workflows where a full database server is not required."
+  },
+  {
+    "keywords": [
+      "how do you optimize frontend performance",
+      "frontend performance optimization",
+      "optimize react app"
+    ],
+    "answer": "Frontend performance can be improved by reducing unnecessary re-renders, optimizing assets, using lazy loading where needed, keeping component structure clean, and minimizing blocking work in the UI thread. The goal is to keep the interface responsive and efficient."
+  },
+  {
+    "keywords": [
+      "how do you debug issues",
+      "debugging approach",
+      "how do you solve bugs"
+    ],
+    "answer": "My debugging approach is to first reproduce the issue clearly, isolate the likely source, inspect logs or runtime behavior, verify assumptions step by step, and then test the fix carefully. I try to solve bugs systematically rather than guessing."
+  },
+  {
+    "keywords": [
+      "how do you design a project",
+      "project design approach",
+      "how do you structure a project"
+    ],
+    "answer": "I usually design a project by first understanding the main use case, breaking it into components or modules, defining data flow, choosing the right technologies, and then structuring the code so that it stays readable, reusable, and maintainable as the project grows."
+  },
+  {
+    "keywords": [
+      "tell me about your walmart project",
+      "walmart simulation project",
+      "advanced software engineering project"
+    ],
+    "answer": "In the Walmart software engineering simulation, I worked on data structures, scalable architecture design, relational database modeling, and Python-based data processing tasks. The experience helped me think in a more structured way about performance, maintainability, and business-oriented problem solving."
+  },
+  {
+    "keywords": [
+      "tell me about your deloitte project",
+      "deloitte project",
+      "deloitte simulation project"
+    ],
+    "answer": "The Deloitte experience strengthened my understanding of structured problem solving in a business context. It helped me approach technical tasks with clearer reasoning, more organized execution, and better awareness of how technology supports broader operational goals."
+  },
+  {
+    "keywords": [
+      "tell me about your jp morgan project",
+      "jp morgan project",
+      "jp morgan simulation project"
+    ],
+    "answer": "The J.P. Morgan simulation gave me exposure to enterprise-style software engineering thinking, including practical implementation and structured workflows. It helped me better understand how technical execution connects with real financial systems and operational reliability."
+  },
+  {
+    "keywords": [
+      "tell me about your python internship",
+      "python internship project",
+      "python developer internship"
+    ],
+    "answer": "During my Python Developer Internship, I gained hands-on experience with practical programming concepts, backend logic, data handling, and structured problem solving. It strengthened my confidence in building real-world logic and working more seriously with software development workflows."
+  },
+  {
+    "keywords": [
+      "tell me about your cloud study jam",
+      "cloud study jam certificate",
+      "google cloud study jam"
+    ],
+    "answer": "The Google Cloud Study Jam helped me build awareness of cloud concepts and the practical value of cloud services in application development. It improved my understanding of how modern software systems can use managed cloud resources effectively."
+  },
+  {
+    "keywords": [
+      "tell me about your coo role",
+      "campus outreach officer",
+      "coding ninjas coo"
+    ],
+    "answer": "As Campus Outreach Officer in the Coding Ninjas 10X Club, I contributed through outreach, community building, event coordination, and student engagement. This role helped strengthen my communication, collaboration, and leadership abilities alongside my technical growth."
+  },
+  {
+    "keywords": [
+      "behavioral interview",
+      "behavioral questions",
+      "behavioral round"
+    ],
+    "answer": "In a behavioral interview, he can confidently answer questions around teamwork, leadership, conflict resolution, deadlines, challenges, failures, learning mindset, adaptability, communication, and ownership by using practical examples from projects, virtual experiences, and campus responsibilities."
+  },
+  {
+    "keywords": [
+      "what is star method",
+      "star method kya hai",
+      "how to answer star method"
+    ],
+    "answer": "The STAR method stands for Situation, Task, Action, and Result. It is a structured way to answer behavioral interview questions by first explaining the context, then your responsibility, the action you took, and the outcome that followed."
+  },
+  {
+    "keywords": [
+      "tell me about a time you faced a challenge",
+      "example of challenge",
+      "challenging situation"
+    ],
+    "answer": "One challenge I faced was integrating frontend, backend, and deployment properly in my portfolio project while handling production issues and environment differences. I approached it step by step by isolating the blockers, fixing warnings and API integration issues, and validating the deployment flow until the system worked reliably in production."
+  },
+  {
+    "keywords": [
+      "tell me about a time you solved a difficult problem",
+      "difficult problem solved",
+      "problem solving example"
+    ],
+    "answer": "A good example was improving my portfolio chatbot and deployment setup while handling environment variables, backend hosting, and production build issues. I broke the problem into smaller parts, fixed each dependency carefully, and ensured the final output worked end to end instead of applying quick but unreliable fixes."
+  },
+  {
+    "keywords": [
+      "tell me about a time you showed leadership",
+      "leadership example",
+      "when did you lead"
+    ],
+    "answer": "A strong leadership example comes from my Campus Outreach Officer role in the Coding Ninjas 10X Club, where I helped drive outreach initiatives, coordinate student engagement, and support event-related activities. That role strengthened my ability to communicate clearly, take initiative, and contribute responsibly beyond purely technical work."
+  },
+  {
+    "keywords": [
+      "tell me about a time you worked in a team",
+      "teamwork example",
+      "example of team collaboration"
+    ],
+    "answer": "In collaborative environments such as campus activities and project work, I have contributed by staying clear in communication, aligning with shared goals, and focusing on execution rather than confusion. I try to understand my responsibility clearly, support the team where needed, and keep the work moving in a structured way."
+  },
+  {
+    "keywords": [
+      "tell me about a conflict you faced",
+      "conflict example",
+      "example of disagreement"
+    ],
+    "answer": "When a disagreement happens, my approach is to first understand the actual issue without reacting emotionally, then discuss it around the shared goal instead of personal opinions. I believe conflicts are best resolved through clarity, calm communication, and returning the focus to solving the problem effectively."
+  },
+  {
+    "keywords": [
+      "tell me about a failure",
+      "failure example",
+      "biggest failure"
+    ],
+    "answer": "One practical lesson from my work has been that rushed assumptions can create avoidable issues, especially in deployment or integration tasks. Instead of treating that as a setback only, I improved by validating dependencies earlier, checking environment differences more carefully, and approaching production problems with more structure."
+  },
+  {
+    "keywords": [
+      "what did you learn from failure",
+      "lesson from failure",
+      "how did failure help you"
+    ],
+    "answer": "Failure taught me the importance of validating assumptions, communicating early, and focusing on root causes instead of temporary fixes. It made me more careful, more systematic, and more committed to building solutions that are stable as well as functional."
+  },
+  {
+    "keywords": [
+      "tell me about a mistake",
+      "mistake example",
+      "biggest mistake"
+    ],
+    "answer": "A useful example is when a small mismatch in file naming or deployment configuration led to unnecessary debugging time in my project work. I corrected it by checking the full path and environment carefully, and the lesson was to verify small details early because they can have a big downstream impact."
+  },
+  {
+    "keywords": [
+      "how do you handle mistakes",
+      "handle mistakes",
+      "when you make a mistake"
+    ],
+    "answer": "When I make a mistake, I first acknowledge it clearly, understand the root cause, fix it responsibly, and then improve my process so it is less likely to happen again. I believe accountability matters more than defensiveness."
+  },
+  {
+    "keywords": [
+      "tell me about a time you took ownership",
+      "ownership example",
+      "example of ownership"
+    ],
+    "answer": "A strong ownership example is my portfolio project, where I handled frontend, backend, deployment, analytics setup, chatbot integration, and production fixes end to end. I took responsibility not only for building features but also for ensuring the final system worked properly in a live environment."
+  },
+  {
+    "keywords": [
+      "tell me about a time you worked under pressure",
+      "pressure example",
+      "high pressure situation"
+    ],
+    "answer": "A good example is handling deployment and production issues in my project while trying to keep the system usable and moving toward a working launch. I managed the pressure by prioritizing blockers, fixing them one by one, and staying focused on progress rather than panic."
+  },
+  {
+    "keywords": [
+      "tell me about a time you met a deadline",
+      "deadline example",
+      "meeting deadline example"
+    ],
+    "answer": "In project work, I have often had to prioritize quickly and push toward a stable outcome within a limited timeline, especially while preparing features and deployment fixes. My approach is to identify the most critical tasks first, complete them with focus, and avoid distractions that do not move the result forward."
+  },
+  {
+    "keywords": [
+      "tell me about a time you missed a deadline",
+      "missed deadline example",
+      "deadline miss"
+    ],
+    "answer": "If a deadline risk appears, I believe the right approach is to identify it early, communicate clearly, and focus on recovering through better prioritization. The main lesson is that transparent communication and realistic planning are just as important as effort."
+  },
+  {
+    "keywords": [
+      "tell me about a time you learned quickly",
+      "learned something quickly",
+      "quick learning example"
+    ],
+    "answer": "A practical example is learning deployment workflows, environment configuration, and production debugging while getting my portfolio fully live across Vercel and Render. I had to absorb new concepts quickly, apply them immediately, and keep refining the setup until it became stable."
+  },
+  {
+    "keywords": [
+      "tell me about a time you adapted to change",
+      "adaptability example",
+      "change management example"
+    ],
+    "answer": "I adapted to change while working on production deployment and chatbot integration because requirements evolved as real issues surfaced. Instead of resisting changes, I adjusted the implementation, updated configurations, and kept the focus on reaching a stable final result."
+  },
+  {
+    "keywords": [
+      "tell me about a time you handled feedback",
+      "feedback example",
+      "example of receiving feedback"
+    ],
+    "answer": "Whenever I receive feedback, I try to translate it into a specific improvement instead of treating it as a general comment. In project work, feedback has helped me improve deployment decisions, interface clarity, and the way I structure problem solving in a more production-oriented way."
+  },
+  {
+    "keywords": [
+      "tell me about a time you helped someone",
+      "helping teammate example",
+      "supported someone"
+    ],
+    "answer": "In collaborative settings, I try to help by simplifying technical confusion, sharing what I have already figured out, and keeping the work practical. I believe support is most useful when it reduces friction and helps the other person move forward confidently."
+  },
+  {
+    "keywords": [
+      "tell me about a time you went beyond expectations",
+      "exceeded expectations",
+      "went above and beyond"
+    ],
+    "answer": "A practical example is not stopping at building a portfolio UI, but taking it further by integrating a live backend, chatbot behavior, analytics tracking, deployment fixes, and certificates section improvements. I like to complete work in a way that makes it actually usable, not just technically present."
+  },
+  {
+    "keywords": [
+      "tell me about a time you improved a process",
+      "process improvement example",
+      "improved workflow"
+    ],
+    "answer": "I improved my workflow by becoming more systematic about deployment, environment variables, and debugging checks after facing avoidable production issues once. That change helped me move from reactive fixing to a more structured and preventive approach."
+  },
+  {
+    "keywords": [
+      "how do you prioritize tasks",
+      "task prioritization",
+      "prioritize work"
+    ],
+    "answer": "I prioritize tasks based on impact, urgency, and dependencies. I first handle the work that blocks progress for other parts of the system, then move to high-value tasks, and finally refine lower-priority improvements once the critical path is stable."
+  },
+  {
+    "keywords": [
+      "how do you handle ambiguity",
+      "ambiguous situations",
+      "work with unclear requirements"
+    ],
+    "answer": "When requirements are unclear, I try to reduce ambiguity by identifying the core objective, asking focused questions where needed, and making reasonable assumptions that move the work forward without creating unnecessary risk."
+  },
+  {
+    "keywords": [
+      "how do you communicate with team",
+      "communication style",
+      "team communication"
+    ],
+    "answer": "My communication style is clear, respectful, and task-focused. I prefer to be straightforward about progress, blockers, and expectations so that collaboration stays practical and misunderstandings stay minimal."
+  },
+  {
+    "keywords": [
+      "how do you respond when you don't know answer",
+      "if you dont know answer",
+      "when you dont know something"
+    ],
+    "answer": "If I do not know something, I am honest about it and then move quickly to understand it properly. I prefer clarity over pretending, and I usually learn by breaking the topic down, checking reliable sources, and applying it practically as soon as possible."
+  },
+  {
+    "keywords": [
+      "how do you handle rejection from company",
+      "company rejection",
+      "rejected by employer"
+    ],
+    "answer": "I handle rejection by treating it as part of the process and focusing on what I can improve from the experience. It helps me refine my preparation, sharpen my communication, and come back stronger rather than losing motivation."
+  },
+  {
+    "keywords": [
+      "give self introduction for hr",
+      "self introduction for hr round",
+      "hr intro"
+    ],
+    "answer": "I am Abhiranjan Tiwary, a full-stack developer with hands-on experience in React, Node.js, project deployment, chatbot integration, and practical software engineering problem solving. I enjoy building real-world solutions, learning quickly, and contributing through structured execution, which is why I am actively looking for opportunities where I can grow and add value professionally."
+  },
+  {
+    "keywords": [
+      "give self introduction for technical round",
+      "technical round intro",
+      "self intro for technical interview"
+    ],
+    "answer": "I am Abhiranjan Tiwary, and my background is centered around full-stack web development with practical work in React, Node.js, APIs, deployment, and project-based problem solving. Along with development, I have also worked on structured learning through virtual experience programs, system thinking, and end-to-end implementation in my portfolio and related projects."
+  },
+  {
+    "keywords": [
+      "give self introduction for internship",
+      "internship self introduction",
+      "intro for internship interview"
+    ],
+    "answer": "I am Abhiranjan Tiwary, a learner-focused developer with hands-on project experience in web development, deployment, and technical problem solving. I am looking for an internship opportunity where I can apply what I have built so far, learn from experienced professionals, and grow by contributing to real work."
+  },
+  {
+    "keywords": [
+      "give self introduction for fresher",
+      "fresher self introduction",
+      "intro for fresher role"
+    ],
+    "answer": "I am Abhiranjan Tiwary, a fresher with practical experience in building projects using React, Node.js, backend integration, deployment, and structured technical learning. I focus on real execution, strong adaptability, and continuous improvement, and I am looking for a role where I can contribute while growing professionally."
+  },
+  {
+    "keywords": [
+      "tell me about a decision you made",
+      "decision making example",
+      "example of decision"
+    ],
+    "answer": "A practical example of decision making was choosing a simple but reliable implementation path during deployment and chatbot integration instead of adding unnecessary complexity. I prefer decisions that improve stability, clarity, and long-term maintainability rather than solutions that only look advanced on the surface."
+  },
+  {
+    "keywords": [
+      "tell me about a time you took initiative",
+      "initiative example",
+      "example of initiative"
+    ],
+    "answer": "A good initiative example is proactively improving my portfolio beyond basic requirements by adding chatbot support, analytics, deployment optimization, and certificates display. That came from my own intention to make the project more complete, practical, and recruiter-friendly."
+  },
+  {
+    "keywords": [
+      "what kind of work environment do you prefer",
+      "preferred work environment",
+      "work environment preference"
+    ],
+    "answer": "I prefer a work environment that values clarity, learning, ownership, and constructive feedback. I work best where expectations are professional, collaboration is healthy, and there is room to improve through real responsibilities."
+  },
+  {
+    "keywords": [
+      "how do you stay organized",
+      "stay organized",
+      "organization style"
+    ],
+    "answer": "I stay organized by breaking work into smaller tasks, prioritizing what matters most, and keeping execution focused instead of trying to solve everything at once. This helps me stay clear, reduce mistakes, and maintain steady progress."
+  },
+  {
+    "keywords": [
+      "what do you do when blocked",
+      "if you get blocked",
+      "how do you handle blockers"
+    ],
+    "answer": "When I get blocked, I first isolate the exact issue, test assumptions one by one, and look for the most direct way to restore progress. If needed, I communicate the blocker clearly instead of staying stuck silently, because momentum matters in execution."
+  },
+  {
+    "keywords": [
+      "how do you handle repetitive work",
+      "repetitive tasks",
+      "boring work"
+    ],
+    "answer": "I treat repetitive work professionally because consistency matters in real roles, not just exciting tasks. I try to stay disciplined, look for patterns that can improve efficiency, and keep the focus on completing the work accurately and responsibly."
   }
 ]

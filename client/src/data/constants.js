@@ -333,7 +333,7 @@ export const certificates = [
     description:
       "Completed enterprise-style software engineering tasks across data structures, system design, database modeling, and data processing for retail-focused business workflows.",
     skills: ["Java", "Python", "SQL", "System Design", "Database Design"],
-    image: "https://www.vusion.com/wp-content/uploads/2024/12/Image-de-retombee-Site-Web-9-768x511.png.webp",
+    image: "/certificates/advanced-software-engineering-job-certificate.jpg",
     link: "https://drive.google.com/file/d/1ddeZky6uR2rpxGhW67XdLyEwltOCbcFt/view?usp=drive_link"
   },
   {
@@ -351,7 +351,7 @@ export const certificates = [
     "Public Speaking",
     "Developer Community Building",
   ],
-  image: "", 
+   image: "/certificates/core-team-Tenior-certificate.jpg",
   link: "https://drive.google.com/file/d/1VbGLrn7n9PwxsO2OgNkh9H2oIxMSwFtw/view?usp=drive_link"
 },  
 {
@@ -369,8 +369,8 @@ export const certificates = [
     "Cloud Storage",
     "Problem Solving",
   ],
-  image: "https://drive.google.com/file/d/12dyMn1BrnOMB-iwHVMVAy15T0Yd_ONgf/view?usp=drive_link",
-  link: ""
+  image: "/certificates/cloud-study-jams-completion-certificate.jpg",
+  link: "https://drive.google.com/file/d/12dyMn1BrnOMB-iwHVMVAy15T0Yd_ONgf/view?usp=drive_link"
 },
 {
   id: 3,
@@ -386,7 +386,7 @@ export const certificates = [
     "Problem Solving",
     "Debugging"
   ],
-  image: "/certificates/python-internship.png",
+  image: "/certificates/45-day-internship-completion-certificate.jpg",
   link: "https://drive.google.com/file/d/18oC-VMRADFebNLgbtBWocJXvZcwgC0kP/view?usp=drive_link"
 },
 {
@@ -421,7 +421,7 @@ export const certificates = [
     "Event Coordination",
     "Communication"
   ],
-  image: "/certificates/coo-certificate.png",
+  image: "/certificates/coo-coding-ninjas-10x-club-certificate.jpg",
   link: "https://drive.google.com/file/d/139Mh3j3XYmTWZ0LjpdBjj28sjkj-FGt-/view?usp=drive_link"
 },
 {
@@ -439,8 +439,27 @@ export const certificates = [
     "Analytical Thinking",
     "Consulting Fundamentals"
   ],
-  image: "",
+   image: "/certificates/deloitte-certificate.jpg",
   link: "https://drive.google.com/file/d/1keJMkogFEjVov2jliwVT5P5DjhaNWNU1/view?usp=drive_link"
+},
+{
+  id: 7,
+  title: "Developer and Technology Job Simulation",
+  issuer: "Accenture (Forage)",
+  date: "April 2025",
+  description:
+    "Completed Accenture’s Developer and Technology Job Simulation via Forage, gaining hands-on experience in real-world software development practices. Worked on tasks involving software development lifecycle (SDLC), Agile and Waterfall methodologies, debugging, software testing (STLC), and algorithmic thinking to solve practical technology challenges.",
+  skills: [
+    "Software Development Lifecycle (SDLC)",
+    "Agile Methodology",
+    "Waterfall Model",
+    "Debugging",
+    "Software Testing (STLC)",
+    "Algorithmic Thinking",
+    "Problem Solving"
+  ],
+  image: "/certificates/Developer-and-Technology-Job-Simulation-certificate.jpg",
+  link: "https://drive.google.com/file/d/1bEMbrQaBH_G3KANQ3QU9w7ft4KNRU23G/view?usp=drive_link"
 },
 ];
 

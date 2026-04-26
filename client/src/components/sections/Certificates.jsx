@@ -69,25 +69,42 @@ const Card = styled.div`
 
 const CertificatePreview = styled.div`
   width: 100%;
-  height: 180px;
+  height: 220px;
   border-radius: 12px;
   overflow: hidden;
-  background: linear-gradient(135deg, rgba(133, 76, 230, 0.22), rgba(230, 0, 122, 0.18));
+  background: #ffffff;
   border: 1px solid ${({ theme }) => theme.primary + 40};
   display: flex;
   align-items: center;
   justify-content: center;
-  color: ${({ theme }) => theme.text_primary};
+  color: #1f2232;
   font-size: 18px;
   font-weight: 600;
   text-align: center;
-  padding: 16px;
+  padding: 10px;
+  box-sizing: border-box;
+
+  @media (max-width: 768px) {
+    height: 190px;
+    padding: 8px;
+  }
+`;
+
+const PreviewLink = styled.a`
+  width: 100%;
+  display: block;
+  text-decoration: none;
+  border-radius: 12px;
+  overflow: hidden;
 `;
 
 const PreviewImage = styled.img`
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
+  object-position: center;
+  background: #ffffff;
+  transition: transform 0.3s ease;
 `;
 
 const CertificateTitle = styled.h3`
@@ -146,23 +163,38 @@ const CertificateCard = ({ certificate }) => {
   const hasValidImage = Boolean(certificate.image) && !imageFailed;
   const hasLink = Boolean(certificate.link);
 
+  const previewContent = (
+    <CertificatePreview>
+      {hasValidImage ? (
+        <PreviewImage
+          src={certificate.image}
+          alt={certificate.title}
+          onError={() => setImageFailed(true)}
+        />
+      ) : (
+        <span>{certificate.issuer}</span>
+      )}
+    </CertificatePreview>
+  );
+
   return (
     <Card>
-      <CertificatePreview>
-        {hasValidImage ? (
-          <PreviewImage
-            src={certificate.image}
-            alt={certificate.title}
-            onError={() => setImageFailed(true)}
-          />
-        ) : (
-          <span>{certificate.issuer}</span>
-        )}
-      </CertificatePreview>
+      {hasLink ? (
+        <PreviewLink
+          href={certificate.link}
+          target="_blank"
+          rel="noreferrer"
+          aria-label={`View ${certificate.title}`}
+        >
+          {previewContent}
+        </PreviewLink>
+      ) : (
+        previewContent
+      )}
 
       <CertificateTitle>{certificate.title}</CertificateTitle>
       <CertificateMeta>
-        {certificate.issuer} ? {certificate.date}
+        {certificate.issuer} - {certificate.date}
       </CertificateMeta>
       <CertificateDescription>{certificate.description}</CertificateDescription>
 
