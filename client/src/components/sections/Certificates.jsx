@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import styled from "styled-components";
 import { certificates } from "../../data/constants";
 
@@ -141,6 +141,46 @@ const ViewButton = styled.a`
   }
 `;
 
+const CertificateCard = ({ certificate }) => {
+  const [imageFailed, setImageFailed] = useState(false);
+  const hasValidImage = Boolean(certificate.image) && !imageFailed;
+  const hasLink = Boolean(certificate.link);
+
+  return (
+    <Card>
+      <CertificatePreview>
+        {hasValidImage ? (
+          <PreviewImage
+            src={certificate.image}
+            alt={certificate.title}
+            onError={() => setImageFailed(true)}
+          />
+        ) : (
+          <span>{certificate.issuer}</span>
+        )}
+      </CertificatePreview>
+
+      <CertificateTitle>{certificate.title}</CertificateTitle>
+      <CertificateMeta>
+        {certificate.issuer} ? {certificate.date}
+      </CertificateMeta>
+      <CertificateDescription>{certificate.description}</CertificateDescription>
+
+      <TagContainer>
+        {certificate.skills.map((skill, index) => (
+          <Tag key={`${certificate.id}-skill-${index}`}>{skill}</Tag>
+        ))}
+      </TagContainer>
+
+      {hasLink && (
+        <ViewButton href={certificate.link} target="_blank" rel="noreferrer">
+          View Certificate
+        </ViewButton>
+      )}
+    </Card>
+  );
+};
+
 const Certificates = () => {
   return (
     <Container id="Certificates">
@@ -157,42 +197,7 @@ const Certificates = () => {
 
         <CardContainer>
           {certificates.map((certificate) => (
-            <Card key={certificate.id}>
-              <CertificatePreview>
-                {certificate.image ? (
-                  <PreviewImage
-                    src={certificate.image}
-                    alt={certificate.title}
-                  />
-                ) : (
-                  <span>{certificate.issuer}</span>
-                )}
-              </CertificatePreview>
-
-              <CertificateTitle>{certificate.title}</CertificateTitle>
-              <CertificateMeta>
-                {certificate.issuer} • {certificate.date}
-              </CertificateMeta>
-              <CertificateDescription>
-                {certificate.description}
-              </CertificateDescription>
-
-              <TagContainer>
-                {certificate.skills.map((skill, index) => (
-                  <Tag key={`${certificate.id}-skill-${index}`}>{skill}</Tag>
-                ))}
-              </TagContainer>
-
-              {certificate.link && (
-                <ViewButton
-                  href={certificate.link}
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  View Certificate
-                </ViewButton>
-              )}
-            </Card>
+            <CertificateCard key={certificate.id} certificate={certificate} />
           ))}
         </CardContainer>
       </Wrapper>

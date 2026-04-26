@@ -333,8 +333,8 @@ export const certificates = [
     description:
       "Completed enterprise-style software engineering tasks across data structures, system design, database modeling, and data processing for retail-focused business workflows.",
     skills: ["Java", "Python", "SQL", "System Design", "Database Design"],
-    image: "https://drive.google.com/file/d/1ddeZky6uR2rpxGhW67XdLyEwltOCbcFt/view?usp=drive_link",
-    link: ""
+    image: "https://www.vusion.com/wp-content/uploads/2024/12/Image-de-retombee-Site-Web-9-768x511.png.webp",
+    link: "https://drive.google.com/file/d/1ddeZky6uR2rpxGhW67XdLyEwltOCbcFt/view?usp=drive_link"
   },
   {
   id: 1,
@@ -378,18 +378,16 @@ export const certificates = [
   issuer: "I3 Infosoft",
   date: "2025",
   description:
-    "Completed an offline Python Developer internship, gaining hands-on experience in building real-world applications and working with core programming concepts. Developed problem-solving skills, implemented backend logic, and worked on data handling, automation, and basic application development using Python.",
+    "Completed an offline Python Developer internship, gaining hands-on experience in building real-world applications and working with core programming concepts.",
   skills: [
     "Python",
     "OOP",
     "Data Handling",
-    "File Handling",
-    "Basic Backend Development",
     "Problem Solving",
     "Debugging"
   ],
-  image: "https://drive.google.com/file/d/18oC-VMRADFebNLgbtBWocJXvZcwgC0kP/view?usp=drive_link",
-  link: ""
+  image: "/certificates/python-internship.png",
+  link: "https://drive.google.com/file/d/18oC-VMRADFebNLgbtBWocJXvZcwgC0kP/view?usp=drive_link"
 },
 {
   id: 4,
@@ -397,35 +395,34 @@ export const certificates = [
   issuer: "J.P. Morgan Chase & Co. (Forage)",
   date: "2025",
   description:
-    "Completed the J.P. Morgan Software Engineering Virtual Experience Program, gaining hands-on exposure to real-world financial technology workflows. Worked on practical tasks involving system design, data handling, and application development while strengthening problem-solving and analytical skills in a production-like environment.",
+    "Completed the J.P. Morgan Software Engineering Virtual Experience Program, gaining hands-on exposure to real-world financial technology workflows.",
   skills: [
     "Software Engineering",
     "System Design",
     "Problem Solving",
     "Data Analysis",
     "Debugging",
-    "Financial Technology (FinTech)"
+    "FinTech"
   ],
-  image: "https://drive.google.com/file/d/1Y8d-iadlyZcSwn4hAFMNdpmpRfh7vj02/view?usp=drive_link",
-  link: ""
+  image: "/certificates/jp-morgan.png",
+  link: "https://drive.google.com/file/d/1Y8d-iadlyZcSwn4hAFMNdpmpRfh7vj02/view?usp=drive_link"
 },
 {
   id: 5,
   title: "Campus Outreach Officer (COO)",
-  issuer: "Coding Ninjas – 10X Club",
+  issuer: "Coding Ninjas - 10X Club",
   date: "2025",
   description:
-    "Selected as Campus Outreach Officer (COO) for the 10X Club at Coding Ninjas, responsible for leading outreach initiatives, building student engagement, and expanding the tech community on campus. Coordinated events, collaborated with teams, and promoted learning opportunities to drive participation and growth.",
+    "Selected as Campus Outreach Officer for the 10X Club at Coding Ninjas, responsible for leading outreach initiatives and expanding student engagement.",
   skills: [
     "Leadership",
+    "Outreach",
     "Community Building",
-    "Event Management",
-    "Public Relations",
-    "Team Collaboration",
+    "Event Coordination",
     "Communication"
   ],
-  image: "https://drive.google.com/file/d/139Mh3j3XYmTWZ0LjpdBjj28sjkj-FGt-/view?usp=drive_link",
-  link: ""
+  image: "/certificates/coo-certificate.png",
+  link: "https://drive.google.com/file/d/139Mh3j3XYmTWZ0LjpdBjj28sjkj-FGt-/view?usp=drive_link"
 },
 {
   id: 6,
@@ -442,8 +439,8 @@ export const certificates = [
     "Analytical Thinking",
     "Consulting Fundamentals"
   ],
-  image: "https://drive.google.com/file/d/1keJMkogFEjVov2jliwVT5P5DjhaNWNU1/view?usp=drive_link",
-  link: ""
+  image: "",
+  link: "https://drive.google.com/file/d/1keJMkogFEjVov2jliwVT5P5DjhaNWNU1/view?usp=drive_link"
 },
 ];
 
