@@ -143,6 +143,11 @@ export const skills = [
           "https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png",
       },
       {
+        name: "Java",
+        image:
+          "https://www.google.com/imgres?q=java&imgurl=https%3A%2F%2Fubiqum.com%2Fwp-content%2Fuploads%2F2024%2F06%2Faprender-java-e1726558855828.jpg&imgrefurl=https%3A%2F%2Fubiqum.com%2Fen%2Flearn-java%2F&docid=tvI1Eg6YFxKbaM&tbnid=KiWGBUQ5rlpHQM&vet=12ahUKEwjphcG5v4uUAxWgxzgGHbz7AUIQnPAOegQIEBAB..i&w=1980&h=1168&hcb=2&ved=2ahUKEwjphcG5v4uUAxWgxzgGHbz7AUIQnPAOegQIEBAB",
+      },
+      {
         name: "GitHub",
         image:
           "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
@@ -211,6 +216,25 @@ export const experiences = [
     ],
   },
   {
+  id: 2,
+  img: "https://media.licdn.com/dms/image/D4E0BAQG7zQp1WalmartLogo/0/1680000000000?e=2147483647&v=beta&t=walmart", 
+  role: "Advanced Software Engineering Virtual Experience",
+  company: "Walmart USA (Forage)",
+  date: "April 2026",
+  desc: "Completed a hands-on software engineering simulation focused on real-world system design, data processing, and backend development challenges. Built efficient data structures, designed scalable architectures, modeled relational databases, and developed data pipelines to process and integrate large-scale shipping data.",
+  skills: [
+    "Java",
+    "Python",
+    "SQL",
+    "Data Structures",
+    "System Design",
+    "Database Design",
+    "UML",
+    "ERD",
+    "SQLite",
+  ],
+},
+  {
     id: 3,
     img: "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/events/BuildWithIcon_aWEE2Y3.png",
     role: "GDG Team Head",
@@ -252,7 +276,7 @@ export const experiences = [
     ],
   },
   {
-  id: 5,
+  id: 6,
   img: "https://institute.careerguide.com/wp-content/uploads/2022/07/28168173_183561045585476_3493559331387752147_n.png",
   role: "Mess Committee President",
   company: "Quantum University",
