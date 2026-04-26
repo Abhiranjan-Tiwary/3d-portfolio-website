@@ -404,7 +404,7 @@ export const certificates = [
     "Debugging",
     "FinTech"
   ],
-  image: "/certificates/jp-morgan.png",
+   image: "/certificates/jp-morgan.png.jpg",
   link: "https://drive.google.com/file/d/1Y8d-iadlyZcSwn4hAFMNdpmpRfh7vj02/view?usp=drive_link"
 },
 {
